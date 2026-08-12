@@ -5,6 +5,7 @@ country: USA
 editions:
   - 1963
   - 1967
+editions_label: test
 photo: images/uploads/images.jpg
 gallery: []
 films:
