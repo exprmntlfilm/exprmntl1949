@@ -1,0 +1,10 @@
+{
+  "tags": "films",
+  "layout": "layouts/film.njk",
+  "root": "../",
+  "section": "films",
+  "eleventyComputed": {
+    "permalink": "films/{{ slug }}.html",
+    "title": "{{ title }}"
+  }
+}

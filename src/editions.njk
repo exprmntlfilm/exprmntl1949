@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+root: ""
+section: "editions"
+title: "Editions"
+eleventyComputed:
+  permalink: "editions.html"
+---
+<main>
+  <section class="shell page-head">
+    <p class="eyebrow">Editions</p>
+    <h1>Five editions, five moments in the history of avant-garde film</h1>
+    <p class="body-copy">EXPRMNTL was never an annual event. It happened only five times in twenty-five years, always between Christmas and New Year, always in the same vacant casino in Knokke-le-Zoute. Each edition below is a placeholder for that year's programme, poster and surviving documents.</p>
+  </section>
+
+  {% for ed in collections.editionsSorted %}{{ ed | editionSection("") | safe }}{% endfor %}
+</main>

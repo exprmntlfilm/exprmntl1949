@@ -1,0 +1,16 @@
+---
+title: Spook Sport
+slug: spook-sport
+year: '1940'
+edition: 1949
+cat_num: cat-065
+directors:
+- mary-ellen-bute
+- ted-nemeth
+still: ''
+gallery: []
+resources:
+- name: Film card
+  file: ''
+---
+Completed in 1940. Screened in competition at EXPRMNTL 1.

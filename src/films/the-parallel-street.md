@@ -1,0 +1,15 @@
+---
+title: The Parallel Street
+slug: the-parallel-street
+year: '1962'
+edition: 1963
+cat_num: cat-292
+directors:
+- ferdinand-kittl
+still: ''
+gallery: []
+resources:
+- name: Film card
+  file: ''
+---
+Completed in 1962. Screened in competition at EXPRMNTL 3.

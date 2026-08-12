@@ -1,0 +1,15 @@
+---
+title: Banjo feedback
+slug: banjo-feedback
+year: '1974'
+edition: 1974
+cat_num: cat-412
+directors:
+- tobe-j-carey
+still: ''
+gallery: []
+resources:
+- name: Film card
+  file: ''
+---
+Completed in 1974. Screened in competition at EXPRMNTL 5.

@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+root: ""
+section: "people"
+title: "People"
+eleventyComputed:
+  permalink: "people.html"
+---
+{% set groups = collections.peopleSorted | peopleGroups("") %}
+<main>
+  <section class="shell page-head">
+    <p class="eyebrow">People</p>
+    <h1>Figures who passed through Knokke</h1>
+    <p class="body-copy">Founders, jurors, and the {{ collections.peopleSorted.length }} filmmakers whose work is documented across the five editions, drawn from the surviving festival records. Portraits and biographical notes are still being added.</p>
+  </section>
+  <section class="shell section people-section" aria-labelledby="people-directory-title">
+    <div class="section-head people-directory-head">
+      <h2 id="people-directory-title">Directory</h2>
+      <p class="section-note">Listed alphabetically by surname</p>
+    </div>
+    <nav class="people-index" aria-label="Alphabetical index">
+      {% for g in groups %}<a href="#{{ g.letter | lower }}">{{ g.letter }}</a>{% endfor %}
+    </nav>
+    <div class="people-directory">
+      {% for g in groups %}
+      <section class="people-group" id="{{ g.letter | lower }}" aria-labelledby="letter-{{ g.letter | lower }}">
+        <h3 id="letter-{{ g.letter | lower }}">{{ g.letter }}</h3>
+        {% for row in g.rows %}{{ row | safe }}{% endfor %}
+      </section>
+      {% endfor %}
+    </div>
+  </section>
+</main>

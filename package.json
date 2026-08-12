@@ -1,0 +1,12 @@
+{
+  "name": "exprmntl-site",
+  "version": "1.0.0",
+  "description": "EXPRMNTL — digital archive of the Knokke-le-Zoute experimental film festival",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

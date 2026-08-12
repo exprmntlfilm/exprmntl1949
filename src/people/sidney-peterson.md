@@ -1,0 +1,18 @@
+---
+name: Sidney Peterson
+slug: sidney-peterson
+country: USA
+editions:
+- 1949
+photo: ''
+gallery: []
+films:
+- the-potted-psalm
+- clinic-of-stumble
+resources:
+- name: Film scripts / notes
+  file: ''
+- name: Press clippings
+  file: ''
+---
+A filmmaker from USA, featured in competition at EXPRMNTL 1 (1949). 2 films in the EXPRMNTL collection, listed below.

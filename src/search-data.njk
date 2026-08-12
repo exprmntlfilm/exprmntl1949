@@ -1,0 +1,5 @@
+---
+eleventyExcludeFromCollections: true
+permalink: "search-data.js"
+---
+{{ collections.filmsSorted | searchIndexJs(collections.peopleSorted) | safe }}

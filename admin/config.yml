@@ -1,0 +1,126 @@
+backend:
+  name: github
+  repo: SEU-USUARIO/NOME-DO-REPOSITORIO   # TODO: troque pelo seu usuário/repo do GitHub
+  branch: main
+  base_url: https://SUBSTITUA.decapbridge.com   # TODO: cole o endereço que o DecapBridge te der
+  auth_endpoint: auth
+
+media_folder: "src/images/uploads"
+public_folder: "images/uploads"
+
+locale: "pt"
+
+collections:
+  - name: "films"
+    label: "Filmes"
+    label_singular: "Filme"
+    folder: "src/films"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}} ({{year}}) — Edição {{edition}}"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Identificador (slug)", name: "slug", widget: "string", hint: "Usado na URL. Não altere depois de criado, ou o link do filme muda."}
+      - {label: "Ano", name: "year", widget: "string", required: false, hint: "Ex: 1958, ou 'n. d.' se desconhecido"}
+      - label: "Edição do festival"
+        name: "edition"
+        widget: "select"
+        options: [1949, 1958, 1963, 1967, 1974]
+      - {label: "Número de catálogo", name: "cat_num", widget: "string", required: false}
+      - label: "Diretor(es)"
+        name: "directors"
+        widget: "relation"
+        collection: "people"
+        search_fields: ["name"]
+        value_field: "{{slug}}"
+        display_fields: ["name"]
+        multiple: true
+        hint: "Se o filme tem mais de um diretor, adicione todos aqui — nunca crie a página do filme duas vezes."
+      - {label: "Still (imagem de capa)", name: "still", widget: "image", required: false, hint: "Aparece na página do filme, no catálogo e nas páginas dos diretores."}
+      - label: "Fotos adicionais (galeria)"
+        name: "gallery"
+        widget: "list"
+        field: {label: "Foto", name: "image", widget: "image"}
+        required: false
+        hint: "Com 1+ fotos aqui (além do still), o recurso 'Film stills' vira um botão de galeria sozinho."
+      - label: "Recursos (documentos)"
+        name: "resources"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Nome do documento", name: "name", widget: "string"}
+          - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}
+      - {label: "Sinopse", name: "body", widget: "markdown", required: false}
+
+  - name: "people"
+    label: "Diretores"
+    label_singular: "Diretor"
+    folder: "src/people"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{name}} — {{country}}"
+    fields:
+      - {label: "Nome", name: "name", widget: "string"}
+      - {label: "Identificador (slug)", name: "slug", widget: "string", hint: "Usado na URL. Não altere depois de criado."}
+      - {label: "País", name: "country", widget: "string", required: false}
+      - label: "Edições em que participou"
+        name: "editions"
+        widget: "select"
+        multiple: true
+        options: [1949, 1958, 1963, 1967, 1974]
+      - {label: "Papel (opcional)", name: "role", widget: "string", required: false, hint: "Deixe em branco para 'Filmmaker'. Use para casos como 'Founder & director'."}
+      - {label: "Título de destaque (opcional)", name: "role_heading", widget: "string", required: false, hint: "Substitui o título automático ('Filmmaker at EXPRMNTL...') por um texto seu."}
+      - {label: "Texto de edições (opcional)", name: "editions_label", widget: "string", required: false, hint: "Ex: 'All five editions'. Deixe em branco para o padrão automático."}
+      - {label: "Retrato (imagem de capa)", name: "photo", widget: "image", required: false}
+      - label: "Fotos adicionais (galeria)"
+        name: "gallery"
+        widget: "list"
+        field: {label: "Foto", name: "image", widget: "image"}
+        required: false
+        hint: "Com 1+ fotos aqui (além do retrato), o recurso 'Portrait photographs' vira um botão de galeria sozinho."
+      - label: "Filmes deste diretor"
+        name: "films"
+        widget: "relation"
+        collection: "films"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        multiple: true
+        required: false
+      - label: "Recursos (documentos)"
+        name: "resources"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Nome do documento", name: "name", widget: "string"}
+          - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}
+      - {label: "Biografia", name: "body", widget: "markdown", required: false}
+
+  - name: "editions"
+    label: "Edições"
+    label_singular: "Edição"
+    folder: "src/editions"
+    create: false
+    slug: "{{year}}"
+    summary: "{{label}} ({{year}})"
+    fields:
+      - {label: "Ano", name: "year", widget: "number", value_type: "int"}
+      - {label: "Rótulo", name: "label", widget: "string", hint: "Ex: EXPRMNTL 1"}
+      - {label: "Texto de apresentação", name: "blurb", widget: "text"}
+      - {label: "Pôster (imagem de capa)", name: "poster", widget: "image", required: false}
+      - label: "Pôsteres alternativos (galeria)"
+        name: "poster_gallery"
+        widget: "list"
+        field: {label: "Pôster", name: "image", widget: "image"}
+        required: false
+      - label: "Fotos gerais da edição (galeria)"
+        name: "gallery"
+        widget: "list"
+        field: {label: "Foto", name: "image", widget: "image"}
+        required: false
+      - label: "Recursos (documentos)"
+        name: "resources"
+        widget: "list"
+        fields:
+          - {label: "Nome do documento", name: "name", widget: "string"}
+          - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if full_title %}{{ full_title }}{% else %}{{ title }}{% if title %} — {% endif %}EXPRMNTL{% endif %}</title>
+<link rel="stylesheet" href="{{ root }}style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="shell header-row">
+    <a href="{{ root }}index.html" class="logotype">exprmntl</a>
+    <button class="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">Menu</button>
+    <nav class="primary-nav" aria-label="Primary">
+      <ul>
+        <li><a href="{{ root }}editions.html"{% if section == 'editions' %} class="active"{% endif %}>Editions</a></li>
+        <li><a href="{{ root }}films.html"{% if section == 'films' %} class="active"{% endif %}>Films</a></li>
+        <li><a href="{{ root }}people.html"{% if section == 'people' %} class="active"{% endif %}>People</a></li>
+        <li><a href="{{ root }}stories.html"{% if section == 'stories' %} class="active"{% endif %}>Stories</a></li>
+        <li><a href="{{ root }}about.html"{% if section == 'about' %} class="active"{% endif %}>About</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+{{ content | safe }}
+
+<footer class="site-footer shell">
+  <div class="footer-col">
+    <p class="footer-title">EXPRMNTL</p>
+    <p class="footer-legend">A digital collection in progress.</p>
+  </div>
+  <div class="footer-col">
+    <p class="footer-title">Explore</p>
+    <a href="{{ root }}editions.html">Editions</a>
+    <a href="{{ root }}films.html">Films</a>
+    <a href="{{ root }}people.html">People</a>
+    <a href="{{ root }}stories.html">Stories</a>
+  </div>
+</footer>
+
+<script src="{{ root }}search-data.js"></script>
+<script src="{{ root }}script.js"></script>
+</body>
+</html>

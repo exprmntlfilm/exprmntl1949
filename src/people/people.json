@@ -1,0 +1,10 @@
+{
+  "tags": "people",
+  "layout": "layouts/person.njk",
+  "root": "../",
+  "section": "people",
+  "eleventyComputed": {
+    "permalink": "people/{{ slug }}.html",
+    "title": "{{ name }}"
+  }
+}
