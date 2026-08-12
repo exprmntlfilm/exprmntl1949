@@ -4,6 +4,7 @@ backend:
   branch: main
   identity_url: https://auth.decapbridge.com/sites/2b427b3e-f680-4870-8274-eb0ce795d53a
   gateway_url: https://gateway.decapbridge.com
+  use_graphql: true
 
 media_folder: "src/images/uploads"
 public_folder: "images/uploads"
@@ -25,7 +26,12 @@ collections:
       - label: "Edição do festival"
         name: "edition"
         widget: "select"
-        options: [1949, 1958, 1963, 1967, 1974]
+        options:
+          - {label: "1949", value: "1949"}
+          - {label: "1958", value: "1958"}
+          - {label: "1963", value: "1963"}
+          - {label: "1967", value: "1967"}
+          - {label: "1974", value: "1974"}
       - {label: "Número de catálogo", name: "cat_num", widget: "string", required: false}
       - label: "Diretor(es)"
         name: "directors"
@@ -35,7 +41,8 @@ collections:
         value_field: "{{slug}}"
         display_fields: ["name"]
         multiple: true
-        hint: "Se o filme tem mais de um diretor, adicione todos aqui — nunca crie a página do filme duas vezes."
+        options_length: 100
+        hint: "Se o filme tem mais de um diretor, adicione todos aqui — nunca crie a página do filme duas vezes. Se a busca não filtrar direito, tenta digitar o nome completo, ou desça a lista (fica em ordem alfabética)."
       - {label: "Still (imagem de capa)", name: "still", widget: "image", required: false, hint: "Aparece na página do filme, no catálogo e nas páginas dos diretores."}
       - label: "Fotos adicionais (galeria)"
         name: "gallery"
@@ -67,7 +74,12 @@ collections:
         name: "editions"
         widget: "select"
         multiple: true
-        options: [1949, 1958, 1963, 1967, 1974]
+        options:
+          - {label: "1949", value: "1949"}
+          - {label: "1958", value: "1958"}
+          - {label: "1963", value: "1963"}
+          - {label: "1967", value: "1967"}
+          - {label: "1974", value: "1974"}
       - {label: "Papel (opcional)", name: "role", widget: "string", required: false, hint: "Deixe em branco para 'Filmmaker'. Use para casos como 'Founder & director'."}
       - {label: "Título de destaque (opcional)", name: "role_heading", widget: "string", required: false, hint: "Substitui o título automático ('Filmmaker at EXPRMNTL...') por um texto seu."}
       - {label: "Texto de edições (opcional)", name: "editions_label", widget: "string", required: false, hint: "Ex: 'All five editions'. Deixe em branco para o padrão automático."}
@@ -87,6 +99,7 @@ collections:
         display_fields: ["title"]
         multiple: true
         required: false
+        options_length: 100
       - label: "Recursos (documentos)"
         name: "resources"
         widget: "list"
@@ -124,3 +137,4 @@ collections:
         fields:
           - {label: "Nome do documento", name: "name", widget: "string"}
           - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}
+
