@@ -2,11 +2,10 @@
 title: Listen to Britain
 slug: listen-to-britain
 year: '1942'
-edition: '1949'
+edition: 1949
 cat_num: cat-046
-edition_label: ''
 directors:
-- Humphrey Jennings
+- humphrey-jennings
 still: ''
 gallery: []
 resources:

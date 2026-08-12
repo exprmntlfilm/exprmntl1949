@@ -3,11 +3,11 @@ name: Marc Lobet
 slug: marc-lobet
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Start
+- start
 resources:
 - name: Film scripts / notes
   file: ''

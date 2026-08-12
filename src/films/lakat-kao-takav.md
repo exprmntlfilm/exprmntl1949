@@ -2,11 +2,10 @@
 title: Lakat (kao takav)
 slug: lakat-kao-takav
 year: '1959'
-edition: '1963'
+edition: 1963
 cat_num: cat-247
-edition_label: ''
 directors:
-- Ante Babaja
+- ante-babaja
 still: ''
 gallery: []
 resources:

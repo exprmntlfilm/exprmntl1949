@@ -3,11 +3,11 @@ name: Eva Haas
 slug: eva-haas
 country: Switzerland
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Inclinations
+- inclinations
 resources:
 - name: Film scripts / notes
   file: ''

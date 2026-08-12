@@ -2,11 +2,10 @@
 title: Auf der Suche nach dem Glück
 slug: auf-der-suche-nach-dem-gluck
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-322
-edition_label: ''
 directors:
-- Reinhard Kahn
+- reinhard-kahn
 still: ''
 gallery: []
 resources:

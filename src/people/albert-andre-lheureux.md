@@ -3,11 +3,11 @@ name: Albert-André Lheureux
 slug: albert-andre-lheureux
 country: Belgium
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Condemned and Possessed
+- condemned-and-possessed
 resources:
 - name: Film scripts / notes
   file: ''

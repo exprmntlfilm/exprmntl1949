@@ -2,11 +2,10 @@
 title: Reflections
 slug: reflections
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-168
-edition_label: ''
 directors:
-- Madeline Tourtelot
+- madeline-tourtelot
 still: ''
 gallery: []
 resources:

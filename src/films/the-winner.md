@@ -2,12 +2,11 @@
 title: The Winner
 slug: the-winner
 year: n. d.
-edition: '1963'
+edition: 1963
 cat_num: cat-294
-edition_label: ''
 directors:
-- Betrand Brown
-- Kenneth van Sickle
+- betrand-brown
+- kenneth-van-sickle
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Storm De Hirsch
 slug: storm-de-hirsch
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Shaman, a Tapestry for Sorcerers
+- shaman-a-tapestry-for-sorcerers
 resources:
 - name: Film scripts / notes
   file: ''

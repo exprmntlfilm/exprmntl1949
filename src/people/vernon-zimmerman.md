@@ -3,13 +3,13 @@ name: Vernon Zimmerman
 slug: vernon-zimmerman
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Lemon Hearts
-- Scarface and Aphrodite
-- To L.A. with Lust
+- lemon-hearts
+- scarface-and-aphrodite
+- to-l-a-with-lust
 resources:
 - name: Film scripts / notes
   file: ''

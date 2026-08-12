@@ -3,11 +3,11 @@ name: Jean Van Helden
 slug: jean-van-helden
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Assis sur une Barrière
+- assis-sur-une-barriere
 resources:
 - name: Film scripts / notes
   file: ''

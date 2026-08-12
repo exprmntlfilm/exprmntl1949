@@ -2,11 +2,10 @@
 title: Marching the Colors
 slug: marching-the-colors
 year: '1942'
-edition: '1949'
+edition: 1949
 cat_num: cat-048
-edition_label: ''
 directors:
-- Guy Glover
+- guy-glover
 still: ''
 gallery: []
 resources:

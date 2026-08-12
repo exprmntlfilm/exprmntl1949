@@ -2,11 +2,10 @@
 title: Bridges Round New York
 slug: bridges-round-new-york
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-086
-edition_label: ''
 directors:
-- Shirley Clarke
+- shirley-clarke
 still: ''
 gallery: []
 resources:

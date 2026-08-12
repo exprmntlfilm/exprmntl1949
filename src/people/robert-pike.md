@@ -3,12 +3,12 @@ name: Robert Pike
 slug: robert-pike
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Desire in a Public Dump
-- A Thin Dame
+- desire-in-a-public-dump
+- a-thin-dame
 resources:
 - name: Film scripts / notes
   file: ''

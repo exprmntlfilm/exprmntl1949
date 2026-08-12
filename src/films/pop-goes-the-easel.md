@@ -2,11 +2,10 @@
 title: Pop Goes the Easel
 slug: pop-goes-the-easel
 year: '1962'
-edition: '1963'
+edition: 1963
 cat_num: cat-269
-edition_label: ''
 directors:
-- Ken Russell
+- ken-russell
 still: ''
 gallery: []
 resources:

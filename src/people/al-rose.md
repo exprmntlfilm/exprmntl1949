@@ -3,7 +3,7 @@ name: Al Rose
 slug: al-rose
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:

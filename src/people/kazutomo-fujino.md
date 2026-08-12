@@ -3,11 +3,11 @@ name: Kazutomo Fujino
 slug: kazutomo-fujino
 country: Japan
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- An Eater
+- an-eater
 resources:
 - name: Film scripts / notes
   file: ''

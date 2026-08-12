@@ -2,11 +2,10 @@
 title: Yantra Study
 slug: yantra-study
 year: '1949'
-edition: '1949'
+edition: 1949
 cat_num: cat-075
-edition_label: ''
 directors:
-- Elwood Decker
+- elwood-decker
 still: ''
 gallery: []
 resources:

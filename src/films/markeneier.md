@@ -2,11 +2,10 @@
 title: Markeneier
 slug: markeneier
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-361
-edition_label: ''
 directors:
-- Lutz Mommartz
+- lutz-mommartz
 still: ''
 gallery: []
 resources:

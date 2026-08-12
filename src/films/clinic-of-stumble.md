@@ -2,11 +2,10 @@
 title: Clinic of Stumble
 slug: clinic-of-stumble
 year: '1947'
-edition: '1949'
+edition: 1949
 cat_num: cat-018
-edition_label: ''
 directors:
-- Sidney Peterson
+- sidney-peterson
 still: ''
 gallery: []
 resources:

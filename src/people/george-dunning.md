@@ -3,11 +3,11 @@ name: George Dunning
 slug: george-dunning
 country: Canada
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Cadet Rousselle
+- cadet-rousselle
 resources:
 - name: Film scripts / notes
   file: ''

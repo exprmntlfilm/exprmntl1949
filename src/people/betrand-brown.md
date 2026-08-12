@@ -3,11 +3,11 @@ name: Betrand Brown
 slug: betrand-brown
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- The Winner
+- the-winner
 resources:
 - name: Film scripts / notes
   file: ''

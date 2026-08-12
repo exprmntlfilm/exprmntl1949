@@ -3,11 +3,11 @@ name: Jarosław Brzozowski
 slug: jaroslaw-brzozowski
 country: Lithuania
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Warszawa '56
+- warszawa-56
 resources:
 - name: Film scripts / notes
   file: ''

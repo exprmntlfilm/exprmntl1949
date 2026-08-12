@@ -3,11 +3,11 @@ name: Patrick Hella
 slug: patrick-hella
 country: Belgium
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Les caméléons
+- les-cameleons
 resources:
 - name: Film scripts / notes
   file: ''

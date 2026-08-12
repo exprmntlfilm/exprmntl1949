@@ -3,13 +3,13 @@ name: Nicolas Schöffer
 slug: nicolas-schoffer
 country: Hungary
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Spatiodynamisme
-- Mayola
+- spatiodynamisme
+- mayola
 resources:
 - name: Film scripts / notes
   file: ''

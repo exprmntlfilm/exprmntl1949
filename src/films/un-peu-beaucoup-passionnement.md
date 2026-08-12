@@ -2,11 +2,10 @@
 title: Un peu, beaucoup passionnément
 slug: un-peu-beaucoup-passionnement
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-396
-edition_label: ''
 directors:
-- Frédéric Van Besien
+- frederic-van-besien
 still: ''
 gallery: []
 resources:

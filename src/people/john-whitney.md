@@ -3,14 +3,14 @@ name: John Whitney
 slug: john-whitney
 country: USA
 editions:
-- '1949'
-- '1958'
+- 1949
+- 1958
 photo: ''
 gallery: []
 films:
-- Five Film Exercises
-- Blues Pattern
-- Celery Stalks at Midnight
+- five-film-exercises
+- blues-pattern
+- celery-stalks-at-midnight
 resources:
 - name: Film scripts / notes
   file: ''

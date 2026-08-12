@@ -3,11 +3,11 @@ name: Omer Demol
 slug: omer-demol
 country: Belgium
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Prisons
+- prisons
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,13 +3,13 @@ name: Peter Kubelka
 slug: peter-kubelka
 country: Austria
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Adebar
-- Schwechater
+- adebar
+- schwechater
 resources:
 - name: Film scripts / notes
   file: ''

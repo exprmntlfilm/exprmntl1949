@@ -3,11 +3,11 @@ name: Koji Wakamatsu
 slug: koji-wakamatsu
 country: Japan
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- The Embryo Hunts in Secret
+- the-embryo-hunts-in-secret
 resources:
 - name: Film scripts / notes
   file: ''

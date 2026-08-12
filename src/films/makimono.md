@@ -2,11 +2,10 @@
 title: Makimono
 slug: makimono
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-435
-edition_label: ''
 directors:
-- Werner Nekes
+- werner-nekes
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,10 @@
 title: Once Upon a Sunday
 slug: once-upon-a-sunday
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-157
-edition_label: ''
 directors:
-- Nick Cominos
+- nick-cominos
 still: ''
 gallery: []
 resources:

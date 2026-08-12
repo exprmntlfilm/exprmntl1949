@@ -2,11 +2,10 @@
 title: Two of Us
 slug: two-of-us
 year: '1964'
-edition: '1963'
+edition: 1963
 cat_num: cat-303
-edition_label: ''
 directors:
-- Alex Tartaglia
+- alex-tartaglia
 still: ''
 gallery: []
 resources:

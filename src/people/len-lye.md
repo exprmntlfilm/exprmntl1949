@@ -3,14 +3,14 @@ name: Len Lye
 slug: len-lye
 country: New Zeland
 editions:
-- '1949'
-- '1958'
+- 1949
+- 1958
 photo: ''
 gallery: []
 films:
-- When the Pie Was Opened
-- Free Radicals
-- Rhytm
+- when-the-pie-was-opened
+- free-radicals
+- rhytm
 resources:
 - name: Film scripts / notes
   file: ''

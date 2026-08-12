@@ -3,11 +3,11 @@ name: Tadeusz Makarczynski
 slug: tadeusz-makarczynski
 country: Poland
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Zycie Jest Piekne
+- zycie-jest-piekne
 resources:
 - name: Film scripts / notes
   file: ''

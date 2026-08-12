@@ -3,11 +3,11 @@ name: Joseph Kramer
 slug: joseph-kramer
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Smoke
+- smoke
 resources:
 - name: Film scripts / notes
   file: ''

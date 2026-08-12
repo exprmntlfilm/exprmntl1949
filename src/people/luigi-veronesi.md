@@ -3,11 +3,11 @@ name: Luigi Veronesi
 slug: luigi-veronesi
 country: Italy
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Studi sul colore
+- studi-sul-colore
 resources:
 - name: Film scripts / notes
   file: ''

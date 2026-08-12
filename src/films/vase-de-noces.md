@@ -2,11 +2,10 @@
 title: Vase de Noces
 slug: vase-de-noces
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-467
-edition_label: ''
 directors:
-- Thierry Zeno
+- thierry-zeno
 still: ''
 gallery: []
 resources:

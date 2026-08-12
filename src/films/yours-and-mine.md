@@ -2,11 +2,10 @@
 title: Yours and Mine
 slug: yours-and-mine
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-476
-edition_label: ''
 directors:
-- Luk Gubbels
+- luk-gubbels
 still: ''
 gallery: []
 resources:

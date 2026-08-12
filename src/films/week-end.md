@@ -2,11 +2,10 @@
 title: Week-end
 slug: week-end
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-401
-edition_label: ''
 directors:
-- David McNeil
+- david-mcneil
 still: ''
 gallery: []
 resources:

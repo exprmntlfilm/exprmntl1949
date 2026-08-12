@@ -3,11 +3,11 @@ name: Betty Scheyer
 slug: betty-scheyer
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Fantasy in Light
+- fantasy-in-light
 resources:
 - name: Film scripts / notes
   file: ''

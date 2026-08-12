@@ -3,11 +3,11 @@ name: Edmond Bernhard
 slug: edmond-bernhard
 country: Belgium
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Dimanche
+- dimanche
 resources:
 - name: Film scripts / notes
   file: ''

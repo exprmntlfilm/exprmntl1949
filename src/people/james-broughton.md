@@ -3,14 +3,14 @@ name: James Broughton
 slug: james-broughton
 country: USA
 editions:
-- '1949'
-- '1967'
+- 1949
+- 1967
 photo: ''
 gallery: []
 films:
-- The Potted Psalm
-- Mother’s Day
-- The Bed
+- the-potted-psalm
+- mothers-day
+- the-bed
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: Pacific 231
 slug: pacific-231
 year: '1949'
-edition: '1949'
+edition: 1949
 cat_num: cat-055
-edition_label: ''
 directors:
-- Jean Mitry
+- jean-mitry
 still: ''
 gallery: []
 resources:

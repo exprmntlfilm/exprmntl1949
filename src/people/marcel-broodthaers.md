@@ -3,11 +3,11 @@ name: Marcel Broodthaers
 slug: marcel-broodthaers
 country: Belgium
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- La Clef de l'Horloge
+- la-clef-de-l-horloge
 resources:
 - name: Film scripts / notes
   file: ''

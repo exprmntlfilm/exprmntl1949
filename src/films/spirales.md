@@ -2,11 +2,10 @@
 title: Spirales
 slug: spirales
 year: '1956'
-edition: '1958'
+edition: 1958
 cat_num: cat-179
-edition_label: ''
 directors:
-- Albert Pierru
+- albert-pierru
 still: ''
 gallery: []
 resources:

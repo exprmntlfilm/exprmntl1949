@@ -3,11 +3,11 @@ name: Cassandra M. Gerstein
 slug: cassandra-m-gerstein
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Mae East
+- mae-east
 resources:
 - name: Film scripts / notes
   file: ''

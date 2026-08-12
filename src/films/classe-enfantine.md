@@ -2,11 +2,10 @@
 title: Classe enfantine
 slug: classe-enfantine
 year: '1945'
-edition: '1949'
+edition: 1949
 cat_num: cat-017
-edition_label: ''
 directors:
-- Gilbert Cohen-Séat
+- gilbert-cohen-seat
 still: ''
 gallery: []
 resources:

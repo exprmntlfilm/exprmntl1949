@@ -3,16 +3,16 @@ name: Robert Breer
 slug: robert-breer
 country: USA
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Cats
-- Jamestown Baloos
-- A Man and his Dog out for Air
-- Image by Images
-- Pat's Birthday
+- cats
+- jamestown-baloos
+- a-man-and-his-dog-out-for-air
+- image-by-images
+- pat-s-birthday
 resources:
 - name: Film scripts / notes
   file: ''

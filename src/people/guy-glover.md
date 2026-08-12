@@ -3,11 +3,11 @@ name: Guy Glover
 slug: guy-glover
 country: Canada
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Marching the Colors
+- marching-the-colors
 resources:
 - name: Film scripts / notes
   file: ''

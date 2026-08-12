@@ -2,11 +2,10 @@
 title: North Beach
 slug: north-beach
 year: '1958'
-edition: '1963'
+edition: 1963
 cat_num: cat-263
-edition_label: ''
 directors:
-- Dion Vigne
+- dion-vigne
 still: ''
 gallery: []
 resources:

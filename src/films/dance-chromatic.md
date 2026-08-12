@@ -2,11 +2,10 @@
 title: Dance Chromatic
 slug: dance-chromatic
 year: '1959'
-edition: '1963'
+edition: 1963
 cat_num: cat-224
-edition_label: ''
 directors:
-- Ed Emshwiller
+- ed-emshwiller
 still: ''
 gallery: []
 resources:

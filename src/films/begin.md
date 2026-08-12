@@ -2,11 +2,10 @@
 title: Begin
 slug: begin
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-323
-edition_label: ''
 directors:
-- Jan Kieckens
+- jan-kieckens
 still: ''
 gallery: []
 resources:

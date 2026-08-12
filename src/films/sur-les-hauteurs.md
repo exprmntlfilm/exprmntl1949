@@ -2,12 +2,11 @@
 title: Sur les hauteurs
 slug: sur-les-hauteurs
 year: '1949'
-edition: '1949'
+edition: 1949
 cat_num: cat-067
-edition_label: ''
 directors:
-- Dominique Bernard-Deschamps
-- René Char
+- dominique-bernard-deschamps
+- rene-char
 still: ''
 gallery: []
 resources:

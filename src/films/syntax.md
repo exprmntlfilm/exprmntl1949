@@ -2,11 +2,10 @@
 title: Syntax
 slug: syntax
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-458
-edition_label: ''
 directors:
-- Martha Haslanger
+- martha-haslanger
 still: ''
 gallery: []
 resources:

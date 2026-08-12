@@ -3,12 +3,12 @@ name: Laurence Henson
 slug: laurence-henson
 country: Scotland
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Falls the Shadow
-- Broken Images
+- falls-the-shadow
+- broken-images
 resources:
 - name: Film scripts / notes
   file: ''

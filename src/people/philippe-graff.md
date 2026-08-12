@@ -3,11 +3,11 @@ name: Philippe Graff
 slug: philippe-graff
 country: Belgium
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Narcose
+- narcose
 resources:
 - name: Film scripts / notes
   file: ''

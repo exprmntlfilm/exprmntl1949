@@ -2,11 +2,10 @@
 title: Tokio 1958
 slug: tokio-1958
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-200
-edition_label: ''
 directors:
-- Cinéma 58
+- cinema-58
 still: ''
 gallery: []
 resources:

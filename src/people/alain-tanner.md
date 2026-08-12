@@ -3,11 +3,11 @@ name: Alain Tanner
 slug: alain-tanner
 country: Switzerland
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Nice Time
+- nice-time
 resources:
 - name: Film scripts / notes
   file: ''

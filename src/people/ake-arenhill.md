@@ -3,11 +3,11 @@ name: Åke Arenhill
 slug: ake-arenhill
 country: Sweden
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Besöket
+- besoket
 resources:
 - name: Film scripts / notes
   file: ''

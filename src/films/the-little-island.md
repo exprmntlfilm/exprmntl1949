@@ -2,11 +2,10 @@
 title: The Little Island
 slug: the-little-island
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-192
-edition_label: ''
 directors:
-- Richard Williams
+- richard-williams
 still: ''
 gallery: []
 resources:

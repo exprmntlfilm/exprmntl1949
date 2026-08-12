@@ -3,14 +3,14 @@ name: Peter Weiss
 slug: peter-weiss
 country: Sweden
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Enligt Lag
-- Studie V - Vaxelspel
-- Hägrigen
+- enligt-lag
+- studie-v-vaxelspel
+- hagrigen
 resources:
 - name: Film scripts / notes
   file: ''

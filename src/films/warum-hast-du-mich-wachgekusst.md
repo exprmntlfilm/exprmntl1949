@@ -2,11 +2,10 @@
 title: Warum hast du mich wachgeküßt?
 slug: warum-hast-du-mich-wachgekusst
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-397
-edition_label: ''
 directors:
-- Hellmuth Costard
+- hellmuth-costard
 still: ''
 gallery: []
 resources:

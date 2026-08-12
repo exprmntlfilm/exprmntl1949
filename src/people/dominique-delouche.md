@@ -3,11 +3,11 @@ name: Dominique Delouche
 slug: dominique-delouche
 country: France
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- La Messe sur le monde
+- la-messe-sur-le-monde
 resources:
 - name: Film scripts / notes
   file: ''

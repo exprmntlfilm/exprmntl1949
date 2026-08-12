@@ -3,12 +3,12 @@ name: Donn Alan Pennebaker
 slug: donn-alan-pennebaker
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Daybreak Express
-- Susan Starr
+- daybreak-express
+- susan-starr
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: Poor People
 slug: poor-people
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-268
-edition_label: ''
 directors:
-- Vlado Kristl
+- vlado-kristl
 still: ''
 gallery: []
 resources:

@@ -2,12 +2,11 @@
 title: Il mostro verde
 slug: il-mostro-verde
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-346
-edition_label: ''
 directors:
-- Paolo Menzio
-- Tonino De Bernardi
+- paolo-menzio
+- tonino-de-bernardi
 still: ''
 gallery: []
 resources:

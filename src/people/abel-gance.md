@@ -3,11 +3,11 @@ name: Abel Gance
 slug: abel-gance
 country: France
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Magirama
+- magirama
 resources:
 - name: Film scripts / notes
   file: ''

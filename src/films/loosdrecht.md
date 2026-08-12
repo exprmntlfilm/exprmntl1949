@@ -2,11 +2,10 @@
 title: Loosdrecht
 slug: loosdrecht
 year: n. d.
-edition: '1963'
+edition: 1963
 cat_num: cat-252
-edition_label: ''
 directors:
-- Koen van Os
+- koen-van-os
 still: ''
 gallery: []
 resources:

@@ -3,13 +3,13 @@ name: Millie Goldsholl
 slug: millie-goldsholl
 country: USA
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Night Driving
-- Dissent Illusion
+- night-driving
+- dissent-illusion
 resources:
 - name: Film scripts / notes
   file: ''

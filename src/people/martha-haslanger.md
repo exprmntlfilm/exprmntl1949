@@ -3,11 +3,11 @@ name: Martha Haslanger
 slug: martha-haslanger
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Syntax
+- syntax
 resources:
 - name: Film scripts / notes
   file: ''

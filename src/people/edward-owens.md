@@ -3,11 +3,11 @@ name: Edward Owens
 slug: edward-owens
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Tomorrow's Promise
+- tomorrow-s-promise
 resources:
 - name: Film scripts / notes
   file: ''

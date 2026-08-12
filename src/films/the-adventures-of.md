@@ -2,11 +2,10 @@
 title: The Adventures of *
 slug: the-adventures-of
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-187
-edition_label: ''
 directors:
-- John Hubley
+- john-hubley
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,10 @@
 title: Flesh Flows
 slug: flesh-flows
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-424
-edition_label: ''
 directors:
-- Adam Beckett
+- adam-beckett
 still: ''
 gallery: []
 resources:

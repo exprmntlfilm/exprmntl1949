@@ -2,11 +2,10 @@
 title: Shaman, a Tapestry for Sorcerers
 slug: shaman-a-tapestry-for-sorcerers
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-382
-edition_label: ''
 directors:
-- Storm De Hirsch
+- storm-de-hirsch
 still: ''
 gallery: []
 resources:

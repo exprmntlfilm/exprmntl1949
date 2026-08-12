@@ -2,11 +2,10 @@
 title: Fantastica Balada
 slug: fantastica-balada
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-113
-edition_label: ''
 directors:
-- Boštjan Hladnik
+- bostjan-hladnik
 still: ''
 gallery: []
 resources:

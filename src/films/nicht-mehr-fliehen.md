@@ -2,11 +2,10 @@
 title: Nicht mehr fliehen
 slug: nicht-mehr-fliehen
 year: '1955'
-edition: '1958'
+edition: 1958
 cat_num: cat-153
-edition_label: ''
 directors:
-- Herbert Vesely
+- herbert-vesely
 still: ''
 gallery: []
 resources:

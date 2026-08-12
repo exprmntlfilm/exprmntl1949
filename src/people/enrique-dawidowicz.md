@@ -3,11 +3,11 @@ name: Enrique Dawidowicz
 slug: enrique-dawidowicz
 country: Argentina
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Cachivache
+- cachivache
 resources:
 - name: Film scripts / notes
   file: ''

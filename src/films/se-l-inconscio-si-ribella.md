@@ -2,11 +2,10 @@
 title: Se l'inconscio si ribella
 slug: se-l-inconscio-si-ribella
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-380
-edition_label: ''
 directors:
-- Alfredo Leonardi
+- alfredo-leonardi
 still: ''
 gallery: []
 resources:

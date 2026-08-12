@@ -2,11 +2,10 @@
 title: Lifelines
 slug: lifelines
 year: '1960'
-edition: '1963'
+edition: 1963
 cat_num: cat-251
-edition_label: ''
 directors:
-- Ed Emshwiller
+- ed-emshwiller
 still: ''
 gallery: []
 resources:

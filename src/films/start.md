@@ -2,12 +2,11 @@
 title: Start
 slug: start
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-451
-edition_label: ''
 directors:
-- Marc Lobet
-- Pierre Cordier
+- marc-lobet
+- pierre-cordier
 still: ''
 gallery: []
 resources:

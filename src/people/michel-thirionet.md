@@ -3,11 +3,11 @@ name: Michel Thirionet
 slug: michel-thirionet
 country: Belgium
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Entretien
+- entretien
 resources:
 - name: Film scripts / notes
   file: ''

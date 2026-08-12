@@ -3,11 +3,11 @@ name: Lewis Jacobs
 slug: lewis-jacobs
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Case History
+- case-history
 resources:
 - name: Film scripts / notes
   file: ''

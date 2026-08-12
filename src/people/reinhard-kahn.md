@@ -3,11 +3,11 @@ name: Reinhard Kahn
 slug: reinhard-kahn
 country: Germany
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Auf der Suche nach dem Glück
+- auf-der-suche-nach-dem-gluck
 resources:
 - name: Film scripts / notes
   file: ''

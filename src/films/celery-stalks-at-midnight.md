@@ -2,11 +2,10 @@
 title: Celery Stalks at Midnight
 slug: celery-stalks-at-midnight
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-093
-edition_label: ''
 directors:
-- John Whitney
+- john-whitney
 still: ''
 gallery: []
 resources:

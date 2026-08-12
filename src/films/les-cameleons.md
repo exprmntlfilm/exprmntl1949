@@ -2,11 +2,10 @@
 title: Les caméléons
 slug: les-cameleons
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-354
-edition_label: ''
 directors:
-- Patrick Hella
+- patrick-hella
 still: ''
 gallery: []
 resources:

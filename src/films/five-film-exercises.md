@@ -2,12 +2,11 @@
 title: Five Film Exercises
 slug: five-film-exercises
 year: '1944'
-edition: '1949'
+edition: 1949
 cat_num: cat-026
-edition_label: ''
 directors:
-- James Whitney
-- John Whitney
+- james-whitney
+- john-whitney
 still: ''
 gallery: []
 resources:

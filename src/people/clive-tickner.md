@@ -3,11 +3,11 @@ name: Clive Tickner
 slug: clive-tickner
 country: England
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Conversation
+- conversation
 resources:
 - name: Film scripts / notes
   file: ''

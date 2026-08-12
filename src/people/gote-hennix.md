@@ -3,11 +3,11 @@ name: Göte Hennix
 slug: gote-hennix
 country: Sweden
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Croquis
+- croquis
 resources:
 - name: Film scripts / notes
   file: ''

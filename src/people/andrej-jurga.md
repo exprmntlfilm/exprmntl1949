@@ -3,11 +3,11 @@ name: Andrej Jurga
 slug: andrej-jurga
 country: Poland
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Play 54321
+- play-54321
 resources:
 - name: Film scripts / notes
   file: ''

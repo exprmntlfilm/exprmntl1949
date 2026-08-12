@@ -2,12 +2,11 @@
 title: Das Seminar
 slug: das-seminar
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-334
-edition_label: ''
 directors:
-- Bazon Brock
-- Werner Nekes
+- bazon-brock
+- werner-nekes
 still: ''
 gallery: []
 resources:

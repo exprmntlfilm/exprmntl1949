@@ -2,11 +2,10 @@
 title: The Gondola Eye
 slug: the-gondola-eye
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-290
-edition_label: ''
 directors:
-- Ian Hugo
+- ian-hugo
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,10 @@
 title: The Ernie Kovaks Show
 slug: the-ernie-kovaks-show
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-190
-edition_label: ''
 directors:
-- Barry Shear
+- barry-shear
 still: ''
 gallery: []
 resources:

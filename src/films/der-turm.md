@@ -2,11 +2,10 @@
 title: Der Turm
 slug: der-turm
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-422
-edition_label: ''
 directors:
-- Franz Winzentsen
+- franz-winzentsen
 still: ''
 gallery: []
 resources:

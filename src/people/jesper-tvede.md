@@ -3,11 +3,11 @@ name: Jesper Tvede
 slug: jesper-tvede
 country: Denmark
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Gipsy Mambo
+- gipsy-mambo
 resources:
 - name: Film scripts / notes
   file: ''

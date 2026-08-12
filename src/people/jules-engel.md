@@ -3,11 +3,11 @@ name: Jules Engel
 slug: jules-engel
 country: Hungary
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Train Landscape
+- train-landscape
 resources:
 - name: Film scripts / notes
   file: ''

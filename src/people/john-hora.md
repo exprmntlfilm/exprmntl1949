@@ -3,11 +3,11 @@ name: John Hora
 slug: john-hora
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Images of Light and Curve
+- images-of-light-and-curve
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: Le Voyageur
 slug: le-voyageur
 year: '1956'
-edition: '1958'
+edition: 1958
 cat_num: cat-139
-edition_label: ''
 directors:
-- Henri Gruel
+- henri-gruel
 still: ''
 gallery: []
 resources:

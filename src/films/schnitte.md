@@ -2,11 +2,10 @@
 title: Schnitte
 slug: schnitte
 year: '1965'
-edition: '1967'
+edition: 1967
 cat_num: cat-378
-edition_label: ''
 directors:
-- Peter Grobe
+- peter-grobe
 still: ''
 gallery: []
 resources:

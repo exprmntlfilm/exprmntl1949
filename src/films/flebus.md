@@ -2,11 +2,10 @@
 title: Flebus
 slug: flebus
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-115
-edition_label: ''
 directors:
-- Ernest Pintoff
+- ernest-pintoff
 still: ''
 gallery: []
 resources:

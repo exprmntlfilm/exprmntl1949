@@ -3,11 +3,11 @@ name: Lawrence Jordan
 slug: lawrence-jordan
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- The One Romantic Venture of Edward
+- the-one-romantic-venture-of-edward
 resources:
 - name: Film scripts / notes
   file: ''

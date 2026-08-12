@@ -3,11 +3,11 @@ name: Gerd Dahlmann
 slug: gerd-dahlmann
 country: Germany
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- 27 Minuten 45 Sekunden
+- 27-minuten-45-sekunden
 resources:
 - name: Film scripts / notes
   file: ''

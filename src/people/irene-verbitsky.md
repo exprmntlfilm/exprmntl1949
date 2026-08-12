@@ -3,11 +3,11 @@ name: Irene Verbitsky
 slug: irene-verbitsky
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Turtle Soup
+- turtle-soup
 resources:
 - name: Film scripts / notes
   file: ''

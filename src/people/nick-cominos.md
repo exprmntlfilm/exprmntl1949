@@ -3,11 +3,11 @@ name: Nick Cominos
 slug: nick-cominos
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Once Upon a Sunday
+- once-upon-a-sunday
 resources:
 - name: Film scripts / notes
   file: ''

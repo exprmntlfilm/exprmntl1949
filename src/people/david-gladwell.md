@@ -3,11 +3,11 @@ name: David Gladwell
 slug: david-gladwell
 country: England
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Summer Discord
+- summer-discord
 resources:
 - name: Film scripts / notes
   file: ''

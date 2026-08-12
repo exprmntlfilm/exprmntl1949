@@ -3,11 +3,11 @@ name: Saul Levine
 slug: saul-levine
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- On the Spot
+- on-the-spot
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Boštjan Hladnik
 slug: bostjan-hladnik
 country: Slovenia
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Fantastica Balada
+- fantastica-balada
 resources:
 - name: Film scripts / notes
   file: ''

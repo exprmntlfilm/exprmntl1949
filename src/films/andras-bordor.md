@@ -2,11 +2,10 @@
 title: Andras bördor
 slug: andras-bordor
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-082
-edition_label: ''
 directors:
-- Pelle Söderberg
+- pelle-soderberg
 still: ''
 gallery: []
 resources:

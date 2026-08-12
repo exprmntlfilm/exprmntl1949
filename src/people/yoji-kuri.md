@@ -3,11 +3,11 @@ name: Yoji Kuri
 slug: yoji-kuri
 country: Japan
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- What Do You Think?
+- what-do-you-think
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,13 +3,13 @@ name: Lutz Mommartz
 slug: lutz-mommartz
 country: Germany
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Selbstschüsse
-- Markeneier
-- Eisenbahn
+- selbstschusse
+- markeneier
+- eisenbahn
 resources:
 - name: Film scripts / notes
   file: ''

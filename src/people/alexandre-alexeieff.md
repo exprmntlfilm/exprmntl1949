@@ -3,11 +3,11 @@ name: Alexandre Alexeieff
 slug: alexandre-alexeieff
 country: Russia
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Le Nez
+- le-nez
 resources:
 - name: Film scripts / notes
   file: ''

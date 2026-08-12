@@ -2,11 +2,10 @@
 title: Afterdinnersong
 slug: afterdinnersong
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-407
-edition_label: ''
 directors:
-- J. E. Rafaël
+- j-e-rafael
 still: ''
 gallery: []
 resources:

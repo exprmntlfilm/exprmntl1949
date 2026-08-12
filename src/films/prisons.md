@@ -2,11 +2,10 @@
 title: Prisons
 slug: prisons
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-165
-edition_label: ''
 directors:
-- Omer Demol
+- omer-demol
 still: ''
 gallery: []
 resources:

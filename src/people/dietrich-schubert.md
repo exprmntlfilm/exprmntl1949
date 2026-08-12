@@ -3,11 +3,11 @@ name: Dietrich Schubert
 slug: dietrich-schubert
 country: Germany
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- A & Z
+- a-z
 resources:
 - name: Film scripts / notes
   file: ''

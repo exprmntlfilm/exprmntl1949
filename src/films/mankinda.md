@@ -2,11 +2,10 @@
 title: Mankinda
 slug: mankinda
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-145
-edition_label: ''
 directors:
-- Stan VanDerBeek
+- stan-vanderbeek
 still: ''
 gallery: []
 resources:

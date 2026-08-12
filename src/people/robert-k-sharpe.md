@@ -3,11 +3,11 @@ name: Robert K. Sharpe
 slug: robert-k-sharpe
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Pet Shop at Night
+- pet-shop-at-night
 resources:
 - name: Film scripts / notes
   file: ''

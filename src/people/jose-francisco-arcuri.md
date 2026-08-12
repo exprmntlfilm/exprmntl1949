@@ -3,11 +3,11 @@ name: José Francisco Arcuri
 slug: jose-francisco-arcuri
 country: Argentina
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Plastic Continuity
+- plastic-continuity
 resources:
 - name: Film scripts / notes
   file: ''

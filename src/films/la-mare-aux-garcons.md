@@ -2,11 +2,10 @@
 title: La mare aux garçons
 slug: la-mare-aux-garcons
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-245
-edition_label: ''
 directors:
-- Julien Pappé
+- julien-pappe
 still: ''
 gallery: []
 resources:

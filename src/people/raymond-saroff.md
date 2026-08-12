@@ -3,12 +3,12 @@ name: Raymond Saroff
 slug: raymond-saroff
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Voyages II
-- Necropolis I
+- voyages-ii
+- necropolis-i
 resources:
 - name: Film scripts / notes
   file: ''

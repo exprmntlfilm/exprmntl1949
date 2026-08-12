@@ -3,11 +3,11 @@ name: Coleen Fitzgibbon
 slug: coleen-fitzgibbon
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- FM/TRCS
+- fm-trcs
 resources:
 - name: Film scripts / notes
   file: ''

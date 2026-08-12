@@ -3,11 +3,11 @@ name: James Whitney
 slug: james-whitney
 country: USA
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Five Film Exercises
+- five-film-exercises
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Ed Sommer
 slug: ed-sommer
 country: Germany
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Verena
+- verena
 resources:
 - name: Film scripts / notes
   file: ''

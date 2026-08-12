@@ -2,12 +2,11 @@
 title: Inclinations
 slug: inclinations
 year: '1960'
-edition: '1963'
+edition: 1963
 cat_num: cat-238
-edition_label: ''
 directors:
-- Eva Haas
-- Guido Haas
+- eva-haas
+- guido-haas
 still: ''
 gallery: []
 resources:

@@ -56,20 +56,15 @@ function renderPersonRow(p, root) {
     </a>`;
 }
 
-function normalizeText(s) {
-  return (s || "").toString().trim().toLowerCase()
-    .normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
-}
-
-function renderDirectorLinks(names, people, root) {
-  const parts = (names || []).map((n) => {
-    const match = (people || []).find((p) => normalizeText(p.data.name) === normalizeText(n));
-    return match ? `<a href="${root}people/${match.data.slug}.html">${match.data.name}</a>` : n;
-  });
-  if (parts.length === 0) return "";
-  if (parts.length === 1) return parts[0];
-  if (parts.length === 2) return parts.join(" &amp; ");
-  return parts.slice(0, -1).join(", ") + ", &amp; " + parts[parts.length - 1];
+function renderDirectorLinks(slugs, people, root) {
+  const found = (slugs || [])
+    .map((s) => (people || []).find((p) => p.data.slug === s))
+    .filter(Boolean);
+  const links = found.map((d) => `<a href="${root}people/${d.data.slug}.html">${d.data.name}</a>`);
+  if (links.length === 0) return "";
+  if (links.length === 1) return links[0];
+  if (links.length === 2) return links.join(" &amp; ");
+  return links.slice(0, -1).join(", ") + ", &amp; " + links[links.length - 1];
 }
 
 function renderEditionSection(ed, root) {
@@ -139,7 +134,11 @@ function buildSearchIndex(films, people) {
   const entries = [];
   (films || []).forEach((f) => {
     const cat = catDisplay(f.data.cat_num);
-    const dirNames = (f.data.directors || []).join(", ");
+    const dirNames = (f.data.directors || [])
+      .map((s) => (people || []).find((p) => p.data.slug === s))
+      .filter(Boolean)
+      .map((p) => p.data.name)
+      .join(", ");
     entries.push({
       t: f.data.title,
       s: `${dirNames}${dirNames ? " \u00b7 " : ""}Edition ${f.data.edition}`,
@@ -184,25 +183,21 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("catDisplay", catDisplay);
   eleventyConfig.addFilter("json", (obj) => JSON.stringify(obj || []));
   eleventyConfig.addFilter("findBySlug", (items, slug) => (items || []).find((i) => i.data.slug === slug));
-  eleventyConfig.addFilter("byEdition", (items, ed) => (items || []).filter((i) => String(i.data.edition) === String(ed)));
+  eleventyConfig.addFilter("byEdition", (items, ed) => (items || []).filter((i) => i.data.edition === ed));
   eleventyConfig.addFilter("combineGallery", combineGallery);
   eleventyConfig.addFilter("docLabel", (index0, offset) => "DOC." + String(index0 + (offset || 0)).padStart(2, "0"));
-  eleventyConfig.addFilter("directorLinks", (names, people, root) => renderDirectorLinks(names, people, root));
-  eleventyConfig.addFilter("filmCards", (titles, films, root) => {
-    const found = (titles || [])
-      .map((t) => (films || []).find((f) => normalizeText(f.data.title) === normalizeText(t)))
+  eleventyConfig.addFilter("directorLinks", (slugs, people, root) => renderDirectorLinks(slugs, people, root));
+  eleventyConfig.addFilter("filmCards", (slugs, films, root) => {
+    const found = (slugs || [])
+      .map((s) => (films || []).find((f) => f.data.slug === s))
       .filter(Boolean)
-      .sort((a, b) => (Number(a.data.edition) - Number(b.data.edition)) || a.data.title.localeCompare(b.data.title));
+      .sort((a, b) => (a.data.edition - b.data.edition) || a.data.title.localeCompare(b.data.title));
     return renderFilmCards(found, root);
   });
   eleventyConfig.addFilter("filmCardsFromList", (filmObjs, root) => renderFilmCards(filmObjs, root));
   eleventyConfig.addFilter("peopleGroups", (peopleColl, root) => peopleGroupsOf(peopleColl, root));
   eleventyConfig.addFilter("editionSection", (ed, root) => renderEditionSection(ed, root));
   eleventyConfig.addFilter("searchIndexJs", (films, people) => buildSearchIndex(films, people));
-  eleventyConfig.addFilter("editionLabel", (year) => {
-    const labels = { 1949: "EXPRMNTL 1", 1958: "EXPRMNTL 2", 1963: "EXPRMNTL 3", 1967: "EXPRMNTL 4", 1974: "EXPRMNTL 5" };
-    return labels[year] || ("EXPRMNTL " + year);
-  });
 
 
   return {

@@ -3,14 +3,14 @@ name: Madeline Tourtelot
 slug: madeline-tourtelot
 country: USA
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Reflections
-- Wind Song
-- U.S. Highball
+- reflections
+- wind-song
+- u-s-highball
 resources:
 - name: Film scripts / notes
   file: ''

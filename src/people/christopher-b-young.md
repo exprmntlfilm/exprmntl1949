@@ -3,11 +3,11 @@ name: Christopher B. Young
 slug: christopher-b-young
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Subject Lesson
+- subject-lesson
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: Kineformy
 slug: kineformy
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-132
-edition_label: ''
 directors:
-- Andrzej Pawlowski
+- andrzej-pawlowski
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Arnold Gassan
 slug: arnold-gassan
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- The Doors
+- the-doors
 resources:
 - name: Film scripts / notes
   file: ''

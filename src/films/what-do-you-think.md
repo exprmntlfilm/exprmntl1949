@@ -2,11 +2,10 @@
 title: What Do You Think?
 slug: what-do-you-think
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-402
-edition_label: ''
 directors:
-- Yoji Kuri
+- yoji-kuri
 still: ''
 gallery: []
 resources:

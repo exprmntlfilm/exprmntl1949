@@ -3,14 +3,14 @@ name: Mary Ellen Bute
 slug: mary-ellen-bute
 country: USA
 editions:
-- '1949'
-- '1958'
+- 1949
+- 1958
 photo: ''
 gallery: []
 films:
-- Spook Sport
-- Tarantella
-- Mood Contrasts
+- spook-sport
+- tarantella
+- mood-contrasts
 resources:
 - name: Film scripts / notes
   file: ''

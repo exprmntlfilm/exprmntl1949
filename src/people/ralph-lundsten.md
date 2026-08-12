@@ -3,11 +3,11 @@ name: Ralph Lundsten
 slug: ralph-lundsten
 country: Sweden
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- EMS nr 1
+- ems-nr-1
 resources:
 - name: Film scripts / notes
   file: ''

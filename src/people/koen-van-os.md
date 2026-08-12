@@ -3,11 +3,11 @@ name: Koen van Os
 slug: koen-van-os
 country: Netherlands
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Loosdrecht
+- loosdrecht
 resources:
 - name: Film scripts / notes
   file: ''

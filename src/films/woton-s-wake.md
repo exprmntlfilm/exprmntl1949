@@ -2,11 +2,10 @@
 title: Woton's Wake
 slug: woton-s-wake
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-312
-edition_label: ''
 directors:
-- Brian De Palma
+- brian-de-palma
 still: ''
 gallery: []
 resources:

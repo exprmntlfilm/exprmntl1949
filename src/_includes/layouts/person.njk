@@ -22,7 +22,7 @@ layout: layouts/base.njk
       </div>
       <div class="stack">
         {% if editions_label %}<span class="tag">{{ editions_label }}</span>{% else %}{% for e in editionsList %}<span class="tag">Edition {{ e }}</span> {% endfor %}{% endif %}
-        <h2>{% if role_heading %}{{ role_heading }}{% elif editionsList.length == 1 %}Filmmaker at {{ editionsList[0] | editionLabel }} ({{ editionsList[0] }}){% else %}Filmmaker across multiple editions{% endif %}</h2>
+        <h2>{% if role_heading %}{{ role_heading }}{% elif editionsList.length == 1 %}Filmmaker at EXPRMNTL {{ editionsList[0] }}{% else %}Filmmaker across multiple editions{% endif %}</h2>
         {% if content %}<div class="body-copy">{{ content | safe }}</div>{% endif %}
       </div>
     </div>

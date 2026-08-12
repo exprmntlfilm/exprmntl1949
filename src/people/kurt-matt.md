@@ -3,11 +3,11 @@ name: Kurt Matt
 slug: kurt-matt
 country: Austria
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Walk
+- walk
 resources:
 - name: Film scripts / notes
   file: ''

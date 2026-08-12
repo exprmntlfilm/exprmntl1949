@@ -2,11 +2,10 @@
 title: Lueurs
 slug: lueurs
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-143
-edition_label: ''
 directors:
-- Yves Ruhlmann
+- yves-ruhlmann
 still: ''
 gallery: []
 resources:

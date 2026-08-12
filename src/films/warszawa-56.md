@@ -2,12 +2,11 @@
 title: Warszawa '56
 slug: warszawa-56
 year: '1956'
-edition: '1958'
+edition: 1958
 cat_num: cat-203
-edition_label: ''
 directors:
-- Jarosław Brzozowski
-- Jerzy Bossak
+- jaroslaw-brzozowski
+- jerzy-bossak
 still: ''
 gallery: []
 resources:

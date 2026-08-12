@@ -2,11 +2,10 @@
 title: Alchemy
 slug: alchemy
 year: '1971'
-edition: '1974'
+edition: 1974
 cat_num: cat-408
-edition_label: ''
 directors:
-- Tsuneo Nakai
+- tsuneo-nakai
 still: ''
 gallery: []
 resources:

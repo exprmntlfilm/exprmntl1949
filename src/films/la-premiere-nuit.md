@@ -2,11 +2,10 @@
 title: La Première Nuit
 slug: la-premiere-nuit
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-138
-edition_label: ''
 directors:
-- Georges Franju
+- georges-franju
 still: ''
 gallery: []
 resources:

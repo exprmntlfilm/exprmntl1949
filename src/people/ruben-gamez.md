@@ -3,11 +3,11 @@ name: Ruben Gámez
 slug: ruben-gamez
 country: Mexico
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Magueyes
+- magueyes
 resources:
 - name: Film scripts / notes
   file: ''

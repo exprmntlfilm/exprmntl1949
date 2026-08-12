@@ -3,11 +3,11 @@ name: Richard Winther
 slug: richard-winther
 country: Denmark
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Triple Boogie
+- triple-boogie
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Rune Hagberg
 slug: rune-hagberg
 country: Sweden
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Après le crépuscule vient la nuit
+- apres-le-crepuscule-vient-la-nuit
 resources:
 - name: Film scripts / notes
   file: ''

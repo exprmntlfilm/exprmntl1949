@@ -2,11 +2,10 @@
 title: Line Describing a Cone
 slug: line-describing-a-cone
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-433
-edition_label: ''
 directors:
-- Anthony McCall
+- anthony-mccall
 still: ''
 gallery: []
 resources:

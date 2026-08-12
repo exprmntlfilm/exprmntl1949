@@ -2,11 +2,10 @@
 title: Plastic Continuity
 slug: plastic-continuity
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-163
-edition_label: ''
 directors:
-- José Francisco Arcuri
+- jose-francisco-arcuri
 still: ''
 gallery: []
 resources:

@@ -3,12 +3,12 @@ name: James Cagle
 slug: james-cagle
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Metonic Cycles
-- Waterwork
+- metonic-cycles
+- waterwork
 resources:
 - name: Film scripts / notes
   file: ''

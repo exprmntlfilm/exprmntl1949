@@ -3,13 +3,13 @@ name: Elwood Decker
 slug: elwood-decker
 country: USA
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Pamela Boden
-- Light Modulators
-- Yantra Study
+- pamela-boden
+- light-modulators
+- yantra-study
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,12 +3,12 @@ name: Hy Hirsch
 slug: hy-hirsch
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Autumn Spectrum
-- Gyromorphosis
+- autumn-spectrum
+- gyromorphosis
 resources:
 - name: Film scripts / notes
   file: ''

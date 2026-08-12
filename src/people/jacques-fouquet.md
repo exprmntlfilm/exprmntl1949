@@ -3,11 +3,11 @@ name: Jacques Fouquet
 slug: jacques-fouquet
 country: France
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Couleurs en Mouvement
+- couleurs-en-mouvement
 resources:
 - name: Film scripts / notes
   file: ''

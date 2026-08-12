@@ -2,12 +2,11 @@
 title: The Potted Psalm
 slug: the-potted-psalm
 year: '1946'
-edition: '1949'
+edition: 1949
 cat_num: cat-070
-edition_label: ''
 directors:
-- James Broughton
-- Sidney Peterson
+- james-broughton
+- sidney-peterson
 still: ''
 gallery: []
 resources:

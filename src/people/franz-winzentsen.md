@@ -3,13 +3,13 @@ name: Franz Winzentsen
 slug: franz-winzentsen
 country: Germany
 editions:
-- '1967'
-- '1974'
+- 1967
+- 1974
 photo: ''
 gallery: []
 films:
-- Erlebnisse Der Puppe
-- Der Turm
+- erlebnisse-der-puppe
+- der-turm
 resources:
 - name: Film scripts / notes
   file: ''

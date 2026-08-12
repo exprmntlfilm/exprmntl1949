@@ -3,11 +3,11 @@ name: Peter Grobe
 slug: peter-grobe
 country: Germany
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Schnitte
+- schnitte
 resources:
 - name: Film scripts / notes
   file: ''

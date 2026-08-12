@@ -2,11 +2,10 @@
 title: Durée
 slug: duree
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-423
-edition_label: ''
 directors:
-- Wieslaw Hudon
+- wieslaw-hudon
 still: ''
 gallery: []
 resources:

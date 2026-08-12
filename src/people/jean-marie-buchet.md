@@ -3,11 +3,11 @@ name: Jean-Marie Buchet
 slug: jean-marie-buchet
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Potemkine 3
+- potemkine-3
 resources:
 - name: Film scripts / notes
   file: ''

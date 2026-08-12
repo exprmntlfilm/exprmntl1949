@@ -3,11 +3,11 @@ name: Guy Fihman
 slug: guy-fihman
 country: France
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Ultra-rouge < – > Infra-violet
+- ultra-rouge-infra-violet
 resources:
 - name: Film scripts / notes
   file: ''

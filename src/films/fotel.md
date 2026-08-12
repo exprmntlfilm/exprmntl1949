@@ -2,11 +2,10 @@
 title: Fotel
 slug: fotel
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-233
-edition_label: ''
 directors:
-- Daniel Szczechura
+- daniel-szczechura
 still: ''
 gallery: []
 resources:

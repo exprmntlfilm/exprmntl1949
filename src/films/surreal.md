@@ -2,11 +2,10 @@
 title: Surreal
 slug: surreal
 year: '1973'
-edition: '1974'
+edition: 1974
 cat_num: cat-457
-edition_label: ''
 directors:
-- Kim Cross
+- kim-cross
 still: ''
 gallery: []
 resources:

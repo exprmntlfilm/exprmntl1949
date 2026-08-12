@@ -3,11 +3,11 @@ name: Tonino De Bernardi
 slug: tonino-de-bernardi
 country: Italy
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Il mostro verde
+- il-mostro-verde
 resources:
 - name: Film scripts / notes
   file: ''

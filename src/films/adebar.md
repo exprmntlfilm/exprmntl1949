@@ -2,11 +2,10 @@
 title: Adebar
 slug: adebar
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-080
-edition_label: ''
 directors:
-- Peter Kubelka
+- peter-kubelka
 still: ''
 gallery: []
 resources:

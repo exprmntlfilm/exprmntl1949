@@ -2,11 +2,10 @@
 title: Limehouse Blues
 slug: limehouse-blues
 year: '1948'
-edition: '1949'
+edition: 1949
 cat_num: cat-045
-edition_label: ''
 directors:
-- Emiel van Moerkerken
+- emiel-van-moerkerken
 still: ''
 gallery: []
 resources:

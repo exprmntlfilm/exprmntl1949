@@ -2,11 +2,10 @@
 title: The House
 slug: the-house
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-291
-edition_label: ''
 directors:
-- George Manupelli
+- george-manupelli
 still: ''
 gallery: []
 resources:

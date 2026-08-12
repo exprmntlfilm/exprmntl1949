@@ -3,11 +3,11 @@ name: Peter Lilienthal
 slug: peter-lilienthal
 country: Germany
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Jede Stunde verletzt und die letzte tötet
+- jede-stunde-verletzt-und-die-letzte-totet
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: The Great Blondino
 slug: the-great-blondino
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-390
-edition_label: ''
 directors:
-- Robert Nelson
+- robert-nelson
 still: ''
 gallery: []
 resources:

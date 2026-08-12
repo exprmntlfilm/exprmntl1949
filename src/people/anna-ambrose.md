@@ -3,12 +3,12 @@ name: Anna Ambrose
 slug: anna-ambrose
 country: England
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Record Time
-- Noodle Spinner
+- record-time
+- noodle-spinner
 resources:
 - name: Film scripts / notes
   file: ''

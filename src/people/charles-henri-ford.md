@@ -3,11 +3,11 @@ name: Charles Henri Ford
 slug: charles-henri-ford
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Poem Posters
+- poem-posters
 resources:
 - name: Film scripts / notes
   file: ''

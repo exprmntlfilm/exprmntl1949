@@ -3,11 +3,11 @@ name: Thierry Zeno
 slug: thierry-zeno
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Vase de Noces
+- vase-de-noces
 resources:
 - name: Film scripts / notes
   file: ''

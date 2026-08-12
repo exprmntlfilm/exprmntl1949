@@ -3,11 +3,11 @@ name: Jerzy Bossak
 slug: jerzy-bossak
 country: Russia
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Warszawa '56
+- warszawa-56
 resources:
 - name: Film scripts / notes
   file: ''

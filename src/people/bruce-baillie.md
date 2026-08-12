@@ -3,11 +3,11 @@ name: Bruce Baillie
 slug: bruce-baillie
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- To Parsifal
+- to-parsifal
 resources:
 - name: Film scripts / notes
   file: ''

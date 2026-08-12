@@ -3,11 +3,11 @@ name: Ante Babaja
 slug: ante-babaja
 country: Croatia
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Lakat (kao takav)
+- lakat-kao-takav
 resources:
 - name: Film scripts / notes
   file: ''

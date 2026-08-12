@@ -3,13 +3,13 @@ name: Jean-Daniel Pollet
 slug: jean-daniel-pollet
 country: France
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Pourvu qu'on ait l'ivresse...
-- Méditerranée
+- pourvu-qu-on-ait-l-ivresse
+- mediterranee
 resources:
 - name: Film scripts / notes
   file: ''

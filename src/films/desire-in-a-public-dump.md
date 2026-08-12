@@ -2,11 +2,10 @@
 title: Desire in a Public Dump
 slug: desire-in-a-public-dump
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-101
-edition_label: ''
 directors:
-- Robert Pike
+- robert-pike
 still: ''
 gallery: []
 resources:

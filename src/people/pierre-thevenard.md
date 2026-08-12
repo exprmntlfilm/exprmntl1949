@@ -3,11 +3,11 @@ name: Pierre Thévenard
 slug: pierre-thevenard
 country: France
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Lueurs dans les Ténèbres
+- lueurs-dans-les-tenebres
 resources:
 - name: Film scripts / notes
   file: ''

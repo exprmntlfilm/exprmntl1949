@@ -2,11 +2,10 @@
 title: Zebra
 slug: zebra
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-477
-edition_label: ''
 directors:
-- Louis Hock
+- louis-hock
 still: ''
 gallery: []
 resources:

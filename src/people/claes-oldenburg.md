@@ -3,11 +3,11 @@ name: Claes Oldenburg
 slug: claes-oldenburg
 country: Sweden
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Pat's Birthday
+- pat-s-birthday
 resources:
 - name: Film scripts / notes
   file: ''

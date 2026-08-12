@@ -2,11 +2,10 @@
 title: Wie ein Jewel
 slug: wie-ein-jewel
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-474
-edition_label: ''
 directors:
-- Bastian Clevé
+- bastian-cleve
 still: ''
 gallery: []
 resources:

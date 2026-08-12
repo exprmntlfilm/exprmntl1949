@@ -3,13 +3,13 @@ name: Wilhelm Hein
 slug: wilhelm-hein
 country: Germany
 editions:
-- '1967'
-- '1974'
+- 1967
+- 1974
 photo: ''
 gallery: []
 films:
-- S & W
-- Strukturelle Studien
+- s-w
+- strukturelle-studien
 resources:
 - name: Film scripts / notes
   file: ''

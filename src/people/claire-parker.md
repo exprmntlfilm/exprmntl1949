@@ -3,11 +3,11 @@ name: Claire Parker
 slug: claire-parker
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Le Nez
+- le-nez
 resources:
 - name: Film scripts / notes
   file: ''

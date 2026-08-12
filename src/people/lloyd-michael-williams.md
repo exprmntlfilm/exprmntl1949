@@ -3,13 +3,13 @@ name: Lloyd Michael Williams
 slug: lloyd-michael-williams
 country: USA
 editions:
-- '1963'
-- '1967'
+- 1963
+- 1967
 photo: ''
 gallery: []
 films:
-- Opus 5
-- Line of Apogee
+- opus-5
+- line-of-apogee
 resources:
 - name: Film scripts / notes
   file: ''

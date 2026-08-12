@@ -3,14 +3,14 @@ name: Ed Emshwiller
 slug: ed-emshwiller
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Dance Chromatic
-- Lifelines
-- Thanatopsis
-- Totem
+- dance-chromatic
+- lifelines
+- thanatopsis
+- totem
 resources:
 - name: Film scripts / notes
   file: ''

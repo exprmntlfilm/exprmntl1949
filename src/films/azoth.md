@@ -2,11 +2,10 @@
 title: Azoth
 slug: azoth
 year: '1973'
-edition: '1974'
+edition: 1974
 cat_num: cat-411
-edition_label: ''
 directors:
-- Tsuneo Nakai
+- tsuneo-nakai
 still: ''
 gallery: []
 resources:

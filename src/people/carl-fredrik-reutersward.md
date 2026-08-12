@@ -3,11 +3,11 @@ name: Carl Fredrik Reuterswärd
 slug: carl-fredrik-reutersward
 country: Sweden
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Buffallo Bill
+- buffallo-bill
 resources:
 - name: Film scripts / notes
   file: ''

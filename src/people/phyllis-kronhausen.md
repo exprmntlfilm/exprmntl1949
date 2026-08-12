@@ -3,11 +3,11 @@ name: Phyllis Kronhausen
 slug: phyllis-kronhausen
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Psychomontage
+- psychomontage
 resources:
 - name: Film scripts / notes
   file: ''

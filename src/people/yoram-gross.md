@@ -3,11 +3,11 @@ name: Yoram Gross
 slug: yoram-gross
 country: Poland
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Chansons sans Paroles
+- chansons-sans-paroles
 resources:
 - name: Film scripts / notes
   file: ''

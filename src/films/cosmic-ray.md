@@ -2,11 +2,10 @@
 title: Cosmic Ray
 slug: cosmic-ray
 year: '1962'
-edition: '1963'
+edition: 1963
 cat_num: cat-222
-edition_label: ''
 directors:
-- Bruce Conner
+- bruce-conner
 still: ''
 gallery: []
 resources:

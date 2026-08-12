@@ -2,11 +2,10 @@
 title: Aubervilliers
 slug: aubervilliers
 year: '1946'
-edition: '1949'
+edition: 1949
 cat_num: cat-012
-edition_label: ''
 directors:
-- Eli Lotar
+- eli-lotar
 still: ''
 gallery: []
 resources:

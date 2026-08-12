@@ -2,11 +2,10 @@
 title: Portrait électro machin-chose
 slug: portrait-electro-machin-chose
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-374
-edition_label: ''
 directors:
-- Martial Raysse
+- martial-raysse
 still: ''
 gallery: []
 resources:

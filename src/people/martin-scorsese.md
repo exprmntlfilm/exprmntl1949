@@ -3,11 +3,11 @@ name: Martin Scorsese
 slug: martin-scorsese
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- The Big Shave
+- the-big-shave
 resources:
 - name: Film scripts / notes
   file: ''

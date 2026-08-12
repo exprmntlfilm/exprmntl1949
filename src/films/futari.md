@@ -2,11 +2,10 @@
 title: Futari
 slug: futari
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-234
-edition_label: ''
 directors:
-- Donald Richie
+- donald-richie
 still: ''
 gallery: []
 resources:

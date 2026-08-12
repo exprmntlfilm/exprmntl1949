@@ -3,14 +3,14 @@ name: Vlado Kristl
 slug: vlado-kristl
 country: Croatia
 editions:
-- '1963'
-- '1967'
+- 1963
+- 1967
 photo: ''
 gallery: []
 films:
-- Poor People
-- Madeleine Madeleine
-- Die Utopen
+- poor-people
+- madeleine-madeleine
+- die-utopen
 resources:
 - name: Film scripts / notes
   file: ''

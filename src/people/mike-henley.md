@@ -3,11 +3,11 @@ name: Mike Henley
 slug: mike-henley
 country: England
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Sunlight
+- sunlight
 resources:
 - name: Film scripts / notes
   file: ''

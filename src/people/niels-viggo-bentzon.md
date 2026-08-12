@@ -3,11 +3,11 @@ name: Niels Viggo Bentzon
 slug: niels-viggo-bentzon
 country: Denmark
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Corny
+- corny
 resources:
 - name: Film scripts / notes
   file: ''

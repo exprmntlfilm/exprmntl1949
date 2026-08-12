@@ -2,11 +2,10 @@
 title: Bist du Christu?
 slug: bist-du-christu
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-414
-edition_label: ''
 directors:
-- Yves De Meester
+- yves-de-meester
 still: ''
 gallery: []
 resources:

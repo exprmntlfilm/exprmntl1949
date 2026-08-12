@@ -3,11 +3,11 @@ name: Bazon Brock
 slug: bazon-brock
 country: Germany
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Das Seminar
+- das-seminar
 resources:
 - name: Film scripts / notes
   file: ''

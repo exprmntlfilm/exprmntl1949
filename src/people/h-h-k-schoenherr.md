@@ -3,11 +3,11 @@ name: H.H.K. Schoenherr
 slug: h-h-k-schoenherr
 country: Germany
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Das Nervöse Kino
+- das-nervose-kino
 resources:
 - name: Film scripts / notes
   file: ''

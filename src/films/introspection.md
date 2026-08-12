@@ -2,11 +2,10 @@
 title: Introspection
 slug: introspection
 year: '1941'
-edition: '1949'
+edition: 1949
 cat_num: cat-032
-edition_label: ''
 directors:
-- Sarah Arledge
+- sarah-arledge
 still: ''
 gallery: []
 resources:

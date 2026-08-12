@@ -3,11 +3,11 @@ name: Jean Noël Gobron
 slug: jean-noel-gobron
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Screentest for Eurydice
+- screentest-for-eurydice
 resources:
 - name: Film scripts / notes
   file: ''

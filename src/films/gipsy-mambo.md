@@ -2,11 +2,10 @@
 title: Gipsy Mambo
 slug: gipsy-mambo
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-120
-edition_label: ''
 directors:
-- Jesper Tvede
+- jesper-tvede
 still: ''
 gallery: []
 resources:

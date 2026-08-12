@@ -3,11 +3,11 @@ name: Bastian Clevé
 slug: bastian-cleve
 country: Germany
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Wie ein Jewel
+- wie-ein-jewel
 resources:
 - name: Film scripts / notes
   file: ''

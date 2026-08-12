@@ -11,9 +11,9 @@ films:
 - a-looking-for-summer
 - wilderness
 resources:
-  - name: Film scripts / notes
-    file: ""
-  - name: Press clippings
-    file: ""
+- name: Film scripts / notes
+  file: ''
+- name: Press clippings
+  file: ''
 ---
-testetetstbbhdbbehbhdbehbd;ejendej
+A filmmaker from USA, featured in competition at EXPRMNTL 3 (1963), EXPRMNTL 4 (1967). 2 films in the EXPRMNTL collection, listed below.

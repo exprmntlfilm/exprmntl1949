@@ -3,11 +3,11 @@ name: Edgar Reitz
 slug: edgar-reitz
 country: Germany
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Geschwindigkeit - Kino eins
+- geschwindigkeit-kino-eins
 resources:
 - name: Film scripts / notes
   file: ''

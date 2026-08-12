@@ -3,11 +3,11 @@ name: Allen Downs
 slug: allen-downs
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Color of the Day
+- color-of-the-day
 resources:
 - name: Film scripts / notes
   file: ''

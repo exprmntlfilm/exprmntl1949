@@ -3,11 +3,11 @@ name: Peter Ungerleider
 slug: peter-ungerleider
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Silver Stars
+- silver-stars
 resources:
 - name: Film scripts / notes
   file: ''

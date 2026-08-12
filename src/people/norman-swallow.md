@@ -3,11 +3,11 @@ name: Norman Swallow
 slug: norman-swallow
 country: England
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- On the Threshold
+- on-the-threshold
 resources:
 - name: Film scripts / notes
   file: ''

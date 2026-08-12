@@ -3,11 +3,11 @@ name: Yves De Meester
 slug: yves-de-meester
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Bist du Christu?
+- bist-du-christu
 resources:
 - name: Film scripts / notes
   file: ''

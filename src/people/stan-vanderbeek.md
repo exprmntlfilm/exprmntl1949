@@ -3,17 +3,17 @@ name: Stan VanDerBeek
 slug: stan-vanderbeek
 country: USA
 editions:
-- '1958'
-- '1963'
-- '1967'
+- 1958
+- 1963
+- 1967
 photo: ''
 gallery: []
 films:
-- What, Who, How
-- Mankinda
-- Summit
-- Breathdeath
-- A Dam Rib Bed
+- what-who-how
+- mankinda
+- summit
+- breathdeath
+- a-dam-rib-bed
 resources:
 - name: Film scripts / notes
   file: ''

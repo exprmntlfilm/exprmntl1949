@@ -2,11 +2,10 @@
 title: Dreams That Money Can Buy
 slug: dreams-that-money-can-buy
 year: '1947'
-edition: '1949'
+edition: 1949
 cat_num: cat-021
-edition_label: ''
 directors:
-- Hans Richter
+- hans-richter
 still: ''
 gallery: []
 resources:

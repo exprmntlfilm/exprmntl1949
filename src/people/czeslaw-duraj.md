@@ -3,11 +3,11 @@ name: Czeslaw Duraj
 slug: czeslaw-duraj
 country: Poland
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Szachownica
+- szachownica
 resources:
 - name: Film scripts / notes
   file: ''

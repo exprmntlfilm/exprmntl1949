@@ -3,12 +3,12 @@ name: Robert Lapoujade
 slug: robert-lapoujade
 country: France
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Prison
-- Trois Portraits d'un Oiseau-Qui-N'existe-Pas
+- prison
+- trois-portraits-d-un-oiseau-qui-n-existe-pas
 resources:
 - name: Film scripts / notes
   file: ''

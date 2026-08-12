@@ -3,11 +3,11 @@ name: Haro Senft
 slug: haro-senft
 country: Czech Republic
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Die Brücke
+- die-brucke
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,12 +2,11 @@
 title: The Mechanics of Love
 slug: the-mechanics-of-love
 year: '1955'
-edition: '1958'
+edition: 1958
 cat_num: cat-193
-edition_label: ''
 directors:
-- Ben Moore
-- Willard Maas
+- ben-moore
+- willard-maas
 still: ''
 gallery: []
 resources:

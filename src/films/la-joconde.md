@@ -2,11 +2,10 @@
 title: La Joconde
 slug: la-joconde
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-136
-edition_label: ''
 directors:
-- Henri Gruel
+- henri-gruel
 still: ''
 gallery: []
 resources:

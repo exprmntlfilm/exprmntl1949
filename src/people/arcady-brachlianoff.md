@@ -3,11 +3,11 @@ name: Arcady Brachlianoff
 slug: arcady-brachlianoff
 country: Bulgaria
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- De l'Autre Côté du Miroir
+- de-l-autre-cote-du-miroir
 resources:
 - name: Film scripts / notes
   file: ''

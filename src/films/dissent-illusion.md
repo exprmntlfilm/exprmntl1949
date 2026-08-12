@@ -2,11 +2,10 @@
 title: Dissent Illusion
 slug: dissent-illusion
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-229
-edition_label: ''
 directors:
-- Millie Goldsholl
+- millie-goldsholl
 still: ''
 gallery: []
 resources:

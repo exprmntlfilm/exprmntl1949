@@ -3,12 +3,12 @@ name: Paul Sharits
 slug: paul-sharits
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Piece Mandala/End War
-- Ray Gun Virus
+- piece-mandala-end-war
+- ray-gun-virus
 resources:
 - name: Film scripts / notes
   file: ''

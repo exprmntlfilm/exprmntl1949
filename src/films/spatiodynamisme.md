@@ -2,12 +2,11 @@
 title: Spatiodynamisme
 slug: spatiodynamisme
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-178
-edition_label: ''
 directors:
-- Nicolas Schöffer
-- Tinto Brass
+- nicolas-schoffer
+- tinto-brass
 still: ''
 gallery: []
 resources:

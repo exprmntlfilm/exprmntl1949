@@ -3,11 +3,11 @@ name: Georg Bense
 slug: georg-bense
 country: Germany
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Der Fisch fliegt steil
+- der-fisch-fliegt-steil
 resources:
 - name: Film scripts / notes
   file: ''

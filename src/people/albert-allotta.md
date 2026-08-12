@@ -3,11 +3,11 @@ name: Albert Allotta
 slug: albert-allotta
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Peacemeal
+- peacemeal
 resources:
 - name: Film scripts / notes
   file: ''

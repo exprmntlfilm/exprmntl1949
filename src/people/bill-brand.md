@@ -3,11 +3,11 @@ name: Bill Brand
 slug: bill-brand
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Demolition of a Wall
+- demolition-of-a-wall
 resources:
 - name: Film scripts / notes
   file: ''

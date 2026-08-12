@@ -3,11 +3,11 @@ name: Mordi Gerstein
 slug: mordi-gerstein
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- The Room
+- the-room
 resources:
 - name: Film scripts / notes
   file: ''

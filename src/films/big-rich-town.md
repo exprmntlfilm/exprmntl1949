@@ -2,11 +2,10 @@
 title: Big Rich Town
 slug: big-rich-town
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-325
-edition_label: ''
 directors:
-- Henry Niese
+- henry-niese
 still: ''
 gallery: []
 resources:

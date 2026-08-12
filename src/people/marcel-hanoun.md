@@ -3,11 +3,11 @@ name: Marcel Hanoun
 slug: marcel-hanoun
 country: Tunisia
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- L'authentique procès de Carl-Emmanuel Jung
+- l-authentique-proces-de-carl-emmanuel-jung
 resources:
 - name: Film scripts / notes
   file: ''

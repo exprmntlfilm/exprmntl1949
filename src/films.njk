@@ -7,6 +7,7 @@ eleventyComputed:
   permalink: "films.html"
 ---
 {% set editionsOrder = [1949, 1958, 1963, 1967, 1974] %}
+{% set editionLabels = {1949: "EXPRMNTL 1", 1958: "EXPRMNTL 2", 1963: "EXPRMNTL 3", 1967: "EXPRMNTL 4", 1974: "EXPRMNTL 5"} %}
 
 <main>
   <section class="shell page-head">
@@ -20,7 +21,7 @@ eleventyComputed:
   <section class="shell section" id="films-{{ ed }}">
     <div class="section-head">
       <div>
-        <p class="eyebrow">{{ ed | editionLabel }} &middot; {{ ed }}</p>
+        <p class="eyebrow">{{ editionLabels[ed] }} &middot; {{ ed }}</p>
         <h2>{{ filmsInEdition.length }} film{% if filmsInEdition.length != 1 %}s{% endif %} in the catalogue</h2>
       </div>
     </div>

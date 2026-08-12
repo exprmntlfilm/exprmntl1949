@@ -2,11 +2,10 @@
 title: Voyages II
 slug: voyages-ii
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-308
-edition_label: ''
 directors:
-- Raymond Saroff
+- raymond-saroff
 still: ''
 gallery: []
 resources:

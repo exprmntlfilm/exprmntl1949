@@ -2,11 +2,10 @@
 title: Eintags Fliege
 slug: eintags-fliege
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-106
-edition_label: ''
 directors:
-- Peter Fleischmann
+- peter-fleischmann
 still: ''
 gallery: []
 resources:

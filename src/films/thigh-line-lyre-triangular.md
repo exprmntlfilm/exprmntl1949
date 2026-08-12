@@ -2,11 +2,10 @@
 title: Thigh Line Lyre Triangular
 slug: thigh-line-lyre-triangular
 year: '1961'
-edition: '1963'
+edition: 1963
 cat_num: cat-295
-edition_label: ''
 directors:
-- Stan Brakhage
+- stan-brakhage
 still: ''
 gallery: []
 resources:

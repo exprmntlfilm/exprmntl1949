@@ -3,11 +3,11 @@ name: Stuart Wynn Jones
 slug: stuart-wynn-jones
 country: England
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Raving waving
+- raving-waving
 resources:
 - name: Film scripts / notes
   file: ''

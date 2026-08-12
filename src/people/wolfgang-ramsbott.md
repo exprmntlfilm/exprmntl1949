@@ -3,11 +3,11 @@ name: Wolfgang Ramsbott
 slug: wolfgang-ramsbott
 country: Germany
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Der weisse Hopfengarten
+- der-weisse-hopfengarten
 resources:
 - name: Film scripts / notes
   file: ''

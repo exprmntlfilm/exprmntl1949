@@ -2,11 +2,10 @@
 title: Amen
 slug: amen
 year: n. d.
-edition: '1963'
+edition: 1963
 cat_num: cat-211
-edition_label: ''
 directors:
-- Jos Pustjens
+- jos-pustjens
 still: ''
 gallery: []
 resources:

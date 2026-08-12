@@ -3,11 +3,11 @@ name: Alex Tartaglia
 slug: alex-tartaglia
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Two of Us
+- two-of-us
 resources:
 - name: Film scripts / notes
   file: ''

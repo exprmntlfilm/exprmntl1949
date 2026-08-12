@@ -2,11 +2,10 @@
 title: Studie V - Vaxelspel
 slug: studie-v-vaxelspel
 year: '1956'
-edition: '1958'
+edition: 1958
 cat_num: cat-180
-edition_label: ''
 directors:
-- Peter Weiss
+- peter-weiss
 still: ''
 gallery: []
 resources:

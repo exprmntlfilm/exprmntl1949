@@ -3,12 +3,12 @@ name: Byron Grush
 slug: byron-grush
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Hexagrams
-- Push You Pull Me
+- hexagrams
+- push-you-pull-me
 resources:
 - name: Film scripts / notes
   file: ''

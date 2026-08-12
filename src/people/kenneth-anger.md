@@ -3,14 +3,14 @@ name: Kenneth Anger
 slug: kenneth-anger
 country: USA
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Inauguration of the Pleasure Dome
-- Eaux d'Artifice
-- Scorpio Rising
+- inauguration-of-the-pleasure-dome
+- eaux-d-artifice
+- scorpio-rising
 resources:
 - name: Film scripts / notes
   file: ''

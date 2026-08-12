@@ -3,12 +3,12 @@ name: Oskar Fischinger
 slug: oskar-fischinger
 country: Germany
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Motion Painting No. 1
-- American March
+- motion-painting-no-1
+- american-march
 resources:
 - name: Film scripts / notes
   file: ''

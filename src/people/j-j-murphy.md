@@ -3,11 +3,11 @@ name: J. J. Murphy
 slug: j-j-murphy
 country: England
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Print Generation
+- print-generation
 resources:
 - name: Film scripts / notes
   file: ''

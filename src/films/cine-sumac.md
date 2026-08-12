@@ -2,11 +2,10 @@
 title: Ciné-sumac
 slug: cine-sumac
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-095
-edition_label: ''
 directors:
-- Jean Dasque
+- jean-dasque
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Tjerk Wicky
 slug: tjerk-wicky
 country: Switzerland
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Pêche de nuit
+- peche-de-nuit
 resources:
 - name: Film scripts / notes
   file: ''

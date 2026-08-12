@@ -2,11 +2,10 @@
 title: White in Bad Light
 slug: white-in-bad-light
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-473
-edition_label: ''
 directors:
-- Fu Ding Cheng
+- fu-ding-cheng
 still: ''
 gallery: []
 resources:

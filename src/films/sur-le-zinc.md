@@ -2,11 +2,10 @@
 title: Sur le Zinc
 slug: sur-le-zinc
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-184
-edition_label: ''
 directors:
-- Fred Schmid
+- fred-schmid
 still: ''
 gallery: []
 resources:

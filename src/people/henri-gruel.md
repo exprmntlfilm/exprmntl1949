@@ -3,12 +3,12 @@ name: Henri Gruel
 slug: henri-gruel
 country: France
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- La Joconde
-- Le Voyageur
+- la-joconde
+- le-voyageur
 resources:
 - name: Film scripts / notes
   file: ''

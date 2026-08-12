@@ -3,11 +3,11 @@ name: André Michel
 slug: andre-michel
 country: France
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- La Rose et le Réséda
+- la-rose-et-le-reseda
 resources:
 - name: Film scripts / notes
   file: ''

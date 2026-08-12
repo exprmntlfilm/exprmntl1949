@@ -3,11 +3,11 @@ name: Dieter H. Lemmel
 slug: dieter-h-lemmel
 country: Germany
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Marionetten
+- marionetten
 resources:
 - name: Film scripts / notes
   file: ''

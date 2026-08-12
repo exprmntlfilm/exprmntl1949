@@ -2,11 +2,10 @@
 title: Daybreak Express
 slug: daybreak-express
 year: 1953-57
-edition: '1963'
+edition: 1963
 cat_num: cat-226
-edition_label: ''
 directors:
-- Donn Alan Pennebaker
+- donn-alan-pennebaker
 still: ''
 gallery: []
 resources:

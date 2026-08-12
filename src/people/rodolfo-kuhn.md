@@ -3,11 +3,11 @@ name: Rodolfo Kuhn
 slug: rodolfo-kuhn
 country: Argentina
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Sinfonia en No Bemol
+- sinfonia-en-no-bemol
 resources:
 - name: Film scripts / notes
   file: ''

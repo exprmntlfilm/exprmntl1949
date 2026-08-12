@@ -3,11 +3,11 @@ name: Adam Beckett
 slug: adam-beckett
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Flesh Flows
+- flesh-flows
 resources:
 - name: Film scripts / notes
   file: ''

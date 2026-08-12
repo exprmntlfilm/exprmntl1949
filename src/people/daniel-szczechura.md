@@ -3,11 +3,11 @@ name: Daniel Szczechura
 slug: daniel-szczechura
 country: Poland
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Fotel
+- fotel
 resources:
 - name: Film scripts / notes
   file: ''

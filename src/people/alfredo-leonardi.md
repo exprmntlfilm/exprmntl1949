@@ -3,11 +3,11 @@ name: Alfredo Leonardi
 slug: alfredo-leonardi
 country: Italy
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Se l'inconscio si ribella
+- se-l-inconscio-si-ribella
 resources:
 - name: Film scripts / notes
   file: ''

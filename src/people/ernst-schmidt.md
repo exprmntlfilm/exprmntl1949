@@ -3,11 +3,11 @@ name: Ernst Schmidt
 slug: ernst-schmidt
 country: Austria
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Bodybuilding
+- bodybuilding
 resources:
 - name: Film scripts / notes
   file: ''

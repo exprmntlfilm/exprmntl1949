@@ -2,11 +2,10 @@
 title: Chasing the Blues
 slug: chasing-the-blues
 year: '1947'
-edition: '1949'
+edition: 1949
 cat_num: cat-016
-edition_label: ''
 directors:
-- Jack Chambers
+- jack-chambers
 still: ''
 gallery: []
 resources:

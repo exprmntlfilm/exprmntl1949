@@ -3,11 +3,11 @@ name: Robert H. Spring
 slug: robert-h-spring
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Edgar Allan Poe's Annabel Lee
+- edgar-allan-poe-s-annabel-lee
 resources:
 - name: Film scripts / notes
   file: ''

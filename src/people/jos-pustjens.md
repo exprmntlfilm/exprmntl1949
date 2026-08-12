@@ -3,11 +3,11 @@ name: Jos Pustjens
 slug: jos-pustjens
 country: Belgium
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Amen
+- amen
 resources:
 - name: Film scripts / notes
   file: ''

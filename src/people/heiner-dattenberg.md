@@ -3,12 +3,12 @@ name: Heiner Dattenberg
 slug: heiner-dattenberg
 country: Germany
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Aspekte
-- Monographie
+- aspekte
+- monographie
 resources:
 - name: Film scripts / notes
   file: ''

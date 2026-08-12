@@ -2,11 +2,10 @@
 title: Ultra-rouge < – > Infra-violet
 slug: ultra-rouge-infra-violet
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-465
-edition_label: ''
 directors:
-- Guy Fihman
+- guy-fihman
 still: ''
 gallery: []
 resources:

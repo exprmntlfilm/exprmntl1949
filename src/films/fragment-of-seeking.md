@@ -2,11 +2,10 @@
 title: Fragment of Seeking
 slug: fragment-of-seeking
 year: '1946'
-edition: '1949'
+edition: 1949
 cat_num: cat-028
-edition_label: ''
 directors:
-- Curtiss Harrington
+- curtiss-harrington
 still: ''
 gallery: []
 resources:

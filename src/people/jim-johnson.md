@@ -3,11 +3,11 @@ name: Jim Johnson
 slug: jim-johnson
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Transman
+- transman
 resources:
 - name: Film scripts / notes
   file: ''

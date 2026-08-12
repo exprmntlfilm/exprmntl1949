@@ -3,11 +3,11 @@ name: Michio Okabe
 slug: michio-okabe
 country: Japan
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Shonen Shiko
+- shonen-shiko
 resources:
 - name: Film scripts / notes
   file: ''

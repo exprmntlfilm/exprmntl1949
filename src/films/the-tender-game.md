@@ -2,11 +2,10 @@
 title: The Tender Game
 slug: the-tender-game
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-195
-edition_label: ''
 directors:
-- John Hubley
+- john-hubley
 still: ''
 gallery: []
 resources:

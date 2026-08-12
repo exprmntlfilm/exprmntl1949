@@ -3,11 +3,11 @@ name: Tarech Raheem
 slug: tarech-raheem
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Sperm Fairies in a Box
+- sperm-fairies-in-a-box
 resources:
 - name: Film scripts / notes
   file: ''

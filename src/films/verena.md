@@ -2,11 +2,10 @@
 title: Verena
 slug: verena
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-468
-edition_label: ''
 directors:
-- Ed Sommer
+- ed-sommer
 still: ''
 gallery: []
 resources:

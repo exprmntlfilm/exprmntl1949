@@ -3,13 +3,13 @@ name: Dore O.
 slug: dore-o
 country: Germany
 editions:
-- '1967'
-- '1974'
+- 1967
+- 1974
 photo: ''
 gallery: []
 films:
-- Jüm-Jüm
-- Kaskara
+- jum-jum
+- kaskara
 resources:
 - name: Film scripts / notes
   file: ''

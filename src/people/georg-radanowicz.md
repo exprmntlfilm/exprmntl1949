@@ -3,11 +3,11 @@ name: Georg Radanowicz
 slug: georg-radanowicz
 country: Switzerland
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Pic-Nic
+- pic-nic
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,13 +3,13 @@ name: Shirley Clarke
 slug: shirley-clarke
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- A Moment in Love
-- Bullfight
-- Bridges Round New York
+- a-moment-in-love
+- bullfight
+- bridges-round-new-york
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Margaret Tait
 slug: margaret-tait
 country: Scotland
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Rose Street
+- rose-street
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,13 +3,13 @@ name: Stephen Dwoskin
 slug: stephen-dwoskin
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Soliloquy
-- Chinese Checkers
-- Naissant
+- soliloquy
+- chinese-checkers
+- naissant
 resources:
 - name: Film scripts / notes
   file: ''

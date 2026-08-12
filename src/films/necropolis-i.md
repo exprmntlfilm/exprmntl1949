@@ -2,11 +2,10 @@
 title: Necropolis I
 slug: necropolis-i
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-262
-edition_label: ''
 directors:
-- Raymond Saroff
+- raymond-saroff
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Ron Rice
 slug: ron-rice
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Chumlum
+- chumlum
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: Two Short Films
 slug: two-short-films
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-304
-edition_label: ''
 directors:
-- George Manupelli
+- george-manupelli
 still: ''
 gallery: []
 resources:

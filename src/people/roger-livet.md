@@ -3,11 +3,11 @@ name: Roger Livet
 slug: roger-livet
 country: France
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Royaumes de ce monde
+- royaumes-de-ce-monde
 resources:
 - name: Film scripts / notes
   file: ''

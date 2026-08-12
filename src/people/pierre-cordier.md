@@ -3,11 +3,11 @@ name: Pierre Cordier
 slug: pierre-cordier
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Start
+- start
 resources:
 - name: Film scripts / notes
   file: ''

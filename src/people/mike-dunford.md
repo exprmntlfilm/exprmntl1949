@@ -3,11 +3,11 @@ name: Mike Dunford
 slug: mike-dunford
 country: England
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Still Life with Pear
+- still-life-with-pear
 resources:
 - name: Film scripts / notes
   file: ''

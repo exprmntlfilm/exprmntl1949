@@ -3,11 +3,11 @@ name: Victor A. Iturralde Rua
 slug: victor-a-iturralde-rua
 country: Argentina
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Petrolita
+- petrolita
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,12 +2,11 @@
 title: Screentest for Eurydice
 slug: screentest-for-eurydice
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-446
-edition_label: ''
 directors:
-- Jean Noël Gobron
-- Marc Ghens
+- jean-noel-gobron
+- marc-ghens
 still: ''
 gallery: []
 resources:

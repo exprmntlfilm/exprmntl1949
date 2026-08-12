@@ -3,11 +3,11 @@ name: Paul Jespers
 slug: paul-jespers
 country: Belgium
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Etude
+- etude
 resources:
 - name: Film scripts / notes
   file: ''

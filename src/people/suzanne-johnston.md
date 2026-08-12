@@ -3,11 +3,11 @@ name: Suzanne Johnston
 slug: suzanne-johnston
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Prelude
+- prelude-unk
 resources:
 - name: Film scripts / notes
   file: ''

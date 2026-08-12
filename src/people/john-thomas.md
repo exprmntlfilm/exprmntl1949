@@ -3,11 +3,11 @@ name: John Thomas
 slug: john-thomas
 country: France
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- A. Graham Cracker
+- a-graham-cracker
 resources:
 - name: Film scripts / notes
   file: ''

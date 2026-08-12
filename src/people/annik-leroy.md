@@ -3,11 +3,11 @@ name: Annik Leroy
 slug: annik-leroy
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- N.B.C. (Nucléaire, Biologique, Chimique)
+- n-b-c-nucleaire-biologique-chimique
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,11 +2,10 @@
 title: Die Brücke
 slug: die-brucke
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-102
-edition_label: ''
 directors:
-- Haro Senft
+- haro-senft
 still: ''
 gallery: []
 resources:

@@ -3,12 +3,12 @@ name: Jim Davis
 slug: jim-davis
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Energies
-- Pertaining to Chicago
+- energies
+- pertaining-to-chicago
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Roland Lethem
 slug: roland-lethem
 country: Belgium
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Les souffrances d'un oeuf meurtri
+- les-souffrances-d-un-oeuf-meurtri
 resources:
 - name: Film scripts / notes
   file: ''

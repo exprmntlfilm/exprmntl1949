@@ -2,11 +2,10 @@
 title: Magueyes
 slug: magueyes
 year: '1962'
-edition: '1963'
+edition: 1963
 cat_num: cat-255
-edition_label: ''
 directors:
-- Ruben Gámez
+- ruben-gamez
 still: ''
 gallery: []
 resources:

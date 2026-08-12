@@ -2,11 +2,10 @@
 title: Une Lettre
 slug: une-lettre
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-202
-edition_label: ''
 directors:
-- Gérard Valet
+- gerard-valet
 still: ''
 gallery: []
 resources:

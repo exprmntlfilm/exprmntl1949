@@ -3,12 +3,12 @@ name: Willard Maas
 slug: willard-maas
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- The Mechanics of Love
-- Narcissus
+- the-mechanics-of-love
+- narcissus
 resources:
 - name: Film scripts / notes
   file: ''

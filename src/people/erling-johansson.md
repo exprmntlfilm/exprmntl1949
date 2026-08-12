@@ -3,11 +3,11 @@ name: Erling Johansson
 slug: erling-johansson
 country: Sweden
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Anima Mundi
+- anima-mundi
 resources:
 - name: Film scripts / notes
   file: ''

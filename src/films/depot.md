@@ -2,11 +2,10 @@
 title: Depot
 slug: depot
 year: '1973'
-edition: '1974'
+edition: 1974
 cat_num: cat-421
-edition_label: ''
 directors:
-- Susan Brockman
+- susan-brockman
 still: ''
 gallery: []
 resources:

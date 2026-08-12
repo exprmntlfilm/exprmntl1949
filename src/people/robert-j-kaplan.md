@@ -3,11 +3,11 @@ name: Robert J. Kaplan
 slug: robert-j-kaplan
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Life Endeath
+- life-endeath
 resources:
 - name: Film scripts / notes
   file: ''

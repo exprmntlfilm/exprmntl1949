@@ -2,11 +2,10 @@
 title: Five for four
 slug: five-for-four
 year: '1942'
-edition: '1949'
+edition: 1949
 cat_num: cat-027
-edition_label: ''
 directors:
-- Norman McLaren
+- norman-mclaren
 still: ''
 gallery: []
 resources:

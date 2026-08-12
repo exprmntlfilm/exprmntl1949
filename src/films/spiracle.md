@@ -2,11 +2,10 @@
 title: Spiracle
 slug: spiracle
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-384
-edition_label: ''
 directors:
-- Robert Beavers
+- robert-beavers
 still: ''
 gallery: []
 resources:

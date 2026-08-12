@@ -2,11 +2,10 @@
 title: Pochod
 slug: pochod
 year: '1966'
-edition: '1967'
+edition: 1967
 cat_num: cat-372
-edition_label: ''
 directors:
-- Ivan Hustava
+- ivan-hustava
 still: ''
 gallery: []
 resources:

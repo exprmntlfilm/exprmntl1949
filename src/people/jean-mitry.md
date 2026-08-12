@@ -3,13 +3,13 @@ name: Jean Mitry
 slug: jean-mitry
 country: France
 editions:
-- '1949'
-- '1958'
+- 1949
+- 1958
 photo: ''
 gallery: []
 films:
-- Pacific 231
-- Symphonie Mecanique
+- pacific-231
+- symphonie-mecanique
 resources:
 - name: Film scripts / notes
   file: ''

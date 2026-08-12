@@ -3,11 +3,11 @@ name: Wieslaw Hudon
 slug: wieslaw-hudon
 country: Poland
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Durée
+- duree
 resources:
 - name: Film scripts / notes
   file: ''

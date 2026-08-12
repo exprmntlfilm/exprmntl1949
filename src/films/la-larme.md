@@ -2,11 +2,10 @@
 title: La larme
 slug: la-larme
 year: '1947'
-edition: '1949'
+edition: 1949
 cat_num: cat-036
-edition_label: ''
 directors:
-- Søren Melson
+- soren-melson
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,10 @@
 title: Jede Stunde verletzt und die letzte tötet
 slug: jede-stunde-verletzt-und-die-letzte-totet
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-240
-edition_label: ''
 directors:
-- Peter Lilienthal
+- peter-lilienthal
 still: ''
 gallery: []
 resources:

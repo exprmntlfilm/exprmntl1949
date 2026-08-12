@@ -2,11 +2,10 @@
 title: N.B.C. (Nucléaire, Biologique, Chimique)
 slug: n-b-c-nucleaire-biologique-chimique
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-438
-edition_label: ''
 directors:
-- Annik Leroy
+- annik-leroy
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Hope Ryden
 slug: hope-ryden
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Susan Starr
+- susan-starr
 resources:
 - name: Film scripts / notes
   file: ''

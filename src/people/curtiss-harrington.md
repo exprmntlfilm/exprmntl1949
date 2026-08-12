@@ -3,11 +3,11 @@ name: Curtiss Harrington
 slug: curtiss-harrington
 country: USA
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Fragment of Seeking
+- fragment-of-seeking
 resources:
 - name: Film scripts / notes
   file: ''

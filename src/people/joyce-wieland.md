@@ -3,11 +3,11 @@ name: Joyce Wieland
 slug: joyce-wieland
 country: Canada
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Water Sark
+- water-sark
 resources:
 - name: Film scripts / notes
   file: ''

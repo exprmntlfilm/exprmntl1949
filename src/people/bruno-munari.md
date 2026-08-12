@@ -3,11 +3,11 @@ name: Bruno Munari
 slug: bruno-munari
 country: Italy
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- I colori della luce
+- i-colori-della-luce
 resources:
 - name: Film scripts / notes
   file: ''

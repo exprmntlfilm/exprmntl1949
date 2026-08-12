@@ -3,11 +3,11 @@ name: Philip Greene
 slug: philip-greene
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Have You Sold Your Dozen Roses?
+- have-you-sold-your-dozen-roses
 resources:
 - name: Film scripts / notes
   file: ''

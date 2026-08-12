@@ -2,11 +2,10 @@
 title: Besöket
 slug: besoket
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-324
-edition_label: ''
 directors:
-- Åke Arenhill
+- ake-arenhill
 still: ''
 gallery: []
 resources:

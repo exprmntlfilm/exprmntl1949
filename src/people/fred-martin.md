@@ -3,11 +3,11 @@ name: Fred Martin
 slug: fred-martin
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Sublimated Birth
+- sublimated-birth
 resources:
 - name: Film scripts / notes
   file: ''

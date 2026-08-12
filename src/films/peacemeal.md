@@ -2,11 +2,10 @@
 title: Peacemeal
 slug: peacemeal
 year: '1967'
-edition: '1967'
+edition: 1967
 cat_num: cat-368
-edition_label: ''
 directors:
-- Albert Allotta
+- albert-allotta
 still: ''
 gallery: []
 resources:

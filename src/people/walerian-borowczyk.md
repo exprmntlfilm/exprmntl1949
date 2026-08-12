@@ -3,13 +3,13 @@ name: Walerian Borowczyk
 slug: walerian-borowczyk
 country: Poland
 editions:
-- '1958'
-- '1963'
+- 1958
+- 1963
 photo: ''
 gallery: []
 films:
-- Dom
-- Renaissance
+- dom
+- renaissance
 resources:
 - name: Film scripts / notes
   file: ''

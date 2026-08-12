@@ -3,12 +3,12 @@ name: Philip Stapp
 slug: philip-stapp
 country: USA
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Boundary lines
-- Picture in Your Mind
+- boundary-lines
+- picture-in-your-mind
 resources:
 - name: Film scripts / notes
   file: ''

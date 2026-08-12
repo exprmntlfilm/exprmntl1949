@@ -2,11 +2,10 @@
 title: Psyché
 slug: psyche
 year: 1947-48
-edition: '1949'
+edition: 1949
 cat_num: cat-060
-edition_label: ''
 directors:
-- Gregory Markopoulos
+- gregory-markopoulos
 still: ''
 gallery: []
 resources:

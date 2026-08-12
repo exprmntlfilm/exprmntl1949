@@ -2,11 +2,10 @@
 title: Cibernetik 5.3
 slug: cibernetik-5-3
 year: '1965'
-edition: '1967'
+edition: 1967
 cat_num: cat-329
-edition_label: ''
 directors:
-- John Stehura
+- john-stehura
 still: ''
 gallery: []
 resources:

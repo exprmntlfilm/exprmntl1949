@@ -2,11 +2,10 @@
 title: Composition 57-1
 slug: composition-57-1
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-097
-edition_label: ''
 directors:
-- René Bras
+- rene-bras
 still: ''
 gallery: []
 resources:

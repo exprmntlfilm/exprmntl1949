@@ -3,11 +3,11 @@ name: François Reichenbach
 slug: francois-reichenbach
 country: France
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Les Marines
+- les-marines
 resources:
 - name: Film scripts / notes
   file: ''

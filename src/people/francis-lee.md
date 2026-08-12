@@ -3,13 +3,13 @@ name: Francis Lee
 slug: francis-lee
 country: USA
 editions:
-- '1949'
+- 1949
 photo: ''
 gallery: []
 films:
-- Idyl
-- Journée
-- Le bijou
+- idyl
+- journee
+- le-bijou
 - '1941'
 resources:
 - name: Film scripts / notes

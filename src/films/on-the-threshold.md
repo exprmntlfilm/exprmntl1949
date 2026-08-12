@@ -2,11 +2,10 @@
 title: On the Threshold
 slug: on-the-threshold
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-156
-edition_label: ''
 directors:
-- Norman Swallow
+- norman-swallow
 still: ''
 gallery: []
 resources:

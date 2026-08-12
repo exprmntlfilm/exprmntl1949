@@ -3,11 +3,11 @@ name: Dorothy Wiley
 slug: dorothy-wiley
 country: USA
 editions:
-- '1967'
+- 1967
 photo: ''
 gallery: []
 films:
-- Fog Pumas
+- fog-pumas
 resources:
 - name: Film scripts / notes
   file: ''

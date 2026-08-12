@@ -2,11 +2,10 @@
 title: Highway
 slug: highway
 year: '1958'
-edition: '1958'
+edition: 1958
 cat_num: cat-124
-edition_label: ''
 directors:
-- Hilary Harris
+- hilary-harris
 still: ''
 gallery: []
 resources:

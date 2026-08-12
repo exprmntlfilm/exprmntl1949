@@ -3,11 +3,11 @@ name: Márk Novák
 slug: mark-novak
 country: Hungary
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Csendélet
+- csendelet
 resources:
 - name: Film scripts / notes
   file: ''

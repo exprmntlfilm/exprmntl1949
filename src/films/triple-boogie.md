@@ -2,11 +2,10 @@
 title: Triple Boogie
 slug: triple-boogie
 year: '1947'
-edition: '1949'
+edition: 1949
 cat_num: cat-072
-edition_label: ''
 directors:
-- Richard Winther
+- richard-winther
 still: ''
 gallery: []
 resources:

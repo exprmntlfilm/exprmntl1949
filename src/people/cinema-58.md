@@ -3,11 +3,11 @@ name: Cinéma 58
 slug: cinema-58
 country: Japan
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Tokio 1958
+- tokio-1958
 resources:
 - name: Film scripts / notes
   file: ''

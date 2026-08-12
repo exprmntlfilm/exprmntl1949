@@ -3,11 +3,11 @@ name: David Hykes
 slug: david-hykes
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Moving Parts
+- moving-parts
 resources:
 - name: Film scripts / notes
   file: ''

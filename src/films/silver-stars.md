@@ -2,11 +2,10 @@
 title: Silver Stars
 slug: silver-stars
 year: '1974'
-edition: '1974'
+edition: 1974
 cat_num: cat-448
-edition_label: ''
 directors:
-- Peter Ungerleider
+- peter-ungerleider
 still: ''
 gallery: []
 resources:

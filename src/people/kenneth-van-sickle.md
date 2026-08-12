@@ -3,11 +3,11 @@ name: Kenneth van Sickle
 slug: kenneth-van-sickle
 country: USA
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- The Winner
+- the-winner
 resources:
 - name: Film scripts / notes
   file: ''

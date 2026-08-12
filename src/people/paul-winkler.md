@@ -3,11 +3,11 @@ name: Paul Winkler
 slug: paul-winkler
 country: Germany
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Dark
+- dark
 resources:
 - name: Film scripts / notes
   file: ''

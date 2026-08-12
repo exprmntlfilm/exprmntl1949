@@ -3,11 +3,11 @@ name: Monique Lepeuve
 slug: monique-lepeuve
 country: France
 editions:
-- '1963'
+- 1963
 photo: ''
 gallery: []
 films:
-- Venir du Havre
+- venir-du-havre
 resources:
 - name: Film scripts / notes
   file: ''

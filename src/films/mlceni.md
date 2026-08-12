@@ -2,11 +2,10 @@
 title: Mlčení
 slug: mlceni
 year: '1963'
-edition: '1963'
+edition: 1963
 cat_num: cat-257
-edition_label: ''
 directors:
-- Juraj Jakubisko
+- juraj-jakubisko
 still: ''
 gallery: []
 resources:

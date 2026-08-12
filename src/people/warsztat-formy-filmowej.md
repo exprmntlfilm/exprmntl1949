@@ -3,11 +3,11 @@ name: Warsztat Formy Filmowej
 slug: warsztat-formy-filmowej
 country: Poland
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Choix 1
+- choix-1
 resources:
 - name: Film scripts / notes
   file: ''

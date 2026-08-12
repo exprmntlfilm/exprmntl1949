@@ -3,11 +3,11 @@ name: Luk Gubbels
 slug: luk-gubbels
 country: Belgium
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- Yours and Mine
+- yours-and-mine
 resources:
 - name: Film scripts / notes
   file: ''

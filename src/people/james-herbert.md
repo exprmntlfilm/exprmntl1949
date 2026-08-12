@@ -3,13 +3,13 @@ name: James Herbert
 slug: james-herbert
 country: USA
 editions:
-- '1974'
+- 1974
 photo: ''
 gallery: []
 films:
-- January
-- Apalachee
-- Three
+- january
+- apalachee
+- three
 resources:
 - name: Film scripts / notes
   file: ''

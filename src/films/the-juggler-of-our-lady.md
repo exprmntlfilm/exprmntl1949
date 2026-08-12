@@ -2,11 +2,10 @@
 title: The Juggler of our Lady
 slug: the-juggler-of-our-lady
 year: '1957'
-edition: '1958'
+edition: 1958
 cat_num: cat-191
-edition_label: ''
 directors:
-- Al Kouzel
+- al-kouzel
 still: ''
 gallery: []
 resources:

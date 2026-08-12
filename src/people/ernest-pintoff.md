@@ -3,12 +3,12 @@ name: Ernest Pintoff
 slug: ernest-pintoff
 country: USA
 editions:
-- '1958'
+- 1958
 photo: ''
 gallery: []
 films:
-- Blues Pattern
-- Flebus
+- blues-pattern
+- flebus
 resources:
 - name: Film scripts / notes
   file: ''
