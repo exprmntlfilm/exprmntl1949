@@ -3,17 +3,17 @@ name: Abbott Meader
 slug: abbott-meader
 country: USA
 editions:
-- '1963'
-- '1967'
+- 1963
+- 1967
 photo: ''
 gallery: []
 films:
-- A Looking for Summer
-- Wilderness
+- a-looking-for-summer
+- wilderness
 resources:
-- name: Film scripts / notes
-  file: ''
-- name: Press clippings
-  file: ''
+  - name: Film scripts / notes
+    file: ""
+  - name: Press clippings
+    file: ""
 ---
-A filmmaker from USA, featured in competition at EXPRMNTL 3 (1963), EXPRMNTL 4 (1967). 2 films in the EXPRMNTL collection, listed below.
+testetetstbbhdbbehbhdbehbd;ejendej

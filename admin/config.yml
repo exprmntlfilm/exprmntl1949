@@ -1,10 +1,9 @@
 backend:
-  name: git-gateway
-  repo: exprmntlfilm/exprmntl1949
+  name: github
+  repo: SEU-USUARIO/NOME-DO-REPOSITORIO   # TODO: troque pelo seu usuário/repo do GitHub
   branch: main
-  identity_url: https://auth.decapbridge.com/sites/2b427b3e-f680-4870-8274-eb0ce795d53a
-  gateway_url: https://gateway.decapbridge.com
-  use_graphql: true
+  base_url: https://SUBSTITUA.decapbridge.com   # TODO: cole o endereço que o DecapBridge te der
+  auth_endpoint: auth
 
 media_folder: "src/images/uploads"
 public_folder: "images/uploads"
@@ -26,19 +25,17 @@ collections:
       - label: "Edição do festival"
         name: "edition"
         widget: "select"
-        options:
-          - {label: "1949", value: "1949"}
-          - {label: "1958", value: "1958"}
-          - {label: "1963", value: "1963"}
-          - {label: "1967", value: "1967"}
-          - {label: "1974", value: "1974"}
+        options: [1949, 1958, 1963, 1967, 1974]
       - {label: "Número de catálogo", name: "cat_num", widget: "string", required: false}
-      - {label: "Texto da etiqueta de edição (opcional)", name: "edition_label", widget: "string", required: false, hint: "Deixe em branco para o padrão automático ('Edition 1949'). Preencha pra escrever um texto seu."}
       - label: "Diretor(es)"
         name: "directors"
-        widget: "list"
-        field: {label: "Nome do diretor", name: "name", widget: "string"}
-        hint: "Digite o nome exatamente como está na página do diretor (ex: Norman McLaren). Se bater com um diretor já cadastrado, o link é criado sozinho. Se o filme tem mais de um diretor, adicione uma linha pra cada — nunca crie a página do filme duas vezes."
+        widget: "relation"
+        collection: "people"
+        search_fields: ["name"]
+        value_field: "{{slug}}"
+        display_fields: ["name"]
+        multiple: true
+        hint: "Se o filme tem mais de um diretor, adicione todos aqui — nunca crie a página do filme duas vezes."
       - {label: "Still (imagem de capa)", name: "still", widget: "image", required: false, hint: "Aparece na página do filme, no catálogo e nas páginas dos diretores."}
       - label: "Fotos adicionais (galeria)"
         name: "gallery"
@@ -70,12 +67,7 @@ collections:
         name: "editions"
         widget: "select"
         multiple: true
-        options:
-          - {label: "1949", value: "1949"}
-          - {label: "1958", value: "1958"}
-          - {label: "1963", value: "1963"}
-          - {label: "1967", value: "1967"}
-          - {label: "1974", value: "1974"}
+        options: [1949, 1958, 1963, 1967, 1974]
       - {label: "Papel (opcional)", name: "role", widget: "string", required: false, hint: "Deixe em branco para 'Filmmaker'. Use para casos como 'Founder & director'."}
       - {label: "Título de destaque (opcional)", name: "role_heading", widget: "string", required: false, hint: "Substitui o título automático ('Filmmaker at EXPRMNTL...') por um texto seu."}
       - {label: "Texto de edições (opcional)", name: "editions_label", widget: "string", required: false, hint: "Ex: 'All five editions'. Deixe em branco para o padrão automático."}
@@ -88,10 +80,13 @@ collections:
         hint: "Com 1+ fotos aqui (além do retrato), o recurso 'Portrait photographs' vira um botão de galeria sozinho."
       - label: "Filmes deste diretor"
         name: "films"
-        widget: "list"
-        field: {label: "Título do filme", name: "title", widget: "string"}
+        widget: "relation"
+        collection: "films"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        multiple: true
         required: false
-        hint: "Digite o título exatamente como está na página do filme. Se bater com um filme já cadastrado, o card aparece sozinho abaixo."
       - label: "Recursos (documentos)"
         name: "resources"
         widget: "list"
