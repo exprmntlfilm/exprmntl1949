@@ -27,9 +27,9 @@ layout: layouts/base.njk
         </p>
         {% if content %}<div class="body-copy">{{ content | safe }}</div>{% endif %}
         {% if awards.length %}
-        <div class="body-copy" style="margin-top:8px;">
-          <strong>Awards:</strong>
-          <ul style="margin:6px 0 0; padding-left:18px;">
+        <div class="awards-block">
+          <p class="awards-heading">&#127942; Awards</p>
+          <ul class="awards-list">
             {% for a in awards %}<li>{{ a }}</li>{% endfor %}
           </ul>
         </div>
