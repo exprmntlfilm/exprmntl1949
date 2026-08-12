@@ -198,6 +198,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("peopleGroups", (peopleColl, root) => peopleGroupsOf(peopleColl, root));
   eleventyConfig.addFilter("editionSection", (ed, root) => renderEditionSection(ed, root));
   eleventyConfig.addFilter("searchIndexJs", (films, people) => buildSearchIndex(films, people));
+  eleventyConfig.addFilter("editionLabel", (year) => {
+    const labels = { 1949: "EXPRMNTL 1", 1958: "EXPRMNTL 2", 1963: "EXPRMNTL 3", 1967: "EXPRMNTL 4", 1974: "EXPRMNTL 5" };
+    return labels[year] || ("EXPRMNTL " + year);
+  });
 
 
   return {
