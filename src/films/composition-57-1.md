@@ -1,0 +1,16 @@
+---
+title: Composition 57-1
+slug: composition-57-1
+year: '1957'
+edition: '1958'
+cat_num: cat-097
+edition_label: ''
+directors:
+- René Bras
+still: ''
+gallery: []
+resources:
+- name: Film card
+  file: ''
+---
+Completed in 1957. Screened in competition at EXPRMNTL 2.

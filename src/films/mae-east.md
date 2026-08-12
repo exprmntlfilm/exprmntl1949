@@ -1,0 +1,16 @@
+---
+title: Mae East
+slug: mae-east
+year: '1967'
+edition: '1967'
+cat_num: cat-359
+edition_label: ''
+directors:
+- Cassandra M. Gerstein
+still: ''
+gallery: []
+resources:
+- name: Film card
+  file: ''
+---
+Completed in 1967. Screened in competition at EXPRMNTL 4.

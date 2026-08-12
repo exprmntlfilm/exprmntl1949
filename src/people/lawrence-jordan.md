@@ -1,0 +1,17 @@
+---
+name: Lawrence Jordan
+slug: lawrence-jordan
+country: USA
+editions:
+- '1958'
+photo: ''
+gallery: []
+films:
+- The One Romantic Venture of Edward
+resources:
+- name: Film scripts / notes
+  file: ''
+- name: Press clippings
+  file: ''
+---
+A filmmaker from USA, featured in competition at EXPRMNTL 2 (1958). 1 film in the EXPRMNTL collection, listed below.
