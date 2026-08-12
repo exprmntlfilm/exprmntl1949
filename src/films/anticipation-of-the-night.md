@@ -2,10 +2,11 @@
 title: Anticipation of the Night
 slug: anticipation-of-the-night
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-083
+edition_label: ''
 directors:
-- stan-brakhage
+- Stan Brakhage
 still: ''
 gallery: []
 resources:

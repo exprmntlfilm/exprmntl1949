@@ -2,10 +2,11 @@
 title: King Coal
 slug: king-coal
 year: '1948'
-edition: 1949
+edition: '1949'
 cat_num: cat-034
+edition_label: ''
 directors:
-- julius-pinschewer
+- Julius Pinschewer
 still: ''
 gallery: []
 resources:

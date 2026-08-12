@@ -2,10 +2,11 @@
 title: L'Annonciation
 slug: l-annonciation
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-243
+edition_label: ''
 directors:
-- philippe-durand
+- Philippe Durand
 still: ''
 gallery: []
 resources:

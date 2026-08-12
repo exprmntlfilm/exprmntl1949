@@ -2,10 +2,11 @@
 title: Red Type
 slug: red-type
 year: '1961'
-edition: 1963
+edition: '1963'
 cat_num: cat-275
+edition_label: ''
 directors:
-- albert-noble
+- Albert Noble
 still: ''
 gallery: []
 resources:

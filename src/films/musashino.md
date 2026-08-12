@@ -2,10 +2,11 @@
 title: Musashino
 slug: musashino
 year: '1965'
-edition: 1967
+edition: '1967'
 cat_num: cat-362
+edition_label: ''
 directors:
-- yoichi-takabayashi
+- Yoichi Takabayashi
 still: ''
 gallery: []
 resources:

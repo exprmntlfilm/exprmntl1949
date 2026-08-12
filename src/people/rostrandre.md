@@ -3,11 +3,11 @@ name: Rostrandré
 slug: rostrandre
 country: Poland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- perdu
+- Perdu...
 resources:
 - name: Film scripts / notes
   file: ''

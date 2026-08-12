@@ -3,11 +3,11 @@ name: Albert Noble
 slug: albert-noble
 country: England
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- red-type
+- Red Type
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Trois Portraits d'un Oiseau-Qui-N'existe-Pas
 slug: trois-portraits-d-un-oiseau-qui-n-existe-pas
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-301
+edition_label: ''
 directors:
-- robert-lapoujade
+- Robert Lapoujade
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Jon Rubin
 slug: jon-rubin
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- lozenge-licking
+- Lozenge Licking
 resources:
 - name: Film scripts / notes
   file: ''

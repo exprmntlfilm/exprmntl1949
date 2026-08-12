@@ -3,11 +3,11 @@ name: Fu Ding Cheng
 slug: fu-ding-cheng
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- white-in-bad-light
+- White in Bad Light
 resources:
 - name: Film scripts / notes
   file: ''

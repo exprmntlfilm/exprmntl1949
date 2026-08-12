@@ -3,11 +3,11 @@ name: Pierre Puttemans
 slug: pierre-puttemans
 country: Belgium
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- etude
+- Etude
 resources:
 - name: Film scripts / notes
   file: ''

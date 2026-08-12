@@ -2,10 +2,11 @@
 title: Auto-portrait
 slug: auto-portrait
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-215
+edition_label: ''
 directors:
-- gerard-patris
+- Gérard Patris
 still: ''
 gallery: []
 resources:

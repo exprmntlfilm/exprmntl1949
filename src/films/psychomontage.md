@@ -2,11 +2,12 @@
 title: Psychomontage
 slug: psychomontage
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-273
+edition_label: ''
 directors:
-- eberhard-kronshqusen
-- phyllis-kronhausen
+- Eberhard Kronshqusen
+- Phyllis Kronhausen
 still: ''
 gallery: []
 resources:

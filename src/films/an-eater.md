@@ -2,10 +2,11 @@
 title: An Eater
 slug: an-eater
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-212
+edition_label: ''
 directors:
-- kazutomo-fujino
+- Kazutomo Fujino
 still: ''
 gallery: []
 resources:

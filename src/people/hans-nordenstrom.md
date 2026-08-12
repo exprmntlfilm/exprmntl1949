@@ -3,12 +3,12 @@ name: Hans Nordenström
 slug: hans-nordenstrom
 country: Sweden
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- en-dag-i-staden
-- enligt-lag
+- En Dag i Staden
+- Enligt Lag
 resources:
 - name: Film scripts / notes
   file: ''

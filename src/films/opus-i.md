@@ -2,10 +2,11 @@
 title: Opus I
 slug: opus-i
 year: '1949'
-edition: 1949
+edition: '1949'
 cat_num: cat-054
+edition_label: ''
 directors:
-- jorgen-roos
+- Jørgen Roos
 still: ''
 gallery: []
 resources:

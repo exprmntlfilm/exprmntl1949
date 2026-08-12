@@ -3,11 +3,11 @@ name: David McNeil
 slug: david-mcneil
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- week-end
+- Week-end
 resources:
 - name: Film scripts / notes
   file: ''

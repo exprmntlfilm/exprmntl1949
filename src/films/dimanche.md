@@ -2,10 +2,11 @@
 title: Dimanche
 slug: dimanche
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-228
+edition_label: ''
 directors:
-- edmond-bernhard
+- Edmond Bernhard
 still: ''
 gallery: []
 resources:

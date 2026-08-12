@@ -3,11 +3,11 @@ name: Susan Brockman
 slug: susan-brockman
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- depot
+- Depot
 resources:
 - name: Film scripts / notes
   file: ''

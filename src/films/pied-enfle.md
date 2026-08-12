@@ -2,10 +2,11 @@
 title: Pied Enflé
 slug: pied-enfle
 year: '1972'
-edition: 1974
+edition: '1974'
 cat_num: cat-441
+edition_label: ''
 directors:
-- jacques-dubuisson
+- Jacques Dubuisson
 still: ''
 gallery: []
 resources:

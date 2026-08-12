@@ -3,11 +3,11 @@ name: Barry Shear
 slug: barry-shear
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- the-ernie-kovaks-show
+- The Ernie Kovaks Show
 resources:
 - name: Film scripts / notes
   file: ''

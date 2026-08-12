@@ -3,11 +3,11 @@ name: Leonard Stark
 slug: leonard-stark
 country: USA
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- this-day
+- This Day
 resources:
 - name: Film scripts / notes
   file: ''

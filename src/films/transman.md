@@ -2,10 +2,11 @@
 title: Transman
 slug: transman
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-464
+edition_label: ''
 directors:
-- jim-johnson
+- Jim Johnson
 still: ''
 gallery: []
 resources:

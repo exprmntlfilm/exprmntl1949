@@ -2,10 +2,11 @@
 title: Geschwindigkeit - Kino eins
 slug: geschwindigkeit-kino-eins
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-235
+edition_label: ''
 directors:
-- edgar-reitz
+- Edgar Reitz
 still: ''
 gallery: []
 resources:

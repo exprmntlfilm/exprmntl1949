@@ -2,10 +2,11 @@
 title: Potemkine 3
 slug: potemkine-3
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-442
+edition_label: ''
 directors:
-- jean-marie-buchet
+- Jean-Marie Buchet
 still: ''
 gallery: []
 resources:

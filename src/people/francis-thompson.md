@@ -3,11 +3,11 @@ name: Francis Thompson
 slug: francis-thompson
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- n-y-n-y
+- N.Y., N.Y.
 resources:
 - name: Film scripts / notes
   file: ''

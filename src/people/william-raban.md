@@ -3,11 +3,11 @@ name: William Raban
 slug: william-raban
 country: England
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- time-stepping
+- Time Stepping
 resources:
 - name: Film scripts / notes
   file: ''

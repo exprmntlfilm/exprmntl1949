@@ -2,10 +2,11 @@
 title: Summer Discord
 slug: summer-discord
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-183
+edition_label: ''
 directors:
-- david-gladwell
+- David Gladwell
 still: ''
 gallery: []
 resources:

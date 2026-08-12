@@ -3,11 +3,11 @@ name: Louis Hock
 slug: louis-hock
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- zebra
+- Zebra
 resources:
 - name: Film scripts / notes
   file: ''

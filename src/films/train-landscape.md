@@ -2,10 +2,11 @@
 title: Train Landscape
 slug: train-landscape
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-463
+edition_label: ''
 directors:
-- jules-engel
+- Jules Engel
 still: ''
 gallery: []
 resources:

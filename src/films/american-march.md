@@ -2,10 +2,11 @@
 title: American March
 slug: american-march
 year: '1941'
-edition: 1949
+edition: '1949'
 cat_num: cat-009
+edition_label: ''
 directors:
-- oskar-fischinger
+- Oskar Fischinger
 still: ''
 gallery: []
 resources:

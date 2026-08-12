@@ -2,10 +2,11 @@
 title: Bullfight
 slug: bullfight
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-089
+edition_label: ''
 directors:
-- shirley-clarke
+- Shirley Clarke
 still: ''
 gallery: []
 resources:

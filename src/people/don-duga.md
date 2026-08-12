@@ -3,11 +3,11 @@ name: Don Duga
 slug: don-duga
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- jungle-madness
+- Jungle Madness
 resources:
 - name: Film scripts / notes
   file: ''

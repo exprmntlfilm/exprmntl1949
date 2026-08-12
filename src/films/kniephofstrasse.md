@@ -2,10 +2,11 @@
 title: Kniephofstrasse
 slug: kniephofstrasse
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-431
+edition_label: ''
 directors:
-- richard-woolley
+- Richard Woolley
 still: ''
 gallery: []
 resources:

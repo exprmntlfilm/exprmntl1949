@@ -2,10 +2,11 @@
 title: Zycie Jest Piekne
 slug: zycie-jest-piekne
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-206
+edition_label: ''
 directors:
-- tadeusz-makarczynski
+- Tadeusz Makarczynski
 still: ''
 gallery: []
 resources:

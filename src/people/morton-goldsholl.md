@@ -3,11 +3,11 @@ name: Morton Goldsholl
 slug: morton-goldsholl
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- night-driving
+- Night Driving
 resources:
 - name: Film scripts / notes
   file: ''

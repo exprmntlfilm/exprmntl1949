@@ -2,10 +2,11 @@
 title: Banjo feedback
 slug: banjo-feedback
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-412
+edition_label: ''
 directors:
-- tobe-j-carey
+- Tobe J. Carey
 still: ''
 gallery: []
 resources:

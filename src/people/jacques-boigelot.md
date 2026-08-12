@@ -3,11 +3,11 @@ name: Jacques Boigelot
 slug: jacques-boigelot
 country: Belgium
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- francoise-et-la-ville
+- Françoise et la ville
 resources:
 - name: Film scripts / notes
   file: ''

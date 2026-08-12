@@ -3,12 +3,12 @@ name: Robert Nelson
 slug: robert-nelson
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- grateful-dead
-- the-great-blondino
+- Grateful Dead
+- The Great Blondino
 resources:
 - name: Film scripts / notes
   file: ''

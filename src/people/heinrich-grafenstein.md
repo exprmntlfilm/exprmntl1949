@@ -3,11 +3,11 @@ name: Heinrich Gräfenstein
 slug: heinrich-grafenstein
 country: Germany
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- studie-warten
+- Studie Warten
 resources:
 - name: Film scripts / notes
   file: ''

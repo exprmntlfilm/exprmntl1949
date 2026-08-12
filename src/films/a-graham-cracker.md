@@ -2,10 +2,11 @@
 title: A. Graham Cracker
 slug: a-graham-cracker
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-406
+edition_label: ''
 directors:
-- john-thomas
+- John Thomas
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: Piece Mandala/End War
 slug: piece-mandala-end-war
 year: '1966'
-edition: 1967
+edition: '1967'
 cat_num: cat-370
+edition_label: ''
 directors:
-- paul-sharits
+- Paul Sharits
 still: ''
 gallery: []
 resources:

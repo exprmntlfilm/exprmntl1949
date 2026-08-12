@@ -2,10 +2,11 @@
 title: Lucebert, poet-painter
 slug: lucebert-poet-painter
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-253
+edition_label: ''
 directors:
-- johan-van-der-keuken
+- Johan van der Keuken
 still: ''
 gallery: []
 resources:

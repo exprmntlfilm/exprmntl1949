@@ -2,11 +2,12 @@
 title: Falls the Shadow
 slug: falls-the-shadow
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-112
+edition_label: ''
 directors:
-- edward-mcconnell
-- laurence-henson
+- Edward McConnell
+- Laurence Henson
 still: ''
 gallery: []
 resources:

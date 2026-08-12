@@ -3,11 +3,11 @@ name: Michael Snow
 slug: michael-snow
 country: Canada
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- wavelength
+- Wavelength
 resources:
 - name: Film scripts / notes
   file: ''

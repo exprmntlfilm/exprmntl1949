@@ -3,11 +3,11 @@ name: Robert Gaylor
 slug: robert-gaylor
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- voyeur
+- Voyeur
 resources:
 - name: Film scripts / notes
   file: ''

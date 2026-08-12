@@ -3,11 +3,11 @@ name: Peter King
 slug: peter-king
 country: England
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- thirteen-cantos-of-hell
+- Thirteen Cantos of Hell
 resources:
 - name: Film scripts / notes
   file: ''

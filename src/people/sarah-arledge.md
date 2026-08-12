@@ -3,11 +3,11 @@ name: Sarah Arledge
 slug: sarah-arledge
 country: USA
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- introspection
+- Introspection
 resources:
 - name: Film scripts / notes
   file: ''

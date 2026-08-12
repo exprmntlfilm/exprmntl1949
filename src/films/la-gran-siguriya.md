@@ -2,10 +2,11 @@
 title: La Gran Siguriya
 slug: la-gran-siguriya
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-135
+edition_label: ''
 directors:
-- jose-val-del-omar
+- José Val del Omar
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: Trois Minutes
 slug: trois-minutes
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-394
+edition_label: ''
 directors:
-- jean-marie-lambert
+- Jean-Marie Lambert
 still: ''
 gallery: []
 resources:

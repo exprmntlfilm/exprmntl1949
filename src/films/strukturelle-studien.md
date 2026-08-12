@@ -2,11 +2,12 @@
 title: Strukturelle Studien
 slug: strukturelle-studien
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-453
+edition_label: ''
 directors:
-- birgit-hein
-- wilhelm-hein
+- Birgit Hein
+- Wilhelm Hein
 still: ''
 gallery: []
 resources:

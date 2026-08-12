@@ -3,11 +3,11 @@ name: David Williamson
 slug: david-williamson
 country: England
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- no-title
+- No Title
 resources:
 - name: Film scripts / notes
   file: ''

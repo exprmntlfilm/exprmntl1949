@@ -3,11 +3,11 @@ name: Jud Yalkut
 slug: jud-yalkut
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- kusamas-self-obliteration
+- Kusama’s Self-Obliteration
 resources:
 - name: Film scripts / notes
   file: ''

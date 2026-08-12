@@ -2,10 +2,11 @@
 title: Tous ceux qui tombent
 slug: tous-ceux-qui-tombent
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-299
+edition_label: ''
 directors:
-- michel-mitrani
+- Michel Mitrani
 still: ''
 gallery: []
 resources:

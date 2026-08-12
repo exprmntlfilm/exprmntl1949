@@ -3,13 +3,13 @@ name: Abbott Meader
 slug: abbott-meader
 country: USA
 editions:
-- 1963
-- 1967
+- '1963'
+- '1967'
 photo: ''
 gallery: []
 films:
-- a-looking-for-summer
-- wilderness
+- A Looking for Summer
+- Wilderness
 resources:
 - name: Film scripts / notes
   file: ''

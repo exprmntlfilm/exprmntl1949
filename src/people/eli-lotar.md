@@ -3,11 +3,11 @@ name: Eli Lotar
 slug: eli-lotar
 country: France
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- aubervilliers
+- Aubervilliers
 resources:
 - name: Film scripts / notes
   file: ''

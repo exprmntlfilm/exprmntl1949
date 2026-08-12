@@ -3,11 +3,11 @@ name: Nayoda Yoshida
 slug: nayoda-yoshida
 country: Japan
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- mon-yo-ornamental-motifs-from-japan
+- 'Mon-Yo: Ornamental Motifs from Japan'
 resources:
 - name: Film scripts / notes
   file: ''

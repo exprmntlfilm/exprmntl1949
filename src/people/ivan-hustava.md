@@ -3,11 +3,11 @@ name: Ivan Hustava
 slug: ivan-hustava
 country: Slovakia
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- pochod
+- Pochod
 resources:
 - name: Film scripts / notes
   file: ''

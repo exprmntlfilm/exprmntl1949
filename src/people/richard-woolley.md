@@ -3,11 +3,11 @@ name: Richard Woolley
 slug: richard-woolley
 country: England
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- kniephofstrasse
+- Kniephofstrasse
 resources:
 - name: Film scripts / notes
   file: ''

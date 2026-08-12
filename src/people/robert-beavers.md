@@ -3,11 +3,11 @@ name: Robert Beavers
 slug: robert-beavers
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- spiracle
+- Spiracle
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Traces
 slug: traces
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-462
+edition_label: ''
 directors:
-- barbara-linkevitch
+- Barbara Linkevitch
 still: ''
 gallery: []
 resources:

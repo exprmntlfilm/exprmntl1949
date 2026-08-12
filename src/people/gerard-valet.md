@@ -3,11 +3,11 @@ name: Gérard Valet
 slug: gerard-valet
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- une-lettre
+- Une Lettre
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,13 +3,13 @@ name: Yoichi Takabayashi
 slug: yoichi-takabayashi
 country: Japan
 editions:
-- 1963
-- 1967
+- '1963'
+- '1967'
 photo: ''
 gallery: []
 films:
-- the-sand
-- musashino
+- The Sand
+- Musashino
 resources:
 - name: Film scripts / notes
   file: ''

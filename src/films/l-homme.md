@@ -2,10 +2,11 @@
 title: L'homme
 slug: l-homme
 year: '1946'
-edition: 1949
+edition: '1949'
 cat_num: cat-035
+edition_label: ''
 directors:
-- gilles-margaritis
+- Gilles Margaritis
 still: ''
 gallery: []
 resources:

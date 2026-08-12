@@ -2,12 +2,13 @@
 title: Have You Sold Your Dozen Roses?
 slug: have-you-sold-your-dozen-roses
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-123
+edition_label: ''
 directors:
-- allen-willis
-- david-myers
-- philip-greene
+- Allen Willis
+- David Myers
+- Philip Greene
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Peter Fleischmann
 slug: peter-fleischmann
 country: Germany
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- eintags-fliege
+- Eintags Fliege
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Gösta Werner
 slug: gosta-werner
 country: Sweden
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- midvinterblot
+- Midvinterblot
 resources:
 - name: Film scripts / notes
   file: ''

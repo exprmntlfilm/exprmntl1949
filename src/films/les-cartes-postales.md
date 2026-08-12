@@ -2,10 +2,11 @@
 title: Les cartes postales
 slug: les-cartes-postales
 year: 1948-49
-edition: 1949
+edition: '1949'
 cat_num: cat-041
+edition_label: ''
 directors:
-- luciano-emmer
+- Luciano Emmer
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: Das spezifische Gewicht
 slug: das-spezifische-gewicht
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-225
+edition_label: ''
 directors:
-- roland-verhavert
+- Roland Verhavert
 still: ''
 gallery: []
 resources:

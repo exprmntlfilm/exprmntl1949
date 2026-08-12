@@ -3,11 +3,11 @@ name: Jan Lenica
 slug: jan-lenica
 country: Poland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- dom
+- Dom
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Jour après jour
 slug: jour-apres-jour
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-241
+edition_label: ''
 directors:
-- clement-perron
+- Clément Perron
 still: ''
 gallery: []
 resources:

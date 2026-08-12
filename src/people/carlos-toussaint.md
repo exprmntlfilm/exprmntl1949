@@ -3,11 +3,11 @@ name: Carlos Toussaint
 slug: carlos-toussaint
 country: Mexico
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- la-cancion-de-jean-richepin
+- La Cancion de Jean Richepin
 resources:
 - name: Film scripts / notes
   file: ''

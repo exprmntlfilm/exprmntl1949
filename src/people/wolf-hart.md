@@ -3,11 +3,11 @@ name: Wolf Hart
 slug: wolf-hart
 country: Germany
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- abseits
+- Abseits
 resources:
 - name: Film scripts / notes
   file: ''

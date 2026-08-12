@@ -2,10 +2,11 @@
 title: Anamorphosis
 slug: anamorphosis
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-318
+edition_label: ''
 directors:
-- guido-haas
+- Guido Haas
 still: ''
 gallery: []
 resources:

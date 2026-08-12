@@ -2,10 +2,11 @@
 title: Atol
 slug: atol
 year: '1966'
-edition: 1967
+edition: '1967'
 cat_num: cat-321
+edition_label: ''
 directors:
-- john-stehura
+- John Stehura
 still: ''
 gallery: []
 resources:

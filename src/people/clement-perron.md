@@ -3,11 +3,11 @@ name: Clément Perron
 slug: clement-perron
 country: Canada
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- jour-apres-jour
+- Jour après jour
 resources:
 - name: Film scripts / notes
   file: ''

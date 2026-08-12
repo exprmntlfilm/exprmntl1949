@@ -2,10 +2,11 @@
 title: Rumstudie
 slug: rumstudie
 year: '1948'
-edition: 1949
+edition: '1949'
 cat_num: cat-064
+edition_label: ''
 directors:
-- soren-melson
+- Søren Melson
 still: ''
 gallery: []
 resources:

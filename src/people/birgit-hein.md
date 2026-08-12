@@ -3,11 +3,11 @@ name: Birgit Hein
 slug: birgit-hein
 country: Germany
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- strukturelle-studien
+- Strukturelle Studien
 resources:
 - name: Film scripts / notes
   file: ''

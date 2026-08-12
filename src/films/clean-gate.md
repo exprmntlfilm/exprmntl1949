@@ -2,10 +2,11 @@
 title: Clean Gate
 slug: clean-gate
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-417
+edition_label: ''
 directors:
-- sheldon-brown
+- Sheldon Brown
 still: ''
 gallery: []
 resources:

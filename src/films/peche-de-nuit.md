@@ -2,10 +2,11 @@
 title: Pêche de nuit
 slug: peche-de-nuit
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-274
+edition_label: ''
 directors:
-- tjerk-wicky
+- Tjerk Wicky
 still: ''
 gallery: []
 resources:

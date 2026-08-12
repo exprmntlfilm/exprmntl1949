@@ -2,10 +2,11 @@
 title: Color of the Day
 slug: color-of-the-day
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-096
+edition_label: ''
 directors:
-- allen-downs
+- Allen Downs
 still: ''
 gallery: []
 resources:

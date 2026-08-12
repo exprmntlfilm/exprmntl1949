@@ -3,11 +3,11 @@ name: Maurice Ammar
 slug: maurice-ammar
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- concerto-flamenco
+- Concerto Flamenco
 resources:
 - name: Film scripts / notes
   file: ''

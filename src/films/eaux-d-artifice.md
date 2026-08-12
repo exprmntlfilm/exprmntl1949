@@ -2,10 +2,11 @@
 title: Eaux d'Artifice
 slug: eaux-d-artifice
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-105
+edition_label: ''
 directors:
-- kenneth-anger
+- Kenneth Anger
 still: ''
 gallery: []
 resources:

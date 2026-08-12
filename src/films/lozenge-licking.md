@@ -2,10 +2,11 @@
 title: Lozenge Licking
 slug: lozenge-licking
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-434
+edition_label: ''
 directors:
-- jon-rubin
+- Jon Rubin
 still: ''
 gallery: []
 resources:

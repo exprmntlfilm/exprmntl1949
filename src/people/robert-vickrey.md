@@ -3,11 +3,11 @@ name: Robert Vickrey
 slug: robert-vickrey
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- the-texture-of-decay
+- The Texture of Decay
 resources:
 - name: Film scripts / notes
   file: ''

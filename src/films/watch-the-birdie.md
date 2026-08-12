@@ -2,10 +2,11 @@
 title: Watch the Birdie
 slug: watch-the-birdie
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-310
+edition_label: ''
 directors:
-- ken-russell
+- Ken Russell
 still: ''
 gallery: []
 resources:

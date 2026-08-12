@@ -3,13 +3,13 @@ name: Emiel van Moerkerken
 slug: emiel-van-moerkerken
 country: Netherlands
 editions:
-- 1949
-- 1958
+- '1949'
+- '1958'
 photo: ''
 gallery: []
 films:
-- limehouse-blues
-- the-cuckoo-waltz
+- Limehouse Blues
+- The Cuckoo Waltz
 resources:
 - name: Film scripts / notes
   file: ''

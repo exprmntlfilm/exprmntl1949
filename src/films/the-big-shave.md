@@ -2,10 +2,11 @@
 title: The Big Shave
 slug: the-big-shave
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-388
+edition_label: ''
 directors:
-- martin-scorsese
+- Martin Scorsese
 still: ''
 gallery: []
 resources:

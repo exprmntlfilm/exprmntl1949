@@ -2,10 +2,11 @@
 title: La Cancion de Jean Richepin
 slug: la-cancion-de-jean-richepin
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-133
+edition_label: ''
 directors:
-- carlos-toussaint
+- Carlos Toussaint
 still: ''
 gallery: []
 resources:

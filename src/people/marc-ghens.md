@@ -3,11 +3,11 @@ name: Marc Ghens
 slug: marc-ghens
 country: Belgium
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- screentest-for-eurydice
+- Screentest for Eurydice
 resources:
 - name: Film scripts / notes
   file: ''

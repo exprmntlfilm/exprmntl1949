@@ -3,11 +3,11 @@ name: Hans Richter
 slug: hans-richter
 country: Germany
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- dreams-that-money-can-buy
+- Dreams That Money Can Buy
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Pourvu qu'on ait l'ivresse...
 slug: pourvu-qu-on-ait-l-ivresse
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-164
+edition_label: ''
 directors:
-- jean-daniel-pollet
+- Jean-Daniel Pollet
 still: ''
 gallery: []
 resources:

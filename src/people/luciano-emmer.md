@@ -3,12 +3,12 @@ name: Luciano Emmer
 slug: luciano-emmer
 country: Italy
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- les-cartes-postales
-- romance-d-une-epoque
+- Les cartes postales
+- Romance d'une époque
 resources:
 - name: Film scripts / notes
   file: ''

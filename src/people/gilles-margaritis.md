@@ -3,12 +3,12 @@ name: Gilles Margaritis
 slug: gilles-margaritis
 country: France
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- les-actualites-burlesques
-- l-homme
+- Les Actualités burlesques
+- L'homme
 resources:
 - name: Film scripts / notes
   file: ''

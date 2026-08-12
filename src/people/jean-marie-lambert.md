@@ -3,11 +3,11 @@ name: Jean-Marie Lambert
 slug: jean-marie-lambert
 country: Belgium
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- trois-minutes
+- Trois Minutes
 resources:
 - name: Film scripts / notes
   file: ''

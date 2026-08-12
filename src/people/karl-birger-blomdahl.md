@@ -3,11 +3,11 @@ name: Karl-Birger Blomdahl
 slug: karl-birger-blomdahl
 country: Sweden
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- altisonans
+- Altisonans
 resources:
 - name: Film scripts / notes
   file: ''

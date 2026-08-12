@@ -2,11 +2,12 @@
 title: Le Nez
 slug: le-nez
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-248
+edition_label: ''
 directors:
-- alexandre-alexeieff
-- claire-parker
+- Alexandre Alexeieff
+- Claire Parker
 still: ''
 gallery: []
 resources:

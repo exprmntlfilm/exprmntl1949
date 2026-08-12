@@ -2,10 +2,11 @@
 title: Narcose
 slug: narcose
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-364
+edition_label: ''
 directors:
-- philippe-graff
+- Philippe Graff
 still: ''
 gallery: []
 resources:

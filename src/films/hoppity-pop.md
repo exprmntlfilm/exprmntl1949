@@ -2,10 +2,11 @@
 title: Hoppity pop
 slug: hoppity-pop
 year: '1946'
-edition: 1949
+edition: '1949'
 cat_num: cat-030
+edition_label: ''
 directors:
-- norman-mclaren
+- Norman McLaren
 still: ''
 gallery: []
 resources:

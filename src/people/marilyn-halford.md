@@ -3,11 +3,11 @@ name: Marilyn Halford
 slug: marilyn-halford
 country: England
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- footsteps
+- Footsteps
 resources:
 - name: Film scripts / notes
   file: ''

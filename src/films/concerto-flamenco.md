@@ -2,10 +2,11 @@
 title: Concerto Flamenco
 slug: concerto-flamenco
 year: n. d.
-edition: 1963
+edition: '1963'
 cat_num: cat-221
+edition_label: ''
 directors:
-- maurice-ammar
+- Maurice Ammar
 still: ''
 gallery: []
 resources:

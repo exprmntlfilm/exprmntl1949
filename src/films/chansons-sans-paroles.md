@@ -2,10 +2,11 @@
 title: Chansons sans Paroles
 slug: chansons-sans-paroles
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-094
+edition_label: ''
 directors:
-- yoram-gross
+- Yoram Gross
 still: ''
 gallery: []
 resources:

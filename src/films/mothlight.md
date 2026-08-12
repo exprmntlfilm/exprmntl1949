@@ -2,10 +2,11 @@
 title: Mothlight
 slug: mothlight
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-260
+edition_label: ''
 directors:
-- stan-brakhage
+- Stan Brakhage
 still: ''
 gallery: []
 resources:

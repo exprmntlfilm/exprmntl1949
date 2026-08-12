@@ -2,11 +2,12 @@
 title: Blues Pattern
 slug: blues-pattern
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-085
+edition_label: ''
 directors:
-- ernest-pintoff
-- john-whitney
+- Ernest Pintoff
+- John Whitney
 still: ''
 gallery: []
 resources:

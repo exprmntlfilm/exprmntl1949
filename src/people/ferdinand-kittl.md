@@ -3,11 +3,11 @@ name: Ferdinand Kittl
 slug: ferdinand-kittl
 country: Germany
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- the-parallel-street
+- The Parallel Street
 resources:
 - name: Film scripts / notes
   file: ''

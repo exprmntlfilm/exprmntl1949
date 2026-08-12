@@ -2,10 +2,11 @@
 title: Jalousie
 slug: jalousie
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-347
+edition_label: ''
 directors:
-- hans-jakob-siber
+- Hans-Jakob Siber
 still: ''
 gallery: []
 resources:

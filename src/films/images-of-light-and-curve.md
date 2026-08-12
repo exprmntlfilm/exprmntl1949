@@ -2,11 +2,12 @@
 title: Images of Light and Curve
 slug: images-of-light-and-curve
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-126
+edition_label: ''
 directors:
-- dennis-jakob
-- john-hora
+- Dennis Jakob
+- John Hora
 still: ''
 gallery: []
 resources:

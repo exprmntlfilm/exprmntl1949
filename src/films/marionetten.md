@@ -2,10 +2,11 @@
 title: Marionetten
 slug: marionetten
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-146
+edition_label: ''
 directors:
-- dieter-h-lemmel
+- Dieter H. Lemmel
 still: ''
 gallery: []
 resources:

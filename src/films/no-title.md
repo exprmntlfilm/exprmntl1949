@@ -2,10 +2,11 @@
 title: No Title
 slug: no-title
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-155
+edition_label: ''
 directors:
-- david-williamson
+- David Williamson
 still: ''
 gallery: []
 resources:

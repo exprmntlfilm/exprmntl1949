@@ -2,10 +2,11 @@
 title: Amelia and the Angel
 slug: amelia-and-the-angel
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-081
+edition_label: ''
 directors:
-- ken-russell
+- Ken Russell
 still: ''
 gallery: []
 resources:

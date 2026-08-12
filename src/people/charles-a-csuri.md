@@ -3,11 +3,11 @@ name: Charles A. Csuri
 slug: charles-a-csuri
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- hummingbird
+- Hummingbird
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Mother’s Day
 slug: mothers-day
 year: '1948'
-edition: 1949
+edition: '1949'
 cat_num: cat-052
+edition_label: ''
 directors:
-- james-broughton
+- James Broughton
 still: ''
 gallery: []
 resources:

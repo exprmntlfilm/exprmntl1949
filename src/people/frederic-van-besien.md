@@ -3,11 +3,11 @@ name: Frédéric Van Besien
 slug: frederic-van-besien
 country: Belgium
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- un-peu-beaucoup-passionnement
+- Un peu, beaucoup passionnément
 resources:
 - name: Film scripts / notes
   file: ''

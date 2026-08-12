@@ -3,11 +3,11 @@ name: Roger Moulinet
 slug: roger-moulinet
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- impressions-de-vitesse-1958-s-n-c-f
+- Impressions de Vitesse 1958 "S. N. C. F.
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Jack Chambers
 slug: jack-chambers
 country: Canada
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- chasing-the-blues
+- Chasing the Blues
 resources:
 - name: Film scripts / notes
   file: ''

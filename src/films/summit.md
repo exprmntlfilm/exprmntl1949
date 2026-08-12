@@ -2,10 +2,11 @@
 title: Summit
 slug: summit
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-284
+edition_label: ''
 directors:
-- stan-vanderbeek
+- Stan VanDerBeek
 still: ''
 gallery: []
 resources:

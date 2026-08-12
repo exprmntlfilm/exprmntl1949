@@ -3,11 +3,11 @@ name: Sakio Hirata
 slug: sakio-hirata
 country: Japan
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- a-house
+- A House
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Carl Gyllenberg
 slug: carl-gyllenberg
 country: Sweden
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- solen-vinden-och-havet
+- Solen, vinden och havet
 resources:
 - name: Film scripts / notes
   file: ''

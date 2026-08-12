@@ -2,11 +2,12 @@
 title: View
 slug: view
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-469
+edition_label: ''
 directors:
-- david-hall
-- tony-sinden
+- David Hall
+- Tony Sinden
 still: ''
 gallery: []
 resources:

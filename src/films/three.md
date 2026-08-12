@@ -2,10 +2,11 @@
 title: Three
 slug: three
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-460
+edition_label: ''
 directors:
-- james-herbert
+- James Herbert
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Tinto Brass
 slug: tinto-brass
 country: Italy
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- spatiodynamisme
+- Spatiodynamisme
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Cadet Rousselle
 slug: cadet-rousselle
 year: '1946'
-edition: 1949
+edition: '1949'
 cat_num: cat-014
+edition_label: ''
 directors:
-- george-dunning
+- George Dunning
 still: ''
 gallery: []
 resources:

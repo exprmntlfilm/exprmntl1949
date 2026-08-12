@@ -3,12 +3,12 @@ name: John Stehura
 slug: john-stehura
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- atol
-- cibernetik-5-3
+- Atol
+- Cibernetik 5.3
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Albie Thoms
 slug: albie-thoms
 country: Australia
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- bolero
+- Bolero
 resources:
 - name: Film scripts / notes
   file: ''

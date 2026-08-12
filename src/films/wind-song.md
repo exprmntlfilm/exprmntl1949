@@ -2,10 +2,11 @@
 title: Wind Song
 slug: wind-song
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-205
+edition_label: ''
 directors:
-- madeline-tourtelot
+- Madeline Tourtelot
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Julien Pappé
 slug: julien-pappe
 country: France
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- la-mare-aux-garcons
+- La mare aux garçons
 resources:
 - name: Film scripts / notes
   file: ''

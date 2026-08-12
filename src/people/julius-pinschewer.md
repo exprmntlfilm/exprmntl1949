@@ -3,11 +3,11 @@ name: Julius Pinschewer
 slug: julius-pinschewer
 country: Switzerland
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- king-coal
+- King Coal
 resources:
 - name: Film scripts / notes
   file: ''

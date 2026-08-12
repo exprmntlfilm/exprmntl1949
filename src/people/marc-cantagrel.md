@@ -3,11 +3,11 @@ name: Marc Cantagrel
 slug: marc-cantagrel
 country: France
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- familles-de-droites-et-familles-de-paraboles
+- Familles de droites et familles de paraboles
 resources:
 - name: Film scripts / notes
   file: ''

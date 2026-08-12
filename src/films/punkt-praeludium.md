@@ -2,10 +2,11 @@
 title: Punkt præludium
 slug: punkt-praeludium
 year: '1949'
-edition: 1949
+edition: '1949'
 cat_num: cat-061
+edition_label: ''
 directors:
-- soren-melson
+- Søren Melson
 still: ''
 gallery: []
 resources:

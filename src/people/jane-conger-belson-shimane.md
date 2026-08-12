@@ -3,11 +3,11 @@ name: Jane Conger Belson Shimané
 slug: jane-conger-belson-shimane
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- logos
+- Logos
 resources:
 - name: Film scripts / notes
   file: ''

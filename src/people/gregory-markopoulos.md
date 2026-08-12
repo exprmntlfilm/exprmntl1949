@@ -3,16 +3,16 @@ name: Gregory Markopoulos
 slug: gregory-markopoulos
 country: USA
 editions:
-- 1949
-- 1963
-- 1967
+- '1949'
+- '1963'
+- '1967'
 photo: ''
 gallery: []
 films:
-- psyche
-- du-sang-de-la-volupte-et-de-la-mort-part-ii-lysis
-- twice-a-man
-- the-illiac-passion
+- Psyché
+- 'Du sang, de la volupté et de la mort, part II: Lysis'
+- Twice a Man
+- The Illiac Passion
 resources:
 - name: Film scripts / notes
   file: ''

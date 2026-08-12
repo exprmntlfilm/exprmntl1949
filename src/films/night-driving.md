@@ -2,11 +2,12 @@
 title: Night Driving
 slug: night-driving
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-154
+edition_label: ''
 directors:
-- millie-goldsholl
-- morton-goldsholl
+- Millie Goldsholl
+- Morton Goldsholl
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: January
 slug: january
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-429
+edition_label: ''
 directors:
-- james-herbert
+- James Herbert
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,12 @@
 title: En Dag i Staden
 slug: en-dag-i-staden
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-107
+edition_label: ''
 directors:
-- hans-nordenstrom
-- pontus-hulten
+- Hans Nordenström
+- Pontus Hultén
 still: ''
 gallery: []
 resources:

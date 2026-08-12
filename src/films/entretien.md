@@ -2,10 +2,11 @@
 title: Entretien
 slug: entretien
 year: n. d.
-edition: 1967
+edition: '1967'
 cat_num: cat-340
+edition_label: ''
 directors:
-- michel-thirionet
+- Michel Thirionet
 still: ''
 gallery: []
 resources:

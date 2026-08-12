@@ -3,11 +3,11 @@ name: Takahiko Iimura
 slug: takahiko-iimura
 country: Japan
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- onan
+- Onan
 resources:
 - name: Film scripts / notes
   file: ''

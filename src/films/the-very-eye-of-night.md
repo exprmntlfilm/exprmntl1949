@@ -2,10 +2,11 @@
 title: The Very Eye of Night
 slug: the-very-eye-of-night
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-197
+edition_label: ''
 directors:
-- maya-deren
+- Maya Deren
 still: ''
 gallery: []
 resources:

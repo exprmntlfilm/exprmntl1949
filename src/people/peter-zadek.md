@@ -3,11 +3,11 @@ name: Peter Zadek
 slug: peter-zadek
 country: Germany
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- simon
+- Simon
 resources:
 - name: Film scripts / notes
   file: ''

@@ -2,10 +2,11 @@
 title: Subjektive Bilder Eines Zustands
 slug: subjektive-bilder-eines-zustands
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-455
+edition_label: ''
 directors:
-- m-korte
+- M. Korte
 still: ''
 gallery: []
 resources:

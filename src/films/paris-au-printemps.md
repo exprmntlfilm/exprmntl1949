@@ -2,10 +2,11 @@
 title: Paris au printemps
 slug: paris-au-printemps
 year: '1947'
-edition: 1949
+edition: '1949'
 cat_num: cat-057
+edition_label: ''
 directors:
-- jacques-loew
+- Jacques Loew
 still: ''
 gallery: []
 resources:

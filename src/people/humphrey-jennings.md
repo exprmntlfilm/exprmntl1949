@@ -3,11 +3,11 @@ name: Humphrey Jennings
 slug: humphrey-jennings
 country: England
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- listen-to-britain
+- Listen to Britain
 resources:
 - name: Film scripts / notes
   file: ''

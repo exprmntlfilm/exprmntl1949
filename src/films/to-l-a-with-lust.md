@@ -2,10 +2,11 @@
 title: To L.A. with Lust
 slug: to-l-a-with-lust
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-296
+edition_label: ''
 directors:
-- vernon-zimmerman
+- Vernon Zimmerman
 still: ''
 gallery: []
 resources:

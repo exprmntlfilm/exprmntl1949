@@ -2,10 +2,11 @@
 title: Cathode Crisis
 slug: cathode-crisis
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-415
+edition_label: ''
 directors:
-- peter-du-cane
+- Peter Du Cane
 still: ''
 gallery: []
 resources:

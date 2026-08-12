@@ -3,11 +3,11 @@ name: Olle Hedman
 slug: olle-hedman
 country: Sweden
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- a-semiotic-study-of-unlogic-figure-codification
+- A Semiotic Study of Unlogic Figure-Codification
 resources:
 - name: Film scripts / notes
   file: ''

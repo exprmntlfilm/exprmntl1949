@@ -3,11 +3,11 @@ name: Armand De Hesselle
 slug: armand-de-hesselle
 country: Belgium
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- hurry-freddy-please
+- Hurry Freddy Please
 resources:
 - name: Film scripts / notes
   file: ''

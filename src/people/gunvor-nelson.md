@@ -3,11 +3,11 @@ name: Gunvor Nelson
 slug: gunvor-nelson
 country: Sweden
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- fog-pumas
+- Fog Pumas
 resources:
 - name: Film scripts / notes
   file: ''

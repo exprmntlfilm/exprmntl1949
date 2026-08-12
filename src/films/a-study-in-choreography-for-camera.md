@@ -2,10 +2,11 @@
 title: A Study in Choreography for Camera
 slug: a-study-in-choreography-for-camera
 year: '1945'
-edition: 1949
+edition: '1949'
 cat_num: cat-008
+edition_label: ''
 directors:
-- maya-deren
+- Maya Deren
 still: ''
 gallery: []
 resources:

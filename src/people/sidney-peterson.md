@@ -3,12 +3,12 @@ name: Sidney Peterson
 slug: sidney-peterson
 country: USA
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- the-potted-psalm
-- clinic-of-stumble
+- The Potted Psalm
+- Clinic of Stumble
 resources:
 - name: Film scripts / notes
   file: ''

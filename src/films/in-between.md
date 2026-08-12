@@ -2,10 +2,11 @@
 title: In Between
 slug: in-between
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-128
+edition_label: ''
 directors:
-- stan-brakhage
+- Stan Brakhage
 still: ''
 gallery: []
 resources:

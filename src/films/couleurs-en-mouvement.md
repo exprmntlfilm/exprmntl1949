@@ -2,10 +2,11 @@
 title: Couleurs en Mouvement
 slug: couleurs-en-mouvement
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-098
+edition_label: ''
 directors:
-- jacques-fouquet
+- Jacques Fouquet
 still: ''
 gallery: []
 resources:

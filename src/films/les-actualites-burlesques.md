@@ -2,10 +2,11 @@
 title: Les Actualités burlesques
 slug: les-actualites-burlesques
 year: '1948'
-edition: 1949
+edition: '1949'
 cat_num: cat-040
+edition_label: ''
 directors:
-- gilles-margaritis
+- Gilles Margaritis
 still: ''
 gallery: []
 resources:

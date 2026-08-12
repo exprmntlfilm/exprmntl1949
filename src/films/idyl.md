@@ -2,10 +2,11 @@
 title: Idyl
 slug: idyl
 year: '1947'
-edition: 1949
+edition: '1949'
 cat_num: cat-031
+edition_label: ''
 directors:
-- francis-lee
+- Francis Lee
 still: ''
 gallery: []
 resources:

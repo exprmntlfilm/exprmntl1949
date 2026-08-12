@@ -3,11 +3,11 @@ name: Jean Dasque
 slug: jean-dasque
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- cine-sumac
+- Ciné-sumac
 resources:
 - name: Film scripts / notes
   file: ''

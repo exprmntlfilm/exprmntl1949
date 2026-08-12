@@ -2,10 +2,11 @@
 title: Totem
 slug: totem
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-298
+edition_label: ''
 directors:
-- ed-emshwiller
+- Ed Emshwiller
 still: ''
 gallery: []
 resources:

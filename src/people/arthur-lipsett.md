@@ -3,7 +3,7 @@ name: Arthur Lipsett
 slug: arthur-lipsett
 country: Canada
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:

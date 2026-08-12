@@ -2,10 +2,11 @@
 title: Fantasy in Light
 slug: fantasy-in-light
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-114
+edition_label: ''
 directors:
-- betty-scheyer
+- Betty Scheyer
 still: ''
 gallery: []
 resources:

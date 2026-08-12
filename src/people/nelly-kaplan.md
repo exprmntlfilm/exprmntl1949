@@ -3,11 +3,11 @@ name: Nelly Kaplan
 slug: nelly-kaplan
 country: Argentina
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- magirama
+- Magirama
 resources:
 - name: Film scripts / notes
   file: ''

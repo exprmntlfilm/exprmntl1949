@@ -2,10 +2,11 @@
 title: The Texture of Decay
 slug: the-texture-of-decay
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-196
+edition_label: ''
 directors:
-- robert-vickrey
+- Robert Vickrey
 still: ''
 gallery: []
 resources:

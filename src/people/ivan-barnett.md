@@ -3,11 +3,11 @@ name: Ivan Barnett
 slug: ivan-barnett
 country: England
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- the-fall-of-the-house-of-usher
+- The Fall of the House of Usher
 resources:
 - name: Film scripts / notes
   file: ''

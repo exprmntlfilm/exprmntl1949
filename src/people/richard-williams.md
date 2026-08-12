@@ -3,11 +3,11 @@ name: Richard Williams
 slug: richard-williams
 country: Canada
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- the-little-island
+- The Little Island
 resources:
 - name: Film scripts / notes
   file: ''

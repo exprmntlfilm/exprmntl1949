@@ -2,10 +2,11 @@
 title: The Parallel Street
 slug: the-parallel-street
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-292
+edition_label: ''
 directors:
-- ferdinand-kittl
+- Ferdinand Kittl
 still: ''
 gallery: []
 resources:

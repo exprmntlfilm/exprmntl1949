@@ -2,10 +2,11 @@
 title: Croquis
 slug: croquis
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-099
+edition_label: ''
 directors:
-- gote-hennix
+- Göte Hennix
 still: ''
 gallery: []
 resources:

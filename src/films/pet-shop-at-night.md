@@ -2,10 +2,11 @@
 title: Pet Shop at Night
 slug: pet-shop-at-night
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-161
+edition_label: ''
 directors:
-- robert-k-sharpe
+- Robert K. Sharpe
 still: ''
 gallery: []
 resources:

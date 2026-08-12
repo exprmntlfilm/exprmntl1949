@@ -3,12 +3,12 @@ name: Herbert Vesely
 slug: herbert-vesely
 country: Austria
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- nicht-mehr-fliehen
-- prelude-1957
+- Nicht mehr fliehen
+- Prélude
 resources:
 - name: Film scripts / notes
   file: ''

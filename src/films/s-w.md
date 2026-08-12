@@ -2,10 +2,11 @@
 title: S & W
 slug: s-w
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-377
+edition_label: ''
 directors:
-- wilhelm-hein
+- Wilhelm Hein
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,12 @@
 title: Hjertetyven
 slug: hjertetyven
 year: '1943'
-edition: 1949
+edition: '1949'
 cat_num: cat-029
+edition_label: ''
 directors:
-- albert-mertz
-- jorgen-roos
+- Albert Mertz
+- Jørgen Roos
 still: ''
 gallery: []
 resources:

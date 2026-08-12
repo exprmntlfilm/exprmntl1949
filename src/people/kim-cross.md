@@ -3,11 +3,11 @@ name: Kim Cross
 slug: kim-cross
 country: Canada
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- surreal
+- Surreal
 resources:
 - name: Film scripts / notes
   file: ''

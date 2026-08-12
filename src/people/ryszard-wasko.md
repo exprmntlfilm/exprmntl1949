@@ -3,11 +3,11 @@ name: Ryszard Wasko
 slug: ryszard-wasko
 country: Poland
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- sciana
+- Sciana
 resources:
 - name: Film scripts / notes
   file: ''

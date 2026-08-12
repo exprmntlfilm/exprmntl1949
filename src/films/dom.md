@@ -2,11 +2,12 @@
 title: Dom
 slug: dom
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-103
+edition_label: ''
 directors:
-- jan-lenica
-- walerian-borowczyk
+- Jan Lenica
+- Walerian Borowczyk
 still: ''
 gallery: []
 resources:

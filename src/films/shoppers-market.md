@@ -2,10 +2,11 @@
 title: Shoppers Market
 slug: shoppers-market
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-280
+edition_label: ''
 directors:
-- john-m-vicario
+- John M. Vicario
 still: ''
 gallery: []
 resources:

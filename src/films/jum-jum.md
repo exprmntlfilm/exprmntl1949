@@ -2,11 +2,12 @@
 title: Jüm-Jüm
 slug: jum-jum
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-350
+edition_label: ''
 directors:
-- dore-o
-- werner-nekes
+- Dore O.
+- Werner Nekes
 still: ''
 gallery: []
 resources:

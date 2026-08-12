@@ -2,10 +2,11 @@
 title: Subject Lesson
 slug: subject-lesson
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-182
+edition_label: ''
 directors:
-- christopher-b-young
+- Christopher B. Young
 still: ''
 gallery: []
 resources:

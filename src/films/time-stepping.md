@@ -2,10 +2,11 @@
 title: Time Stepping
 slug: time-stepping
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-461
+edition_label: ''
 directors:
-- william-raban
+- William Raban
 still: ''
 gallery: []
 resources:

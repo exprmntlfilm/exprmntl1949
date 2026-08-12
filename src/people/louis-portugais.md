@@ -3,11 +3,11 @@ name: Louis Portugais
 slug: louis-portugais
 country: Canada
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- je
+- Je
 resources:
 - name: Film scripts / notes
   file: ''

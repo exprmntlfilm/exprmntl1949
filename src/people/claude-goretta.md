@@ -3,11 +3,11 @@ name: Claude Goretta
 slug: claude-goretta
 country: Switzerland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- nice-time
+- Nice Time
 resources:
 - name: Film scripts / notes
   file: ''

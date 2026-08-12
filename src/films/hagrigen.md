@@ -2,10 +2,11 @@
 title: Hägrigen
 slug: hagrigen
 year: n. d.
-edition: 1963
+edition: '1963'
 cat_num: cat-236
+edition_label: ''
 directors:
-- peter-weiss
+- Peter Weiss
 still: ''
 gallery: []
 resources:

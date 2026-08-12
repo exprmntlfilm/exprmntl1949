@@ -2,10 +2,11 @@
 title: Sub Rosa
 slug: sub-rosa
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-454
+edition_label: ''
 directors:
-- michael-harvey
+- Michael Harvey
 still: ''
 gallery: []
 resources:

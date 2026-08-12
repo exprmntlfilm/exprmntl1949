@@ -2,10 +2,11 @@
 title: Reflections on Black
 slug: reflections-on-black
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-169
+edition_label: ''
 directors:
-- stan-brakhage
+- Stan Brakhage
 still: ''
 gallery: []
 resources:

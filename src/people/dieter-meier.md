@@ -3,11 +3,11 @@ name: Dieter Meier
 slug: dieter-meier
 country: Switzerland
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- 81000-units
+- 81000 Units
 resources:
 - name: Film scripts / notes
   file: ''

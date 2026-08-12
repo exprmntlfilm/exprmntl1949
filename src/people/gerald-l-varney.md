@@ -3,11 +3,11 @@ name: Gerald L. Varney
 slug: gerald-l-varney
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- watts-towers
+- Watts Towers
 resources:
 - name: Film scripts / notes
   file: ''

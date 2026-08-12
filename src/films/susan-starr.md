@@ -2,11 +2,12 @@
 title: Susan Starr
 slug: susan-starr
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-285
+edition_label: ''
 directors:
-- donn-alan-pennebaker
-- hope-ryden
+- Donn Alan Pennebaker
+- Hope Ryden
 still: ''
 gallery: []
 resources:

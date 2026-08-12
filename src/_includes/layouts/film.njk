@@ -20,7 +20,7 @@ layout: layouts/base.njk
         {% endif %}
       </div>
       <div class="stack">
-        <span class="tag">Edition {{ edition }}</span>
+        {% if edition_label %}<span class="tag">{{ edition_label }}</span>{% else %}<span class="tag">Edition {{ edition }}</span>{% endif %}
         <p class="body-copy" style="margin:0;">
           <strong>Director{% if directors.length > 1 %}s{% endif %}:</strong>
           {{ directors | directorLinks(collections.peopleSorted, "../") | safe }}

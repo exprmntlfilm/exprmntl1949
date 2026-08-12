@@ -2,10 +2,11 @@
 title: At Land
 slug: at-land
 year: '1944'
-edition: 1949
+edition: '1949'
 cat_num: cat-011
+edition_label: ''
 directors:
-- maya-deren
+- Maya Deren
 still: ''
 gallery: []
 resources:

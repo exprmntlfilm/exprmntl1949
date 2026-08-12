@@ -3,11 +3,11 @@ name: Juraj Jakubisko
 slug: juraj-jakubisko
 country: Slovakia
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- mlceni
+- Mlčení
 resources:
 - name: Film scripts / notes
   file: ''

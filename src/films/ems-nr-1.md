@@ -2,10 +2,11 @@
 title: EMS nr 1
 slug: ems-nr-1
 year: '1966'
-edition: 1967
+edition: '1967'
 cat_num: cat-339
+edition_label: ''
 directors:
-- ralph-lundsten
+- Ralph Lundsten
 still: ''
 gallery: []
 resources:

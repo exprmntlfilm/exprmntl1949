@@ -3,12 +3,12 @@ name: Ted Nemeth
 slug: ted-nemeth
 country: USA
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- spook-sport
-- tarantella
+- Spook Sport
+- Tarantella
 resources:
 - name: Film scripts / notes
   file: ''

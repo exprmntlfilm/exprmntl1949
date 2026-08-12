@@ -3,11 +3,11 @@ name: Marie Menken
 slug: marie-menken
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- glimpse-of-the-garden
+- Glimpse of the Garden
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Michael Harvey
 slug: michael-harvey
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- sub-rosa
+- Sub Rosa
 resources:
 - name: Film scripts / notes
   file: ''

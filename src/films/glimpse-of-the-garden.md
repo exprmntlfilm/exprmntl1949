@@ -2,10 +2,11 @@
 title: Glimpse of the Garden
 slug: glimpse-of-the-garden
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-121
+edition_label: ''
 directors:
-- marie-menken
+- Marie Menken
 still: ''
 gallery: []
 resources:

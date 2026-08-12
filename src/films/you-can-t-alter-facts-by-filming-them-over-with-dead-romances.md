@@ -2,10 +2,11 @@
 title: You Can't Alter Facts by Filming Them Over with Dead Romances
 slug: you-can-t-alter-facts-by-filming-them-over-with-dead-romances
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-475
+edition_label: ''
 directors:
-- dana-gordon
+- Dana Gordon
 still: ''
 gallery: []
 resources:

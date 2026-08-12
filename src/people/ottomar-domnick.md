@@ -3,11 +3,11 @@ name: Ottomar Domnick
 slug: ottomar-domnick
 country: Germany
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- jonas
+- Jonas
 resources:
 - name: Film scripts / notes
   file: ''

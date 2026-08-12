@@ -2,10 +2,11 @@
 title: U.S. Highball
 slug: u-s-highball
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-305
+edition_label: ''
 directors:
-- madeline-tourtelot
+- Madeline Tourtelot
 still: ''
 gallery: []
 resources:

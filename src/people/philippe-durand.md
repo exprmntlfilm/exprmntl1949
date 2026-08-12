@@ -3,11 +3,11 @@ name: Philippe Durand
 slug: philippe-durand
 country: France
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- l-annonciation
+- L'Annonciation
 resources:
 - name: Film scripts / notes
   file: ''

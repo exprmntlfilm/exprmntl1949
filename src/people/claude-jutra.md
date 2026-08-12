@@ -3,11 +3,11 @@ name: Claude Jutra
 slug: claude-jutra
 country: Canada
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- a-tout-prendre
+- À tout prendre
 resources:
 - name: Film scripts / notes
   file: ''

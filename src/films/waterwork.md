@@ -2,10 +2,11 @@
 title: Waterwork
 slug: waterwork
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-472
+edition_label: ''
 directors:
-- james-cagle
+- James Cagle
 still: ''
 gallery: []
 resources:

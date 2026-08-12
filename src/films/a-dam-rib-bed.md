@@ -2,10 +2,11 @@
 title: A Dam Rib Bed
 slug: a-dam-rib-bed
 year: '1965'
-edition: 1967
+edition: '1967'
 cat_num: cat-316
+edition_label: ''
 directors:
-- stan-vanderbeek
+- Stan VanDerBeek
 still: ''
 gallery: []
 resources:

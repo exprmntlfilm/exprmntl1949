@@ -3,11 +3,11 @@ name: Antony Balch
 slug: antony-balch
 country: England
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- towers-open-fire
+- Towers Open Fire
 resources:
 - name: Film scripts / notes
   file: ''

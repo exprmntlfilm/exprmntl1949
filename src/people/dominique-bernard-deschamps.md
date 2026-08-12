@@ -3,11 +3,11 @@ name: Dominique Bernard-Deschamps
 slug: dominique-bernard-deschamps
 country: France
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- sur-les-hauteurs
+- Sur les hauteurs
 resources:
 - name: Film scripts / notes
   file: ''

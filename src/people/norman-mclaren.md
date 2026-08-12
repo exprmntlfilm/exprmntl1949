@@ -3,17 +3,17 @@ name: Norman McLaren
 slug: norman-mclaren
 country: Canada
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- hen-hop
-- five-for-four
-- chants-populaires-no-5
-- dollar-dance
-- fiddle-de-dee
-- hoppity-pop
-- v-for-victory
+- Hen hop
+- Five for four
+- Chants populaires nº 5
+- Dollar Dance
+- Fiddle-de-dee
+- Hoppity pop
+- V for Victory
 resources:
 - name: Film scripts / notes
   file: ''

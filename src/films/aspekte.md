@@ -2,10 +2,11 @@
 title: Aspekte
 slug: aspekte
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-213
+edition_label: ''
 directors:
-- heiner-dattenberg
+- Heiner Dattenberg
 still: ''
 gallery: []
 resources:

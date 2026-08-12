@@ -3,11 +3,11 @@ name: Roberto Miller
 slug: roberto-miller
 country: Brazil
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- sound-abstract
+- Sound Abstract
 resources:
 - name: Film scripts / notes
   file: ''

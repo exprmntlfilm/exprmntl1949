@@ -3,12 +3,12 @@ name: John Hubley
 slug: john-hubley
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- the-adventures-of
-- the-tender-game
+- The Adventures of *
+- The Tender Game
 resources:
 - name: Film scripts / notes
   file: ''

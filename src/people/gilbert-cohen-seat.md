@@ -3,11 +3,11 @@ name: Gilbert Cohen-Séat
 slug: gilbert-cohen-seat
 country: Algeria
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- classe-enfantine
+- Classe enfantine
 resources:
 - name: Film scripts / notes
   file: ''

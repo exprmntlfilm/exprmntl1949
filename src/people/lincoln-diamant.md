@@ -3,11 +3,11 @@ name: Lincoln Diamant
 slug: lincoln-diamant
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- falling-out
+- Falling Out!
 resources:
 - name: Film scripts / notes
   file: ''

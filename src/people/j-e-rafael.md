@@ -3,11 +3,11 @@ name: J. E. Rafaël
 slug: j-e-rafael
 country: Belgium
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- afterdinnersong
+- Afterdinnersong
 resources:
 - name: Film scripts / notes
   file: ''

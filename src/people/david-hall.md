@@ -3,13 +3,13 @@ name: David Hall
 slug: david-hall
 country: England
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- view
-- this-surface
-- between
+- View
+- This Surface
+- Between
 resources:
 - name: Film scripts / notes
   file: ''

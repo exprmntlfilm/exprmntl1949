@@ -3,11 +3,11 @@ name: Ferry Radax
 slug: ferry-radax
 country: Austria
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- um-zwanzig
+- Um Zwanzig
 resources:
 - name: Film scripts / notes
   file: ''

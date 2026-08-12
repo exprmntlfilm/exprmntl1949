@@ -2,10 +2,11 @@
 title: Chinese Checkers
 slug: chinese-checkers
 year: '1965'
-edition: 1967
+edition: '1967'
 cat_num: cat-328
+edition_label: ''
 directors:
-- stephen-dwoskin
+- Stephen Dwoskin
 still: ''
 gallery: []
 resources:

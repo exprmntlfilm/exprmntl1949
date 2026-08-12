@@ -3,11 +3,11 @@ name: Pontus Hultén
 slug: pontus-hulten
 country: Sweden
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- en-dag-i-staden
+- En Dag i Staden
 resources:
 - name: Film scripts / notes
   file: ''

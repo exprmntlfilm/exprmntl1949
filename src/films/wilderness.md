@@ -2,10 +2,11 @@
 title: Wilderness
 slug: wilderness
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-403
+edition_label: ''
 directors:
-- abbott-meader
+- Abbott Meader
 still: ''
 gallery: []
 resources:

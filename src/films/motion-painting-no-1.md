@@ -2,10 +2,11 @@
 title: Motion Painting No. 1
 slug: motion-painting-no-1
 year: '1947'
-edition: 1949
+edition: '1949'
 cat_num: cat-053
+edition_label: ''
 directors:
-- oskar-fischinger
+- Oskar Fischinger
 still: ''
 gallery: []
 resources:

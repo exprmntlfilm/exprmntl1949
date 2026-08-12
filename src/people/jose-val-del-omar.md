@@ -3,11 +3,11 @@ name: José Val del Omar
 slug: jose-val-del-omar
 country: Spain
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- la-gran-siguriya
+- La Gran Siguriya
 resources:
 - name: Film scripts / notes
   file: ''

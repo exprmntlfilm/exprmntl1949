@@ -2,10 +2,11 @@
 title: Jonas
 slug: jonas
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-131
+edition_label: ''
 directors:
-- ottomar-domnick
+- Ottomar Domnick
 still: ''
 gallery: []
 resources:

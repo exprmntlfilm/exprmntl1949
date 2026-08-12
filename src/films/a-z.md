@@ -2,10 +2,11 @@
 title: A & Z
 slug: a-z
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-315
+edition_label: ''
 directors:
-- dietrich-schubert
+- Dietrich Schubert
 still: ''
 gallery: []
 resources:

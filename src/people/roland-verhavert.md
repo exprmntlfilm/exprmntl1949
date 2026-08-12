@@ -3,11 +3,11 @@ name: Roland Verhavert
 slug: roland-verhavert
 country: Germany
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- das-spezifische-gewicht
+- Das spezifische Gewicht
 resources:
 - name: Film scripts / notes
   file: ''

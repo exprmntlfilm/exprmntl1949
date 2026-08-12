@@ -3,11 +3,11 @@ name: Toshio Matsumoto
 slug: toshio-matsumoto
 country: Japan
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- fly
+- Fly
 resources:
 - name: Film scripts / notes
   file: ''

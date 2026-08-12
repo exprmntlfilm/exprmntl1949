@@ -3,13 +3,13 @@ name: Iwan Lemaire
 slug: iwan-lemaire
 country: Belgium
 editions:
-- 1958
-- 1963
+- '1958'
+- '1963'
 photo: ''
 gallery: []
 films:
-- un-cout-pour-rien
-- l-homme-cette-dualite
+- Un Cout pour Rien
+- L'Homme, Cette Dualité
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Mario Robles
 slug: mario-robles
 country: Venezuela
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- el-huerco
+- El Huerco
 resources:
 - name: Film scripts / notes
   file: ''

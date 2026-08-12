@@ -3,11 +3,11 @@ name: Marcello Piccardo
 slug: marcello-piccardo
 country: Italy
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- i-colori-della-luce
+- I colori della luce
 resources:
 - name: Film scripts / notes
   file: ''

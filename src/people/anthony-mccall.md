@@ -3,11 +3,11 @@ name: Anthony McCall
 slug: anthony-mccall
 country: England
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- line-describing-a-cone
+- Line Describing a Cone
 resources:
 - name: Film scripts / notes
   file: ''

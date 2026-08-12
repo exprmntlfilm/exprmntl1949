@@ -3,11 +3,11 @@ name: Roman Polanski
 slug: roman-polanski
 country: Poland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- dwaj-ludzie-z-szafa
+- Dwaj ludzie z szafą
 resources:
 - name: Film scripts / notes
   file: ''

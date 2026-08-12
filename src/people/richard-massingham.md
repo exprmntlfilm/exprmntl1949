@@ -3,11 +3,11 @@ name: Richard Massingham
 slug: richard-massingham
 country: England
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- pedestrian-crossing
+- Pedestrian Crossing
 resources:
 - name: Film scripts / notes
   file: ''

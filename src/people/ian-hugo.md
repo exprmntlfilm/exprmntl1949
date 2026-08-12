@@ -3,13 +3,13 @@ name: Ian Hugo
 slug: ian-hugo
 country: USA
 editions:
-- 1958
-- 1963
+- '1958'
+- '1963'
 photo: ''
 gallery: []
 films:
-- melodic-inversion
-- the-gondola-eye
+- Melodic Inversion
+- The Gondola Eye
 resources:
 - name: Film scripts / notes
   file: ''

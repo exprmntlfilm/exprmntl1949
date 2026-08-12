@@ -2,10 +2,11 @@
 title: Sublimated Birth
 slug: sublimated-birth
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-283
+edition_label: ''
 directors:
-- fred-martin
+- Fred Martin
 still: ''
 gallery: []
 resources:

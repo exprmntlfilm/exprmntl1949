@@ -3,12 +3,12 @@ name: Albert Mertz
 slug: albert-mertz
 country: Denmark
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- escape
-- hjertetyven
+- Escape
+- Hjertetyven
 resources:
 - name: Film scripts / notes
   file: ''

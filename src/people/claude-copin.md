@@ -3,11 +3,11 @@ name: Claude Copin
 slug: claude-copin
 country: France
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- assa-1
+- Assa 1
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Peter Du Cane
 slug: peter-du-cane
 country: Australia
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- cathode-crisis
+- Cathode Crisis
 resources:
 - name: Film scripts / notes
   file: ''

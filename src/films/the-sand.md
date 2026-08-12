@@ -2,10 +2,11 @@
 title: The Sand
 slug: the-sand
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-293
+edition_label: ''
 directors:
-- yoichi-takabayashi
+- Yoichi Takabayashi
 still: ''
 gallery: []
 resources:

@@ -2,11 +2,12 @@
 title: Narcissus
 slug: narcissus
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-151
+edition_label: ''
 directors:
-- ben-moore
-- willard-maas
+- Ben Moore
+- Willard Maas
 still: ''
 gallery: []
 resources:

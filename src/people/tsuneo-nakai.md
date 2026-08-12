@@ -3,12 +3,12 @@ name: Tsuneo Nakai
 slug: tsuneo-nakai
 country: Japan
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- alchemy
-- azoth
+- Alchemy
+- Azoth
 resources:
 - name: Film scripts / notes
   file: ''

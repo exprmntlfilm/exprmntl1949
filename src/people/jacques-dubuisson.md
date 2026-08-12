@@ -3,11 +3,11 @@ name: Jacques Dubuisson
 slug: jacques-dubuisson
 country: France
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- pied-enfle
+- Pied Enflé
 resources:
 - name: Film scripts / notes
   file: ''

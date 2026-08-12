@@ -2,10 +2,11 @@
 title: Scarface and Aphrodite
 slug: scarface-and-aphrodite
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-277
+edition_label: ''
 directors:
-- vernon-zimmerman
+- Vernon Zimmerman
 still: ''
 gallery: []
 resources:

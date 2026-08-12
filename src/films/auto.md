@@ -2,10 +2,11 @@
 title: Auto
 slug: auto
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-214
+edition_label: ''
 directors:
-- jean-claude-lubtchansky
+- Jean-Claude Lubtchansky
 still: ''
 gallery: []
 resources:

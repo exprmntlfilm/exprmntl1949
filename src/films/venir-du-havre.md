@@ -2,10 +2,11 @@
 title: Venir du Havre
 slug: venir-du-havre
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-307
+edition_label: ''
 directors:
-- monique-lepeuve
+- Monique Lepeuve
 still: ''
 gallery: []
 resources:

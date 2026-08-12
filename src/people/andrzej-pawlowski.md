@@ -3,11 +3,11 @@ name: Andrzej Pawlowski
 slug: andrzej-pawlowski
 country: Poland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- kineformy
+- Kineformy
 resources:
 - name: Film scripts / notes
   file: ''

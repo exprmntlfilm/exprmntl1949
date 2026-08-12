@@ -2,10 +2,11 @@
 title: Abseits
 slug: abseits
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-079
+edition_label: ''
 directors:
-- wolf-hart
+- Wolf Hart
 still: ''
 gallery: []
 resources:

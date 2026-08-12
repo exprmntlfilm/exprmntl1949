@@ -2,10 +2,11 @@
 title: Dwaj ludzie z szafą
 slug: dwaj-ludzie-z-szafa
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-104
+edition_label: ''
 directors:
-- roman-polanski
+- Roman Polanski
 still: ''
 gallery: []
 resources:

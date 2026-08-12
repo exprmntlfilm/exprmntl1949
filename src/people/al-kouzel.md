@@ -3,11 +3,11 @@ name: Al Kouzel
 slug: al-kouzel
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- the-juggler-of-our-lady
+- The Juggler of our Lady
 resources:
 - name: Film scripts / notes
   file: ''

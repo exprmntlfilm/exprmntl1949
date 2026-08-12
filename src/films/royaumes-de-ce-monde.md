@@ -2,10 +2,11 @@
 title: Royaumes de ce monde
 slug: royaumes-de-ce-monde
 year: '1955'
-edition: 1958
+edition: '1958'
 cat_num: cat-173
+edition_label: ''
 directors:
-- roger-livet
+- Roger Livet
 still: ''
 gallery: []
 resources:

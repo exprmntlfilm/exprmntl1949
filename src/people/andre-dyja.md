@@ -3,13 +3,13 @@ name: André Dyja
 slug: andre-dyja
 country: Poland
 editions:
-- 1963
-- 1967
+- '1963'
+- '1967'
 photo: ''
 gallery: []
 films:
-- les-fleurs
-- les-visages
+- Les Fleurs
+- Les Visages
 resources:
 - name: Film scripts / notes
   file: ''

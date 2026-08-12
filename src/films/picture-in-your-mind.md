@@ -2,10 +2,11 @@
 title: Picture in Your Mind
 slug: picture-in-your-mind
 year: '1949'
-edition: 1949
+edition: '1949'
 cat_num: cat-059
+edition_label: ''
 directors:
-- philip-stapp
+- Philip Stapp
 still: ''
 gallery: []
 resources:

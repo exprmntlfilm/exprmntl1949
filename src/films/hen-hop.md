@@ -2,10 +2,11 @@
 title: Hen hop
 slug: hen-hop
 year: '1942'
-edition: 1949
+edition: '1949'
 cat_num: cat-001
+edition_label: ''
 directors:
-- norman-mclaren
+- Norman McLaren
 still: ''
 gallery: []
 resources:

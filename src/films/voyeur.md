@@ -2,10 +2,11 @@
 title: Voyeur
 slug: voyeur
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-470
+edition_label: ''
 directors:
-- robert-gaylor
+- Robert Gaylor
 still: ''
 gallery: []
 resources:

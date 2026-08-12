@@ -3,12 +3,12 @@ name: Jacques Loew
 slug: jacques-loew
 country: France
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- paris-au-printemps
-- les-drames-du-bois-de-boulogne
+- Paris au printemps
+- Les Drames du Bois de Boulogne
 resources:
 - name: Film scripts / notes
   file: ''

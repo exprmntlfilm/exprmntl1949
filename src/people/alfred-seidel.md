@@ -3,11 +3,11 @@ name: Alfred Seidel
 slug: alfred-seidel
 country: Germany
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- eva
+- Eva
 resources:
 - name: Film scripts / notes
   file: ''

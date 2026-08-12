@@ -2,10 +2,11 @@
 title: Der Fisch fliegt steil
 slug: der-fisch-fliegt-steil
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-227
+edition_label: ''
 directors:
-- georg-bense
+- Georg Bense
 still: ''
 gallery: []
 resources:

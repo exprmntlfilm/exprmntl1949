@@ -2,10 +2,11 @@
 title: Sperm Fairies in a Box
 slug: sperm-fairies-in-a-box
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-450
+edition_label: ''
 directors:
-- tarech-raheem
+- Tarech Raheem
 still: ''
 gallery: []
 resources:

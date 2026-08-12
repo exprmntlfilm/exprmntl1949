@@ -3,12 +3,12 @@ name: Howard Kaplan
 slug: howard-kaplan
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- khrushchev
-- thanks-a-lot
+- Khrushchev
+- Thanks a Lot
 resources:
 - name: Film scripts / notes
   file: ''

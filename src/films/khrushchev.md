@@ -2,11 +2,12 @@
 title: Khrushchev
 slug: khrushchev
 year: '1961'
-edition: 1963
+edition: '1963'
 cat_num: cat-242
+edition_label: ''
 directors:
-- howard-kaplan
-- robert-lebar
+- Howard Kaplan
+- Robert Lebar
 still: ''
 gallery: []
 resources:

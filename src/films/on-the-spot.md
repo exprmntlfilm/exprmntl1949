@@ -2,10 +2,11 @@
 title: On the Spot
 slug: on-the-spot
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-440
+edition_label: ''
 directors:
-- saul-levine
+- Saul Levine
 still: ''
 gallery: []
 resources:

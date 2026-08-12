@@ -3,12 +3,12 @@ name: Ben Moore
 slug: ben-moore
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- the-mechanics-of-love
-- narcissus
+- The Mechanics of Love
+- Narcissus
 resources:
 - name: Film scripts / notes
   file: ''

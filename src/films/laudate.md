@@ -2,10 +2,11 @@
 title: Laudate
 slug: laudate
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-353
+edition_label: ''
 directors:
-- nicholas-frangakis
+- Nicholas Frangakis
 still: ''
 gallery: []
 resources:

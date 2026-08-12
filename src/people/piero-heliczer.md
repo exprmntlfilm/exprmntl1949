@@ -3,11 +3,11 @@ name: Piero Heliczer
 slug: piero-heliczer
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- joan-of-arc
+- Joan of Arc
 resources:
 - name: Film scripts / notes
   file: ''

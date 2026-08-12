@@ -3,11 +3,11 @@ name: Dion Vigne
 slug: dion-vigne
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- north-beach
+- North Beach
 resources:
 - name: Film scripts / notes
   file: ''

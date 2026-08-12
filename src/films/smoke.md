@@ -2,10 +2,11 @@
 title: Smoke
 slug: smoke
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-281
+edition_label: ''
 directors:
-- joseph-kramer
+- Joseph Kramer
 still: ''
 gallery: []
 resources:

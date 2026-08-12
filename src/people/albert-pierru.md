@@ -3,12 +3,12 @@ name: Albert Pierru
 slug: albert-pierru
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- surprise-boogie
-- spirales
+- Surprise Boogie
+- Spirales
 resources:
 - name: Film scripts / notes
   file: ''

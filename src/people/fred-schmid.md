@@ -3,11 +3,11 @@ name: Fred Schmid
 slug: fred-schmid
 country: Switzerland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- sur-le-zinc
+- Sur le Zinc
 resources:
 - name: Film scripts / notes
   file: ''

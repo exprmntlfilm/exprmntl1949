@@ -3,11 +3,11 @@ name: Pedro Portabella
 slug: pedro-portabella
 country: Spain
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- no-compteu-amb-els-dits
+- No compteu amb els dits
 resources:
 - name: Film scripts / notes
   file: ''

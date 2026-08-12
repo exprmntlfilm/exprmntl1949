@@ -3,11 +3,11 @@ name: Michel Mitrani
 slug: michel-mitrani
 country: Bulgaria
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- tous-ceux-qui-tombent
+- Tous ceux qui tombent
 resources:
 - name: Film scripts / notes
   file: ''

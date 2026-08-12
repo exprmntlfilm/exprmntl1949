@@ -3,13 +3,13 @@ name: Guido Haas
 slug: guido-haas
 country: Switzerland
 editions:
-- 1963
-- 1967
+- '1963'
+- '1967'
 photo: ''
 gallery: []
 films:
-- inclinations
-- anamorphosis
+- Inclinations
+- Anamorphosis
 resources:
 - name: Film scripts / notes
   file: ''

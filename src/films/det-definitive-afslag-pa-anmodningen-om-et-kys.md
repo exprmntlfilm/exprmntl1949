@@ -2,10 +2,11 @@
 title: Det definitive afslag på anmodningen om et kys
 slug: det-definitive-afslag-pa-anmodningen-om-et-kys
 year: '1949'
-edition: 1949
+edition: '1949'
 cat_num: cat-019
+edition_label: ''
 directors:
-- jorgen-roos
+- Jørgen Roos
 still: ''
 gallery: []
 resources:

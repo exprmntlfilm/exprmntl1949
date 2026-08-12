@@ -3,11 +3,11 @@ name: Martial Raysse
 slug: martial-raysse
 country: France
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- portrait-electro-machin-chose
+- Portrait électro machin-chose
 resources:
 - name: Film scripts / notes
   file: ''

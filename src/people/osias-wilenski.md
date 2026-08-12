@@ -3,11 +3,11 @@ name: Osias Wilenski
 slug: osias-wilenski
 country: Argentina
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- romance-sonambulo
+- Romance Sonambulo
 resources:
 - name: Film scripts / notes
   file: ''

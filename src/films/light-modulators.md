@@ -2,10 +2,11 @@
 title: Light Modulators
 slug: light-modulators
 year: '1948'
-edition: 1949
+edition: '1949'
 cat_num: cat-043
+edition_label: ''
 directors:
-- elwood-decker
+- Elwood Decker
 still: ''
 gallery: []
 resources:

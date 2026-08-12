@@ -3,11 +3,11 @@ name: Pelle Söderberg
 slug: pelle-soderberg
 country: Sweden
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- andras-bordor
+- Andras bördor
 resources:
 - name: Film scripts / notes
   file: ''

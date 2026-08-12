@@ -2,10 +2,11 @@
 title: Boundary lines
 slug: boundary-lines
 year: '1947'
-edition: 1949
+edition: '1949'
 cat_num: cat-013
+edition_label: ''
 directors:
-- philip-stapp
+- Philip Stapp
 still: ''
 gallery: []
 resources:

@@ -3,12 +3,12 @@ name: Agnès Varda
 slug: agnes-varda
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- la-pointe-courte
-- opera-mouffe
+- La Pointe Courte
+- Opera - Mouffe
 resources:
 - name: Film scripts / notes
   file: ''

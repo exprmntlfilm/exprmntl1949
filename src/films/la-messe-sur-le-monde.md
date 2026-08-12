@@ -2,10 +2,11 @@
 title: La Messe sur le monde
 slug: la-messe-sur-le-monde
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-246
+edition_label: ''
 directors:
-- dominique-delouche
+- Dominique Delouche
 still: ''
 gallery: []
 resources:

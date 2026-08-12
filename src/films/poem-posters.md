@@ -2,10 +2,11 @@
 title: Poem Posters
 slug: poem-posters
 year: '1966'
-edition: 1967
+edition: '1967'
 cat_num: cat-373
+edition_label: ''
 directors:
-- charles-henri-ford
+- Charles Henri Ford
 still: ''
 gallery: []
 resources:

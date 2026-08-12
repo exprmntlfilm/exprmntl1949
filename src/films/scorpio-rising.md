@@ -2,10 +2,11 @@
 title: Scorpio Rising
 slug: scorpio-rising
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-279
+edition_label: ''
 directors:
-- kenneth-anger
+- Kenneth Anger
 still: ''
 gallery: []
 resources:

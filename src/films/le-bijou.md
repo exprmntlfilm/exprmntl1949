@@ -2,10 +2,11 @@
 title: Le bijou
 slug: le-bijou
 year: '1946'
-edition: 1949
+edition: '1949'
 cat_num: cat-038
+edition_label: ''
 directors:
-- francis-lee
+- Francis Lee
 still: ''
 gallery: []
 resources:

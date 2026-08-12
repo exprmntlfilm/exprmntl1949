@@ -3,11 +3,11 @@ name: Hans-Jakob Siber
 slug: hans-jakob-siber
 country: Switzerland
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- jalousie
+- Jalousie
 resources:
 - name: Film scripts / notes
   file: ''

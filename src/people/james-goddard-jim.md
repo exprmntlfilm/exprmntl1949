@@ -3,11 +3,11 @@ name: James Goddard (Jim)
 slug: james-goddard-jim
 country: England
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- new-tempo-stimulants
+- 'New Tempo: Stimulants'
 resources:
 - name: Film scripts / notes
   file: ''

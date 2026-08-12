@@ -2,10 +2,11 @@
 title: Je
 slug: je
 year: '1960'
-edition: 1963
+edition: '1963'
 cat_num: cat-239
+edition_label: ''
 directors:
-- louis-portugais
+- Louis Portugais
 still: ''
 gallery: []
 resources:

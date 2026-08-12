@@ -2,10 +2,11 @@
 title: Loving
 slug: loving
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-142
+edition_label: ''
 directors:
-- stan-brakhage
+- Stan Brakhage
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Hans Helmut Klaus Schönherr
 slug: hans-helmut-klaus-schonherr
 country: Switzerland
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- thalers-meiers-sadkowskys-life-in-the-evening
+- Thaler’s, Meier’s, Sadkowsky’s Life in the Evening
 resources:
 - name: Film scripts / notes
   file: ''

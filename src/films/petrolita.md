@@ -2,10 +2,11 @@
 title: Petrolita
 slug: petrolita
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-162
+edition_label: ''
 directors:
-- victor-a-iturralde-rua
+- Victor A. Iturralde Rua
 still: ''
 gallery: []
 resources:

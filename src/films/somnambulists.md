@@ -2,10 +2,11 @@
 title: Somnambulists
 slug: somnambulists
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-176
+edition_label: ''
 directors:
-- mieczyslaw-waskowski
+- Mieczysław Waśkowski
 still: ''
 gallery: []
 resources:

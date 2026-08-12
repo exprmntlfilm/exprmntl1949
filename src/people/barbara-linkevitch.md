@@ -3,12 +3,12 @@ name: Barbara Linkevitch
 slug: barbara-linkevitch
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- traces
-- silverpoint
+- Traces
+- Silverpoint
 resources:
 - name: Film scripts / notes
   file: ''

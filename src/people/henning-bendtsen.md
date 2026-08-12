@@ -3,11 +3,11 @@ name: Henning Bendtsen
 slug: henning-bendtsen
 country: Denmark
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- legato
+- Legato
 resources:
 - name: Film scripts / notes
   file: ''

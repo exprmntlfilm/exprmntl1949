@@ -2,10 +2,11 @@
 title: Schwarzhuhnbraunhuhnschwarzhuhnweisshuhnrothuhnweiss oder Put-putt
 slug: schwarzhuhnbraunhuhnschwarzhuhnweisshuhnrothuhnweiss-oder-put-putt
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-379
+edition_label: ''
 directors:
-- werner-nekes
+- Werner Nekes
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: Prison
 slug: prison
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-272
+edition_label: ''
 directors:
-- robert-lapoujade
+- Robert Lapoujade
 still: ''
 gallery: []
 resources:

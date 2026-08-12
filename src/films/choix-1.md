@@ -2,10 +2,11 @@
 title: Choix 1
 slug: choix-1
 year: 1970-1994
-edition: 1974
+edition: '1974'
 cat_num: cat-416
+edition_label: ''
 directors:
-- warsztat-formy-filmowej
+- Warsztat Formy Filmowej
 still: ''
 gallery: []
 resources:

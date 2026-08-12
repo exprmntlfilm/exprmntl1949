@@ -2,10 +2,11 @@
 title: Chants populaires nº 5
 slug: chants-populaires-no-5
 year: '1944'
-edition: 1949
+edition: '1949'
 cat_num: cat-015
+edition_label: ''
 directors:
-- norman-mclaren
+- Norman McLaren
 still: ''
 gallery: []
 resources:

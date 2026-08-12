@@ -3,11 +3,11 @@ name: Raphael Bendahan
 slug: raphael-bendahan
 country: Morocco
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- l-ennui
+- L' Ennui
 resources:
 - name: Film scripts / notes
   file: ''

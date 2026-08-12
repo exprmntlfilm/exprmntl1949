@@ -3,11 +3,11 @@ name: Yves Ruhlmann
 slug: yves-ruhlmann
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- lueurs
+- Lueurs
 resources:
 - name: Film scripts / notes
   file: ''

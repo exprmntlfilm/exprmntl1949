@@ -2,11 +2,12 @@
 title: Nice Time
 slug: nice-time
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-152
+edition_label: ''
 directors:
-- alain-tanner
-- claude-goretta
+- Alain Tanner
+- Claude Goretta
 still: ''
 gallery: []
 resources:

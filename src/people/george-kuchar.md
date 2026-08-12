@@ -3,11 +3,11 @@ name: George Kuchar
 slug: george-kuchar
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- color-me-shameless
+- Color Me Shameless
 resources:
 - name: Film scripts / notes
   file: ''

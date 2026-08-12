@@ -2,10 +2,11 @@
 title: Perdu...
 slug: perdu
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-159
+edition_label: ''
 directors:
-- rostrandre
+- Rostrandré
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Jan Kieckens
 slug: jan-kieckens
 country: Belgium
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- begin
+- Begin
 resources:
 - name: Film scripts / notes
   file: ''

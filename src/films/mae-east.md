@@ -2,10 +2,11 @@
 title: Mae East
 slug: mae-east
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-359
+edition_label: ''
 directors:
-- cassandra-m-gerstein
+- Cassandra M. Gerstein
 still: ''
 gallery: []
 resources:

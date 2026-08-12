@@ -3,11 +3,11 @@ name: David Myers
 slug: david-myers
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- have-you-sold-your-dozen-roses
+- Have You Sold Your Dozen Roses?
 resources:
 - name: Film scripts / notes
   file: ''

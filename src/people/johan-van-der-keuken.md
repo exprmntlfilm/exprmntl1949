@@ -3,11 +3,11 @@ name: Johan van der Keuken
 slug: johan-van-der-keuken
 country: Netherlands
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- lucebert-poet-painter
+- Lucebert, poet-painter
 resources:
 - name: Film scripts / notes
   file: ''

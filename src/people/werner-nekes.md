@@ -3,15 +3,15 @@ name: Werner Nekes
 slug: werner-nekes
 country: Germany
 editions:
-- 1967
-- 1974
+- '1967'
+- '1974'
 photo: ''
 gallery: []
 films:
-- das-seminar
-- jum-jum
-- schwarzhuhnbraunhuhnschwarzhuhnweisshuhnrothuhnweiss-oder-put-putt
-- makimono
+- Das Seminar
+- Jüm-Jüm
+- Schwarzhuhnbraunhuhnschwarzhuhnweisshuhnrothuhnweiss oder Put-putt
+- Makimono
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,12 +3,12 @@ name: George Manupelli
 slug: george-manupelli
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- the-house
-- two-short-films
+- The House
+- Two Short Films
 resources:
 - name: Film scripts / notes
   file: ''

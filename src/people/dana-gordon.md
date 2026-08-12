@@ -3,11 +3,11 @@ name: Dana Gordon
 slug: dana-gordon
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- you-can-t-alter-facts-by-filming-them-over-with-dead-romances
+- You Can't Alter Facts by Filming Them Over with Dead Romances
 resources:
 - name: Film scripts / notes
   file: ''

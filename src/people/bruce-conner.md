@@ -3,11 +3,11 @@ name: Bruce Conner
 slug: bruce-conner
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- cosmic-ray
+- Cosmic Ray
 resources:
 - name: Film scripts / notes
   file: ''

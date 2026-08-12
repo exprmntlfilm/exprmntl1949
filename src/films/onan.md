@@ -2,10 +2,11 @@
 title: Onan
 slug: onan
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-264
+edition_label: ''
 directors:
-- takahiko-iimura
+- Takahiko Iimura
 still: ''
 gallery: []
 resources:

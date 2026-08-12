@@ -3,11 +3,11 @@ name: Claudine Eizykman
 slug: claudine-eizykman
 country: France
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- v-w-vitesses-women
+- V. W. (Vitesses - women)
 resources:
 - name: Film scripts / notes
   file: ''

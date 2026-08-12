@@ -3,11 +3,11 @@ name: Ben Van Meter
 slug: ben-van-meter
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- make-love-not-war
+- Make Love Not War
 resources:
 - name: Film scripts / notes
   file: ''

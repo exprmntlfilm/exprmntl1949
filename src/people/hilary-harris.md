@@ -3,12 +3,12 @@ name: Hilary Harris
 slug: hilary-harris
 country: USA
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- highway
-- generation
+- Highway
+- Generation
 resources:
 - name: Film scripts / notes
   file: ''

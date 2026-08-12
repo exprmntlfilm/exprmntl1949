@@ -3,14 +3,14 @@ name: Carmen d'Avino
 slug: carmen-d-avino
 country: USA
 editions:
-- 1958
-- 1963
+- '1958'
+- '1963'
 photo: ''
 gallery: []
 films:
-- the-big-o
-- motif
-- pianissimo
+- The Big O
+- Motif
+- Pianissimo
 resources:
 - name: Film scripts / notes
   file: ''

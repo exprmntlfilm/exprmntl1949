@@ -2,10 +2,11 @@
 title: Studie Warten
 slug: studie-warten
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-181
+edition_label: ''
 directors:
-- heinrich-grafenstein
+- Heinrich Gräfenstein
 still: ''
 gallery: []
 resources:

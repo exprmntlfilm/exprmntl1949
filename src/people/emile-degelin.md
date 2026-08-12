@@ -3,11 +3,11 @@ name: Emile Degelin
 slug: emile-degelin
 country: Belgium
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- beatrice
+- Béatrice
 resources:
 - name: Film scripts / notes
   file: ''

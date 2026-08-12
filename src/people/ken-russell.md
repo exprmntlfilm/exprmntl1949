@@ -3,14 +3,14 @@ name: Ken Russell
 slug: ken-russell
 country: England
 editions:
-- 1958
-- 1963
+- '1958'
+- '1963'
 photo: ''
 gallery: []
 films:
-- amelia-and-the-angel
-- pop-goes-the-easel
-- watch-the-birdie
+- Amelia and the Angel
+- Pop Goes the Easel
+- Watch the Birdie
 resources:
 - name: Film scripts / notes
   file: ''

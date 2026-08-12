@@ -2,10 +2,11 @@
 title: FM/TRCS
 slug: fm-trcs
 year: '1974'
-edition: 1974
+edition: '1974'
 cat_num: cat-426
+edition_label: ''
 directors:
-- coleen-fitzgibbon
+- Coleen Fitzgibbon
 still: ''
 gallery: []
 resources:

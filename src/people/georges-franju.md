@@ -3,11 +3,11 @@ name: Georges Franju
 slug: georges-franju
 country: France
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- la-premiere-nuit
+- La Première Nuit
 resources:
 - name: Film scripts / notes
   file: ''

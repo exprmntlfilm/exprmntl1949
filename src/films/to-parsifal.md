@@ -2,10 +2,11 @@
 title: To Parsifal
 slug: to-parsifal
 year: '1963'
-edition: 1963
+edition: '1963'
 cat_num: cat-297
+edition_label: ''
 directors:
-- bruce-baillie
+- Bruce Baillie
 still: ''
 gallery: []
 resources:

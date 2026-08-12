@@ -3,23 +3,23 @@ name: Stan Brakhage
 slug: stan-brakhage
 country: USA
 editions:
-- 1958
-- 1963
+- '1958'
+- '1963'
 photo: ''
 gallery: []
 films:
-- in-between
-- anticipation-of-the-night
-- loving
-- the-way-to-shadow-garden
-- reflections-on-black
-- flesh-of-morning
-- blue-moses
-- mothlight
-- the-dead
-- prelude-dog-star-man
-- thigh-line-lyre-triangular
-- window-water-baby-moving
+- In Between
+- Anticipation of the Night
+- Loving
+- The Way to Shadow Garden
+- Reflections on Black
+- Flesh of Morning
+- Blue Moses
+- Mothlight
+- The Dead
+- Prelude Dog Star Man
+- Thigh Line Lyre Triangular
+- Window Water Baby Moving
 resources:
 - name: Film scripts / notes
   file: ''

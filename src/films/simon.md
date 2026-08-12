@@ -2,10 +2,11 @@
 title: Simon
 slug: simon
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-174
+edition_label: ''
 directors:
-- peter-zadek
+- Peter Zadek
 still: ''
 gallery: []
 resources:

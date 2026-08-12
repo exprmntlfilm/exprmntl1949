@@ -3,11 +3,11 @@ name: M. Korte
 slug: m-korte
 country: Germany
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- subjektive-bilder-eines-zustands
+- Subjektive Bilder Eines Zustands
 resources:
 - name: Film scripts / notes
   file: ''

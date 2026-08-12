@@ -3,13 +3,13 @@ name: Søren Melson
 slug: soren-melson
 country: Sweden
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- punkt-praeludium
-- rumstudie
-- la-larme
+- Punkt præludium
+- Rumstudie
+- La larme
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,12 +3,12 @@ name: Donald Richie
 slug: donald-richie
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- war-games
-- futari
+- War Games
+- Futari
 resources:
 - name: Film scripts / notes
   file: ''

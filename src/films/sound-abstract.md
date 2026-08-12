@@ -2,10 +2,11 @@
 title: Sound Abstract
 slug: sound-abstract
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-177
+edition_label: ''
 directors:
-- roberto-miller
+- Roberto Miller
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: Rhytm
 slug: rhytm
 year: '1956'
-edition: 1958
+edition: '1958'
 cat_num: cat-170
+edition_label: ''
 directors:
-- len-lye
+- Len Lye
 still: ''
 gallery: []
 resources:

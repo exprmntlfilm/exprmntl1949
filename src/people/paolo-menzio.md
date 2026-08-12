@@ -3,11 +3,11 @@ name: Paolo Menzio
 slug: paolo-menzio
 country: Italy
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- il-mostro-verde
+- Il mostro verde
 resources:
 - name: Film scripts / notes
   file: ''

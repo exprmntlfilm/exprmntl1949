@@ -3,11 +3,11 @@ name: Brian De Palma
 slug: brian-de-palma
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- woton-s-wake
+- Woton's Wake
 resources:
 - name: Film scripts / notes
   file: ''

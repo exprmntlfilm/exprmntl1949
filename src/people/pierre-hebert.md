@@ -3,11 +3,11 @@ name: Pierre Hébert
 slug: pierre-hebert
 country: Canada
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- opus-3
+- Opus 3
 resources:
 - name: Film scripts / notes
   file: ''

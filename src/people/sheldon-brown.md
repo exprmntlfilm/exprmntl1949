@@ -3,11 +3,11 @@ name: Sheldon Brown
 slug: sheldon-brown
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- clean-gate
+- Clean Gate
 resources:
 - name: Film scripts / notes
   file: ''

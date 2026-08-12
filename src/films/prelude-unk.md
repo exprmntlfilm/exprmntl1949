@@ -2,11 +2,12 @@
 title: Prelude
 slug: prelude-unk
 year: n. d.
-edition: 1963
+edition: '1963'
 cat_num: cat-270
+edition_label: ''
 directors:
-- hugh-johnston
-- suzanne-johnston
+- Hugh Johnston
+- Suzanne Johnston
 still: ''
 gallery: []
 resources:

@@ -3,14 +3,14 @@ name: Jørgen Roos
 slug: jorgen-roos
 country: Denmark
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- escape
-- hjertetyven
-- opus-i
-- det-definitive-afslag-pa-anmodningen-om-et-kys
+- Escape
+- Hjertetyven
+- Opus I
+- Det definitive afslag på anmodningen om et kys
 resources:
 - name: Film scripts / notes
   file: ''

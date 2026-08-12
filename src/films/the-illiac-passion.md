@@ -2,10 +2,11 @@
 title: The Illiac Passion
 slug: the-illiac-passion
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-391
+edition_label: ''
 directors:
-- gregory-markopoulos
+- Gregory Markopoulos
 still: ''
 gallery: []
 resources:

@@ -3,11 +3,11 @@ name: Gérard Patris
 slug: gerard-patris
 country: France
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- auto-portrait
+- Auto-portrait
 resources:
 - name: Film scripts / notes
   file: ''

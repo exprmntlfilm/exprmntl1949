@@ -2,10 +2,11 @@
 title: Free Radicals
 slug: free-radicals
 year: '1958'
-edition: 1958
+edition: '1958'
 cat_num: cat-118
+edition_label: ''
 directors:
-- len-lye
+- Len Lye
 still: ''
 gallery: []
 resources:

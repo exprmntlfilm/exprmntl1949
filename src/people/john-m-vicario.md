@@ -3,11 +3,11 @@ name: John M. Vicario
 slug: john-m-vicario
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- shoppers-market
+- Shoppers Market
 resources:
 - name: Film scripts / notes
   file: ''

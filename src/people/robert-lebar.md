@@ -3,11 +3,11 @@ name: Robert Lebar
 slug: robert-lebar
 country: USA
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- khrushchev
+- Khrushchev
 resources:
 - name: Film scripts / notes
   file: ''

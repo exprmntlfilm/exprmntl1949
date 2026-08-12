@@ -2,11 +2,12 @@
 title: Broken Images
 slug: broken-images
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-087
+edition_label: ''
 directors:
-- edward-mcconnell
-- laurence-henson
+- Edward McConnell
+- Laurence Henson
 still: ''
 gallery: []
 resources:

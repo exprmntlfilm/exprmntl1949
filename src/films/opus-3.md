@@ -2,10 +2,11 @@
 title: Opus 3
 slug: opus-3
 year: '1966'
-edition: 1967
+edition: '1967'
 cat_num: cat-367
+edition_label: ''
 directors:
-- pierre-hebert
+- Pierre Hébert
 still: ''
 gallery: []
 resources:

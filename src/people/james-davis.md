@@ -3,11 +3,11 @@ name: James Davis
 slug: james-davis
 country: USA
 editions:
-- 1949
+- '1949'
 photo: ''
 gallery: []
 films:
-- light-reflections
+- Light Reflections
 resources:
 - name: Film scripts / notes
   file: ''

@@ -3,11 +3,11 @@ name: Nicholas Frangakis
 slug: nicholas-frangakis
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- laudate
+- Laudate
 resources:
 - name: Film scripts / notes
   file: ''

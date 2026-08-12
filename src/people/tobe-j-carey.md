@@ -3,11 +3,11 @@ name: Tobe J. Carey
 slug: tobe-j-carey
 country: USA
 editions:
-- 1974
+- '1974'
 photo: ''
 gallery: []
 films:
-- banjo-feedback
+- Banjo feedback
 resources:
 - name: Film scripts / notes
   file: ''

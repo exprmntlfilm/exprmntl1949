@@ -2,10 +2,11 @@
 title: Record Time
 slug: record-time
 year: '1973'
-edition: 1974
+edition: '1974'
 cat_num: cat-444
+edition_label: ''
 directors:
-- anna-ambrose
+- Anna Ambrose
 still: ''
 gallery: []
 resources:

@@ -2,10 +2,11 @@
 title: 'New Tempo: Stimulants'
 slug: new-tempo-stimulants
 year: '1967'
-edition: 1967
+edition: '1967'
 cat_num: cat-365
+edition_label: ''
 directors:
-- james-goddard-jim
+- James Goddard (Jim)
 still: ''
 gallery: []
 resources:

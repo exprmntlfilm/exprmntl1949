@@ -3,11 +3,11 @@ name: Henry Niese
 slug: henry-niese
 country: USA
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- big-rich-town
+- Big Rich Town
 resources:
 - name: Film scripts / notes
   file: ''

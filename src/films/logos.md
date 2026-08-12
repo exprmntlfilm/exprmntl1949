@@ -2,10 +2,11 @@
 title: Logos
 slug: logos
 year: '1957'
-edition: 1958
+edition: '1958'
 cat_num: cat-141
+edition_label: ''
 directors:
-- jane-conger-belson-shimane
+- Jane Conger Belson Shimané
 still: ''
 gallery: []
 resources:

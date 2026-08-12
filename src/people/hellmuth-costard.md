@@ -3,11 +3,11 @@ name: Hellmuth Costard
 slug: hellmuth-costard
 country: Germany
 editions:
-- 1967
+- '1967'
 photo: ''
 gallery: []
 films:
-- warum-hast-du-mich-wachgekusst
+- Warum hast du mich wachgeküßt?
 resources:
 - name: Film scripts / notes
   file: ''

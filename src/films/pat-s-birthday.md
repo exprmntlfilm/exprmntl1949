@@ -2,11 +2,12 @@
 title: Pat's Birthday
 slug: pat-s-birthday
 year: '1962'
-edition: 1963
+edition: '1963'
 cat_num: cat-266
+edition_label: ''
 directors:
-- claes-oldenburg
-- robert-breer
+- Claes Oldenburg
+- Robert Breer
 still: ''
 gallery: []
 resources:

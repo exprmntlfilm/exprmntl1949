@@ -3,11 +3,11 @@ name: Jean-Claude Lubtchansky
 slug: jean-claude-lubtchansky
 country: France
 editions:
-- 1963
+- '1963'
 photo: ''
 gallery: []
 films:
-- auto
+- Auto
 resources:
 - name: Film scripts / notes
   file: ''

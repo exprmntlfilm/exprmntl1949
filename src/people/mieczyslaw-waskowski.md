@@ -3,11 +3,11 @@ name: Mieczysław Waśkowski
 slug: mieczyslaw-waskowski
 country: Poland
 editions:
-- 1958
+- '1958'
 photo: ''
 gallery: []
 films:
-- somnambulists
+- Somnambulists
 resources:
 - name: Film scripts / notes
   file: ''
