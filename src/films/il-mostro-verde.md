@@ -10,6 +10,7 @@ directors:
 - Tonino De Bernardi
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

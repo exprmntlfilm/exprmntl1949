@@ -9,6 +9,7 @@ directors:
 - Søren Melson
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

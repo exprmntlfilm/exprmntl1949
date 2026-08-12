@@ -6,6 +6,7 @@ editions:
 - '1949'
 photo: ''
 gallery: []
+awards: []
 films:
 - Motion Painting No. 1
 - American March

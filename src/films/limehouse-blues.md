@@ -9,6 +9,7 @@ directors:
 - Emiel van Moerkerken
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

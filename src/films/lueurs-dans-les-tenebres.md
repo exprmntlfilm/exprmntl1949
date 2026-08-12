@@ -9,6 +9,7 @@ directors:
 - Pierre Thévenard
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

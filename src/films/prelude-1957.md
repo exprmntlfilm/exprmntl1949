@@ -9,6 +9,7 @@ directors:
 - Herbert Vesely
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Sarah Arledge
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

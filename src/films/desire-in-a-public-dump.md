@@ -9,6 +9,7 @@ directors:
 - Robert Pike
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

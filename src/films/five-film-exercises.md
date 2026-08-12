@@ -10,6 +10,7 @@ directors:
 - John Whitney
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

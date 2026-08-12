@@ -6,6 +6,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Jede Stunde verletzt und die letzte tötet
 resources:

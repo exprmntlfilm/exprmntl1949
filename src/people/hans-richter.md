@@ -6,6 +6,7 @@ editions:
 - '1949'
 photo: ''
 gallery: []
+awards: []
 films:
 - Dreams That Money Can Buy
 resources:

@@ -10,6 +10,7 @@ directors:
 - Morton Goldsholl
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -6,6 +6,7 @@ editions:
 - '1949'
 photo: ''
 gallery: []
+awards: []
 films:
 - La Rose et le Réséda
 resources:

@@ -7,6 +7,7 @@ editions:
 - '1974'
 photo: ''
 gallery: []
+awards: []
 films:
 - Das Seminar
 - Jüm-Jüm

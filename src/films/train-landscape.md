@@ -9,6 +9,7 @@ directors:
 - Jules Engel
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

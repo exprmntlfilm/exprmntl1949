@@ -9,6 +9,7 @@ directors:
 - Albie Thoms
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

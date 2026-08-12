@@ -9,6 +9,7 @@ directors:
 - Albert-André Lheureux
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

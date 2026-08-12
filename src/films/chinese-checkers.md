@@ -9,6 +9,7 @@ directors:
 - Stephen Dwoskin
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

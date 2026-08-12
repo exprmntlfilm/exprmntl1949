@@ -9,6 +9,7 @@ directors:
 - Michael Harvey
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

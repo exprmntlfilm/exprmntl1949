@@ -6,6 +6,7 @@ editions:
 - '1974'
 photo: ''
 gallery: []
+awards: []
 films:
 - You Can't Alter Facts by Filming Them Over with Dead Romances
 resources:

@@ -6,6 +6,7 @@ editions:
 - '1949'
 photo: ''
 gallery: []
+awards: []
 films:
 - Paris au printemps
 - Les Drames du Bois de Boulogne

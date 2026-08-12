@@ -9,6 +9,7 @@ directors:
 - Storm De Hirsch
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

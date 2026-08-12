@@ -9,6 +9,7 @@ directors:
 - James Herbert
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

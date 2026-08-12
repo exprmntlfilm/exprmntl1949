@@ -9,6 +9,7 @@ directors:
 - David Gladwell
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

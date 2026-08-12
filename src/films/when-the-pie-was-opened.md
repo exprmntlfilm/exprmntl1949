@@ -9,6 +9,7 @@ directors:
 - Len Lye
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Robert K. Sharpe
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

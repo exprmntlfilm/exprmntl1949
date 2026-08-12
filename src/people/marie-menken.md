@@ -6,6 +6,7 @@ editions:
 - '1958'
 photo: ''
 gallery: []
+awards: []
 films:
 - Glimpse of the Garden
 resources:

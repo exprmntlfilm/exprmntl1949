@@ -9,6 +9,7 @@ directors:
 - Donn Alan Pennebaker
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

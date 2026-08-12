@@ -6,6 +6,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Lemon Hearts
 - Scarface and Aphrodite

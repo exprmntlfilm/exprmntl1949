@@ -7,6 +7,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - The Big O
 - Motif

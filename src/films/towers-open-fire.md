@@ -9,6 +9,7 @@ directors:
 - Antony Balch
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

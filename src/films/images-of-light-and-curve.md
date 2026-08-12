@@ -10,6 +10,7 @@ directors:
 - John Hora
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,21 +9,21 @@ backend:
 media_folder: "src/images/uploads"
 public_folder: "images/uploads"
 
-locale: "pt"
+locale: "en"
 
 collections:
   - name: "films"
-    label: "Filmes"
-    label_singular: "Filme"
+    label: "Films"
+    label_singular: "Film"
     folder: "src/films"
     create: true
     slug: "{{slug}}"
-    summary: "{{title}} ({{year}}) — Edição {{edition}}"
+    summary: "{{title}} ({{year}}) — Edition {{edition}}"
     fields:
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Identificador (slug)", name: "slug", widget: "string", hint: "Usado na URL. Não altere depois de criado, ou o link do filme muda."}
-      - {label: "Ano", name: "year", widget: "string", required: false, hint: "Ex: 1958, ou 'n. d.' se desconhecido"}
-      - label: "Edição do festival"
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Identifier (slug)", name: "slug", widget: "string", hint: "Used in the URL. Don't change this after the entry is created, or the film's link changes."}
+      - {label: "Year", name: "year", widget: "string", required: false, hint: "e.g. 1958, or 'n. d.' if unknown"}
+      - label: "Festival edition"
         name: "edition"
         widget: "select"
         options:
@@ -32,41 +32,47 @@ collections:
           - {label: "1963", value: "1963"}
           - {label: "1967", value: "1967"}
           - {label: "1974", value: "1974"}
-      - {label: "Número de catálogo", name: "cat_num", widget: "string", required: false}
-      - {label: "Texto da etiqueta de edição (opcional)", name: "edition_label", widget: "string", required: false, hint: "Deixe em branco para o padrão automático ('Edition 1949'). Preencha pra escrever um texto seu."}
-      - label: "Diretor(es)"
+      - {label: "Catalogue number", name: "cat_num", widget: "string", required: false}
+      - {label: "Edition tag text (optional)", name: "edition_label", widget: "string", required: false, hint: "Leave blank for the automatic default ('Edition 1949'). Fill in to write your own text."}
+      - label: "Director(s)"
         name: "directors"
         widget: "list"
-        field: {label: "Nome do diretor", name: "name", widget: "string"}
-        hint: "Digite o nome exatamente como está na página do diretor (ex: Norman McLaren). Se bater com um diretor já cadastrado, o link é criado sozinho. Se o filme tem mais de um diretor, adicione uma linha pra cada — nunca crie a página do filme duas vezes."
-      - {label: "Still (imagem de capa)", name: "still", widget: "image", required: false, hint: "Aparece na página do filme, no catálogo e nas páginas dos diretores."}
-      - label: "Fotos adicionais (galeria)"
+        field: {label: "Director's name", name: "name", widget: "string"}
+        hint: "Type the name exactly as it appears on the director's page (e.g. Norman McLaren). If it matches an existing director, the link is created automatically. If the film has more than one director, add one line per person — never create the film's page twice."
+      - {label: "Still (cover image)", name: "still", widget: "image", required: false, hint: "Appears on the film's page, in the catalogue, and on directors' pages."}
+      - label: "Additional photos (gallery)"
         name: "gallery"
         widget: "list"
-        field: {label: "Foto", name: "image", widget: "image"}
+        field: {label: "Photo", name: "image", widget: "image"}
         required: false
-        hint: "Com 1+ fotos aqui (além do still), o recurso 'Film stills' vira um botão de galeria sozinho."
-      - label: "Recursos (documentos)"
+        hint: "With 1+ photos here (besides the still), the 'Film stills' resource turns into a gallery button on its own."
+      - label: "Awards"
+        name: "awards"
+        widget: "list"
+        field: {label: "Award", name: "award", widget: "string"}
+        required: false
+        hint: "One award per line, e.g. 'Grand Prize, EXPRMNTL 3 (1963)'. Leave empty if the film received no award."
+      - label: "Resources (documents)"
         name: "resources"
         widget: "list"
         required: false
         fields:
-          - {label: "Nome do documento", name: "name", widget: "string"}
-          - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}
-      - {label: "Sinopse", name: "body", widget: "markdown", required: false}
+          - {label: "Document name", name: "name", widget: "string"}
+          - {label: "File (PDF)", name: "file", widget: "file", required: false}
+      - {label: "Synopsis", name: "body", widget: "markdown", required: false}
 
   - name: "people"
-    label: "Diretores"
-    label_singular: "Diretor"
+    label: "Directors"
+    label_singular: "Director"
     folder: "src/people"
     create: true
     slug: "{{slug}}"
     summary: "{{name}} — {{country}}"
     fields:
-      - {label: "Nome", name: "name", widget: "string"}
-      - {label: "Identificador (slug)", name: "slug", widget: "string", hint: "Usado na URL. Não altere depois de criado."}
-      - {label: "País", name: "country", widget: "string", required: false}
-      - label: "Edições em que participou"
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Identifier (slug)", name: "slug", widget: "string", hint: "Used in the URL. Don't change this after the entry is created."}
+      - {label: "Country", name: "country", widget: "string", required: false}
+      - label: "Editions attended"
         name: "editions"
         widget: "select"
         multiple: true
@@ -76,56 +82,62 @@ collections:
           - {label: "1963", value: "1963"}
           - {label: "1967", value: "1967"}
           - {label: "1974", value: "1974"}
-      - {label: "Papel (opcional)", name: "role", widget: "string", required: false, hint: "Deixe em branco para 'Filmmaker'. Use para casos como 'Founder & director'."}
-      - {label: "Título de destaque (opcional)", name: "role_heading", widget: "string", required: false, hint: "Substitui o título automático ('Filmmaker at EXPRMNTL...') por um texto seu."}
-      - {label: "Texto de edições (opcional)", name: "editions_label", widget: "string", required: false, hint: "Ex: 'All five editions'. Deixe em branco para o padrão automático."}
-      - {label: "Retrato (imagem de capa)", name: "photo", widget: "image", required: false}
-      - label: "Fotos adicionais (galeria)"
+      - {label: "Role (optional)", name: "role", widget: "string", required: false, hint: "Leave blank for 'Filmmaker'. Use for cases like 'Founder & director'."}
+      - {label: "Featured heading (optional)", name: "role_heading", widget: "string", required: false, hint: "Replaces the automatic heading ('Filmmaker at EXPRMNTL...') with your own text."}
+      - {label: "Editions tag text (optional)", name: "editions_label", widget: "string", required: false, hint: "e.g. 'All five editions'. Leave blank for the automatic default."}
+      - {label: "Portrait (cover image)", name: "photo", widget: "image", required: false}
+      - label: "Additional photos (gallery)"
         name: "gallery"
         widget: "list"
-        field: {label: "Foto", name: "image", widget: "image"}
+        field: {label: "Photo", name: "image", widget: "image"}
         required: false
-        hint: "Com 1+ fotos aqui (além do retrato), o recurso 'Portrait photographs' vira um botão de galeria sozinho."
-      - label: "Filmes deste diretor"
+        hint: "With 1+ photos here (besides the portrait), the 'Portrait photographs' resource turns into a gallery button on its own."
+      - label: "Awards"
+        name: "awards"
+        widget: "list"
+        field: {label: "Award", name: "award", widget: "string"}
+        required: false
+        hint: "One award per line, e.g. 'Jury Special Mention, EXPRMNTL 4 (1967)'. Leave empty if this person received no award."
+      - label: "Films by this director"
         name: "films"
         widget: "list"
-        field: {label: "Título do filme", name: "title", widget: "string"}
+        field: {label: "Film title", name: "title", widget: "string"}
         required: false
-        hint: "Digite o título exatamente como está na página do filme. Se bater com um filme já cadastrado, o card aparece sozinho abaixo."
-      - label: "Recursos (documentos)"
+        hint: "Type the title exactly as it appears on the film's page. If it matches an existing film, its card appears automatically below."
+      - label: "Resources (documents)"
         name: "resources"
         widget: "list"
         required: false
         fields:
-          - {label: "Nome do documento", name: "name", widget: "string"}
-          - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}
-      - {label: "Biografia", name: "body", widget: "markdown", required: false}
+          - {label: "Document name", name: "name", widget: "string"}
+          - {label: "File (PDF)", name: "file", widget: "file", required: false}
+      - {label: "Biography", name: "body", widget: "markdown", required: false}
 
   - name: "editions"
-    label: "Edições"
-    label_singular: "Edição"
+    label: "Editions"
+    label_singular: "Edition"
     folder: "src/editions"
     create: false
     slug: "{{year}}"
     summary: "{{label}} ({{year}})"
     fields:
-      - {label: "Ano", name: "year", widget: "number", value_type: "int"}
-      - {label: "Rótulo", name: "label", widget: "string", hint: "Ex: EXPRMNTL 1"}
-      - {label: "Texto de apresentação", name: "blurb", widget: "text"}
-      - {label: "Pôster (imagem de capa)", name: "poster", widget: "image", required: false}
-      - label: "Pôsteres alternativos (galeria)"
+      - {label: "Year", name: "year", widget: "number", value_type: "int"}
+      - {label: "Label", name: "label", widget: "string", hint: "e.g. EXPRMNTL 1"}
+      - {label: "Introductory text", name: "blurb", widget: "text"}
+      - {label: "Poster (cover image)", name: "poster", widget: "image", required: false}
+      - label: "Alternate posters (gallery)"
         name: "poster_gallery"
         widget: "list"
-        field: {label: "Pôster", name: "image", widget: "image"}
+        field: {label: "Poster", name: "image", widget: "image"}
         required: false
-      - label: "Fotos gerais da edição (galeria)"
+      - label: "General edition photos (gallery)"
         name: "gallery"
         widget: "list"
-        field: {label: "Foto", name: "image", widget: "image"}
+        field: {label: "Photo", name: "image", widget: "image"}
         required: false
-      - label: "Recursos (documentos)"
+      - label: "Resources (documents)"
         name: "resources"
         widget: "list"
         fields:
-          - {label: "Nome do documento", name: "name", widget: "string"}
-          - {label: "Arquivo (PDF)", name: "file", widget: "file", required: false}
+          - {label: "Document name", name: "name", widget: "string"}
+          - {label: "File (PDF)", name: "file", widget: "file", required: false}

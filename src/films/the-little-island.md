@@ -9,6 +9,7 @@ directors:
 - Richard Williams
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

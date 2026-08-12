@@ -9,6 +9,7 @@ directors:
 - Edward Owens
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

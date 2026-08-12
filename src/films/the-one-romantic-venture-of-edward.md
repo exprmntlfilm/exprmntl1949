@@ -9,6 +9,7 @@ directors:
 - Lawrence Jordan
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

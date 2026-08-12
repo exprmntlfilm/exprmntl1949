@@ -6,6 +6,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Solen, vinden och havet
 resources:

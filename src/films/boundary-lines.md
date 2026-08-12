@@ -9,6 +9,7 @@ directors:
 - Philip Stapp
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

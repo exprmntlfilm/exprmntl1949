@@ -6,6 +6,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - The House
 - Two Short Films

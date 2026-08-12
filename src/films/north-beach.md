@@ -9,6 +9,7 @@ directors:
 - Dion Vigne
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

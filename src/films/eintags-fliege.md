@@ -9,6 +9,7 @@ directors:
 - Peter Fleischmann
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

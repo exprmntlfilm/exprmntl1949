@@ -9,6 +9,7 @@ directors:
 - Dana Gordon
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

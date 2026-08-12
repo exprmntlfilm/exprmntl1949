@@ -6,6 +6,7 @@ editions:
 - '1958'
 photo: ''
 gallery: []
+awards: []
 films:
 - Tokio 1958
 resources:

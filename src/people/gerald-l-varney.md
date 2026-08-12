@@ -6,6 +6,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - Watts Towers
 resources:

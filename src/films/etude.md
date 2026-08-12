@@ -10,6 +10,7 @@ directors:
 - Pierre Puttemans
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

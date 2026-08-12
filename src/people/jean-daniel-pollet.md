@@ -7,6 +7,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Pourvu qu'on ait l'ivresse...
 - Méditerranée

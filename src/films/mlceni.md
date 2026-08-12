@@ -9,6 +9,7 @@ directors:
 - Juraj Jakubisko
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

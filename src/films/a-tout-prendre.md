@@ -9,6 +9,7 @@ directors:
 - Claude Jutra
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

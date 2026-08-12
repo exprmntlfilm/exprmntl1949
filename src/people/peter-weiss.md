@@ -7,6 +7,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Enligt Lag
 - Studie V - Vaxelspel

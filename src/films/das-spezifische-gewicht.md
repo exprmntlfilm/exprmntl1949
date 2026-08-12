@@ -9,6 +9,7 @@ directors:
 - Roland Verhavert
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

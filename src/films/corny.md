@@ -9,6 +9,7 @@ directors:
 - Niels Viggo Bentzon
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Charles Henri Ford
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

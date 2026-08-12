@@ -9,6 +9,7 @@ directors:
 - Bill Brand
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

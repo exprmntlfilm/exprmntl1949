@@ -9,6 +9,7 @@ directors:
 - Osias Wilenski
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

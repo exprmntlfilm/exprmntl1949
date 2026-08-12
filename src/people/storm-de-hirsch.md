@@ -6,6 +6,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - Shaman, a Tapestry for Sorcerers
 resources:

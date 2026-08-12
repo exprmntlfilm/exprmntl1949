@@ -6,6 +6,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - Der Tod des Dr. Antonio durch die Renaissance der geistigen Gesellschaft
 resources:

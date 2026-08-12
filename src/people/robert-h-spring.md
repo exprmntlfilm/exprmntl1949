@@ -6,6 +6,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Edgar Allan Poe's Annabel Lee
 resources:

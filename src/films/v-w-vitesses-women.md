@@ -9,6 +9,7 @@ directors:
 - Claudine Eizykman
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

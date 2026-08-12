@@ -9,6 +9,7 @@ directors:
 - Cinéma 58
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

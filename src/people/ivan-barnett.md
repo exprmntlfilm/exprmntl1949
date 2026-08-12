@@ -6,6 +6,7 @@ editions:
 - '1949'
 photo: ''
 gallery: []
+awards: []
 films:
 - The Fall of the House of Usher
 resources:

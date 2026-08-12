@@ -9,6 +9,7 @@ directors:
 - François Reichenbach
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

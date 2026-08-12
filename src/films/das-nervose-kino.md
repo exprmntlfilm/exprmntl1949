@@ -9,6 +9,7 @@ directors:
 - H.H.K. Schoenherr
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

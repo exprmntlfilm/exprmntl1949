@@ -9,6 +9,7 @@ directors:
 - James Cagle
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -732,3 +732,18 @@ body.search-lock{ overflow:hidden; }
   padding:5px 10px; border:1px solid var(--brass-dim); border-radius:2px;
   pointer-events:none;
 }
+
+/* ---------- Language switcher (machine-translate this page) ---------- */
+.lang-switch{
+  display:flex; align-items:center; gap:6px;
+  font-family:var(--font-mono); font-size:.7rem; letter-spacing:.05em;
+}
+.lang-switch a{
+  color:var(--sage); text-decoration:none;
+  border:1px solid var(--line-strong); padding:5px 8px;
+  transition:color .15s ease, border-color .15s ease;
+}
+.lang-switch a:hover{ color:var(--brass); border-color:var(--brass); }
+@media (max-width:640px){
+  .lang-switch a{ padding:4px 6px; }
+}

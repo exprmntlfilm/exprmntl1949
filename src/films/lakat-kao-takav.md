@@ -9,6 +9,7 @@ directors:
 - Ante Babaja
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

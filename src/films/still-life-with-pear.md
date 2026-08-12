@@ -9,6 +9,7 @@ directors:
 - Mike Dunford
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

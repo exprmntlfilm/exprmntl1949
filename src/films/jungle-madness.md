@@ -9,6 +9,7 @@ directors:
 - Don Duga
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

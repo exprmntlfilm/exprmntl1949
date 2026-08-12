@@ -9,6 +9,7 @@ directors:
 - Sheldon Brown
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

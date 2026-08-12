@@ -9,6 +9,7 @@ directors:
 - Gérard Patris
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

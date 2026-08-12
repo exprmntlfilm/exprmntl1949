@@ -9,6 +9,7 @@ directors:
 - Peter Zadek
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

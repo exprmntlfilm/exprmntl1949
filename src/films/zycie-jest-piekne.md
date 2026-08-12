@@ -9,6 +9,7 @@ directors:
 - Tadeusz Makarczynski
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

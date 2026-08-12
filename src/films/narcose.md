@@ -9,6 +9,7 @@ directors:
 - Philippe Graff
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

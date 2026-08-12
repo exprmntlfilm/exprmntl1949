@@ -9,6 +9,7 @@ directors:
 - Robert H. Spring
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

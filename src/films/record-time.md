@@ -9,6 +9,7 @@ directors:
 - Anna Ambrose
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

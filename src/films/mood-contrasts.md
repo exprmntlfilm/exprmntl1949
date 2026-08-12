@@ -9,6 +9,7 @@ directors:
 - Mary Ellen Bute
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

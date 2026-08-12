@@ -9,6 +9,7 @@ directors:
 - Jud Yalkut
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

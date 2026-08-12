@@ -6,6 +6,7 @@ editions:
 - '1974'
 photo: ''
 gallery: []
+awards: []
 films:
 - Wie ein Jewel
 resources:

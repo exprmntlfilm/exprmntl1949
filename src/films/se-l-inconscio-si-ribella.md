@@ -9,6 +9,7 @@ directors:
 - Alfredo Leonardi
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

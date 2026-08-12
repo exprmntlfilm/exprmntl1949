@@ -9,6 +9,7 @@ directors:
 - Norman Swallow
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

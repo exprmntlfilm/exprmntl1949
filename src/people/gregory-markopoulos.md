@@ -8,6 +8,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - Psyché
 - 'Du sang, de la volupté et de la mort, part II: Lysis'

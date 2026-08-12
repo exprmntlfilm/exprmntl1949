@@ -9,6 +9,7 @@ directors:
 - Jean-Claude Lubtchansky
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

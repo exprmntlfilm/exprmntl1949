@@ -9,6 +9,7 @@ directors:
 - Elwood Decker
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

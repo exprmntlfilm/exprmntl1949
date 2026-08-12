@@ -9,6 +9,7 @@ directors:
 - Boštjan Hladnik
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

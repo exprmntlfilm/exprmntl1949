@@ -9,6 +9,7 @@ directors:
 - Patrick Hella
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

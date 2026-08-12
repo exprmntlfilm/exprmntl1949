@@ -9,6 +9,7 @@ directors:
 - Ernst Schmidt
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

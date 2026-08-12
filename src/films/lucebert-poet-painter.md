@@ -9,6 +9,7 @@ directors:
 - Johan van der Keuken
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Olle Hedman
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Wolf Hart
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

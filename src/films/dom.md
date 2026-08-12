@@ -10,6 +10,7 @@ directors:
 - Walerian Borowczyk
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - J. E. Rafaël
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

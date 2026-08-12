@@ -9,6 +9,7 @@ directors:
 - Gérard Valet
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

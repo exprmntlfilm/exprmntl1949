@@ -9,6 +9,7 @@ directors:
 - Susan Brockman
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Clément Perron
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -7,6 +7,7 @@ editions:
 - '1958'
 photo: ''
 gallery: []
+awards: []
 films:
 - Spook Sport
 - Tarantella

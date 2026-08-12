@@ -9,6 +9,7 @@ directors:
 - Luciano Emmer
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

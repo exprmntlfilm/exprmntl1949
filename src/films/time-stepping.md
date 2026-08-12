@@ -9,6 +9,7 @@ directors:
 - William Raban
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

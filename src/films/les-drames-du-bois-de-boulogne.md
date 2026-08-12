@@ -9,6 +9,7 @@ directors:
 - Jacques Loew
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

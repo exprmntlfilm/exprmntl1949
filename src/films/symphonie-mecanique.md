@@ -9,6 +9,7 @@ directors:
 - Jean Mitry
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

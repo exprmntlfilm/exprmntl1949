@@ -9,6 +9,7 @@ directors:
 - Anthony McCall
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

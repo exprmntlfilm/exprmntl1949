@@ -9,6 +9,7 @@ directors:
 - Albert Allotta
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

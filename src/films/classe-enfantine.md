@@ -9,6 +9,7 @@ directors:
 - Gilbert Cohen-Séat
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

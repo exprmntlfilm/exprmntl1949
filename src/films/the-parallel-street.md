@@ -9,6 +9,7 @@ directors:
 - Ferdinand Kittl
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

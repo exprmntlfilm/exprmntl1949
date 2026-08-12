@@ -10,6 +10,7 @@ directors:
 - Robert Breer
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

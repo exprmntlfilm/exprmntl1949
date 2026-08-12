@@ -9,6 +9,7 @@ directors:
 - Jan Kieckens
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

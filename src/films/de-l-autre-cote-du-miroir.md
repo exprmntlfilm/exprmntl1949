@@ -9,6 +9,7 @@ directors:
 - Arcady Brachlianoff
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

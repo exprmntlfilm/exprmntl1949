@@ -10,6 +10,7 @@ directors:
 - Kenneth van Sickle
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

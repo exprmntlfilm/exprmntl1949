@@ -9,6 +9,7 @@ directors:
 - José Val del Omar
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Antonio Lepeniotis
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

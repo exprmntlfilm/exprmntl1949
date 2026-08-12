@@ -9,6 +9,7 @@ directors:
 - Lutz Mommartz
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

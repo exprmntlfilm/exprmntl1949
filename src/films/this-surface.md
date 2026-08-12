@@ -10,6 +10,7 @@ directors:
 - Tony Sinden
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

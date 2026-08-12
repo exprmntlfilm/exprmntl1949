@@ -7,6 +7,7 @@ editions:
 - '1974'
 photo: ''
 gallery: []
+awards: []
 films:
 - Erlebnisse Der Puppe
 - Der Turm

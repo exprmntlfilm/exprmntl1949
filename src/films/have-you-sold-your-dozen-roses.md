@@ -11,6 +11,7 @@ directors:
 - Philip Greene
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

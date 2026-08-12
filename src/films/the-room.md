@@ -9,6 +9,7 @@ directors:
 - Mordi Gerstein
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

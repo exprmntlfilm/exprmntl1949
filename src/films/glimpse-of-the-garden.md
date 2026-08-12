@@ -9,6 +9,7 @@ directors:
 - Marie Menken
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

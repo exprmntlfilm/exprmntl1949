@@ -10,6 +10,7 @@ directors:
 - Pontus Hultén
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

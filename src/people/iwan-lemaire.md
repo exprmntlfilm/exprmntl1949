@@ -7,6 +7,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Un Cout pour Rien
 - L'Homme, Cette Dualité

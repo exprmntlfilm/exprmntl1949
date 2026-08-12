@@ -9,6 +9,7 @@ directors:
 - John Stehura
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

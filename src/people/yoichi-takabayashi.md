@@ -7,6 +7,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - The Sand
 - Musashino

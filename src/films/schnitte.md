@@ -9,6 +9,7 @@ directors:
 - Peter Grobe
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Martha Haslanger
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

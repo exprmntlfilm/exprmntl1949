@@ -9,6 +9,7 @@ directors:
 - Peter Lilienthal
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

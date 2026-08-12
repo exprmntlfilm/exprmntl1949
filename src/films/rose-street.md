@@ -9,6 +9,7 @@ directors:
 - Margaret Tait
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

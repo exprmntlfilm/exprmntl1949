@@ -9,6 +9,7 @@ directors:
 - Stuart Wynn Jones
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

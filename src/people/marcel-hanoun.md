@@ -6,6 +6,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - L'authentique procès de Carl-Emmanuel Jung
 resources:

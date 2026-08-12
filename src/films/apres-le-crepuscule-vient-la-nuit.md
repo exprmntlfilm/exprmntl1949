@@ -9,6 +9,7 @@ directors:
 - Rune Hagberg
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

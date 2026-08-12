@@ -10,6 +10,7 @@ directors:
 - Robert Lebar
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

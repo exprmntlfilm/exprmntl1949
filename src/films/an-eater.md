@@ -9,6 +9,7 @@ directors:
 - Kazutomo Fujino
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Yoji Kuri
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

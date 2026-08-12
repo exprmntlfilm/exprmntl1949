@@ -9,6 +9,7 @@ directors:
 - Lewis Jacobs
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

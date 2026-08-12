@@ -9,6 +9,7 @@ directors:
 - Dieter H. Lemmel
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Wolfgang Ramsbott
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Carl Fredrik Reuterswärd
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Jean-Marie Buchet
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

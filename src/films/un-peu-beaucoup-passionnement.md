@@ -9,6 +9,7 @@ directors:
 - Frédéric Van Besien
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

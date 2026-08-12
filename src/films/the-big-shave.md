@@ -9,6 +9,7 @@ directors:
 - Martin Scorsese
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

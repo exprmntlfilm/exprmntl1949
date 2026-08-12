@@ -9,6 +9,7 @@ directors:
 - Francis Lee
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

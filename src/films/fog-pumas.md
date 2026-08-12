@@ -10,6 +10,7 @@ directors:
 - Gunvor Nelson
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

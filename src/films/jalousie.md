@@ -9,6 +9,7 @@ directors:
 - Hans-Jakob Siber
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

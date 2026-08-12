@@ -9,6 +9,7 @@ directors:
 - James Goddard (Jim)
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

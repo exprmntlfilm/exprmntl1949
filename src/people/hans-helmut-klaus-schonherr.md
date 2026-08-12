@@ -6,6 +6,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - Thaler’s, Meier’s, Sadkowsky’s Life in the Evening
 resources:

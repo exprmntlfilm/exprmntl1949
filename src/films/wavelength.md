@@ -9,6 +9,7 @@ directors:
 - Michael Snow
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

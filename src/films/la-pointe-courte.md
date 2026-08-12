@@ -9,6 +9,7 @@ directors:
 - Agnès Varda
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

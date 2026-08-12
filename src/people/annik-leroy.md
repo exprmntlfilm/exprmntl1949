@@ -6,6 +6,7 @@ editions:
 - '1974'
 photo: ''
 gallery: []
+awards: []
 films:
 - N.B.C. (Nucléaire, Biologique, Chimique)
 resources:

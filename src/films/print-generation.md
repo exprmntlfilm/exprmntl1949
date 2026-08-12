@@ -9,6 +9,7 @@ directors:
 - J. J. Murphy
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

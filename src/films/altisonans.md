@@ -9,6 +9,7 @@ directors:
 - Karl-Birger Blomdahl
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Donald Richie
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

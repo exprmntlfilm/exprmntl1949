@@ -9,6 +9,7 @@ directors:
 - Guido Haas
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

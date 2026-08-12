@@ -9,6 +9,7 @@ directors:
 - Sakio Hirata
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

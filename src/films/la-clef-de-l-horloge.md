@@ -9,6 +9,7 @@ directors:
 - Marcel Broodthaers
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

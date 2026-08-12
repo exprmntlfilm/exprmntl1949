@@ -9,6 +9,7 @@ directors:
 - Michio Okabe
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

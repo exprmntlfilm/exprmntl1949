@@ -9,6 +9,7 @@ directors:
 - Richard Winther
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

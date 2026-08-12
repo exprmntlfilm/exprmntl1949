@@ -9,6 +9,7 @@ directors:
 - Hellmuth Costard
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

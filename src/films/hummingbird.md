@@ -10,6 +10,7 @@ directors:
 - James P. Schaffer
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

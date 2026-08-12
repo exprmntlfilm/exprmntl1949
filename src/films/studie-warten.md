@@ -9,6 +9,7 @@ directors:
 - Heinrich Gräfenstein
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

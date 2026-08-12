@@ -9,6 +9,7 @@ directors:
 - Jim Johnson
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Saul Levine
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

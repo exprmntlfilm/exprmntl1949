@@ -9,6 +9,7 @@ directors:
 - Toshio Matsumoto
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

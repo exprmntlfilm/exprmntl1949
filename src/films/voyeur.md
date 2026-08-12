@@ -9,6 +9,7 @@ directors:
 - Robert Gaylor
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

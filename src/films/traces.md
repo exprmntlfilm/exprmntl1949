@@ -9,6 +9,7 @@ directors:
 - Barbara Linkevitch
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

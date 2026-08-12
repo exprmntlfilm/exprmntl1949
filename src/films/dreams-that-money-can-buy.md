@@ -9,6 +9,7 @@ directors:
 - Hans Richter
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

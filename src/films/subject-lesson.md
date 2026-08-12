@@ -9,6 +9,7 @@ directors:
 - Christopher B. Young
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

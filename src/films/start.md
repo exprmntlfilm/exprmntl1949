@@ -10,6 +10,7 @@ directors:
 - Pierre Cordier
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

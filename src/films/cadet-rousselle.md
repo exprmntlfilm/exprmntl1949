@@ -9,6 +9,7 @@ directors:
 - George Dunning
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

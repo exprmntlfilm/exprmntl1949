@@ -9,6 +9,7 @@ directors:
 - Julius Pinschewer
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

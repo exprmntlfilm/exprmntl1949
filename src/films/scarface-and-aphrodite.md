@@ -9,6 +9,7 @@ directors:
 - Vernon Zimmerman
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

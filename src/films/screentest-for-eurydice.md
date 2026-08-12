@@ -10,6 +10,7 @@ directors:
 - Marc Ghens
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Georg Bense
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

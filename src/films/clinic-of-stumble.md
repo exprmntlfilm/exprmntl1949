@@ -9,6 +9,7 @@ directors:
 - Sidney Peterson
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

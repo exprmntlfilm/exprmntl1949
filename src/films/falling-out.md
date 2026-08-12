@@ -9,6 +9,7 @@ directors:
 - Lincoln Diamant
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

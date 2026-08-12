@@ -9,6 +9,7 @@ directors:
 - Jane Conger Belson Shimané
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

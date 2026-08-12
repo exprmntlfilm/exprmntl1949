@@ -9,6 +9,7 @@ directors:
 - Vlado Kristl
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

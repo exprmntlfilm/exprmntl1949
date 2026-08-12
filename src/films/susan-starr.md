@@ -10,6 +10,7 @@ directors:
 - Hope Ryden
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

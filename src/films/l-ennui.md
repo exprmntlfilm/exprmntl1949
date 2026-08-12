@@ -9,6 +9,7 @@ directors:
 - Raphael Bendahan
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

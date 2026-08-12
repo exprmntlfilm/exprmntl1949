@@ -9,6 +9,7 @@ directors:
 - Armand De Hesselle
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Takahiko Iimura
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

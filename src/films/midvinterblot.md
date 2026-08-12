@@ -9,6 +9,7 @@ directors:
 - Gösta Werner
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

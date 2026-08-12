@@ -9,6 +9,7 @@ directors:
 - Ernest Pintoff
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

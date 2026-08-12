@@ -9,6 +9,7 @@ directors:
 - Kurt Matt
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

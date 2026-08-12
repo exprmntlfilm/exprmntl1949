@@ -9,6 +9,7 @@ directors:
 - John Thomas
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

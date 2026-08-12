@@ -9,6 +9,7 @@ directors:
 - Bruce Conner
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

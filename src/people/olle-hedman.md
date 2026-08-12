@@ -6,6 +6,7 @@ editions:
 - '1974'
 photo: ''
 gallery: []
+awards: []
 films:
 - A Semiotic Study of Unlogic Figure-Codification
 resources:

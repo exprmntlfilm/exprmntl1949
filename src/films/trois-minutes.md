@@ -9,6 +9,7 @@ directors:
 - Jean-Marie Lambert
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

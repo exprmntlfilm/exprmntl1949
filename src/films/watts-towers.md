@@ -9,6 +9,7 @@ directors:
 - Gerald L. Varney
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

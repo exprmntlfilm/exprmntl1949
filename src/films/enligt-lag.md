@@ -10,6 +10,7 @@ directors:
 - Peter Weiss
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

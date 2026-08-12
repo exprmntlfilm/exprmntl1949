@@ -9,6 +9,7 @@ directors:
 - David Hykes
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

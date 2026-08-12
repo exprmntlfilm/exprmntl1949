@@ -9,6 +9,7 @@ directors:
 - James Davis
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Ivan Hustava
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Gregory Markopoulos
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

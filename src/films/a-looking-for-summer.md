@@ -9,6 +9,7 @@ directors:
 - Abbott Meader
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Wilhelm Hein
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

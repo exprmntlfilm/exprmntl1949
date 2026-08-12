@@ -6,6 +6,7 @@ editions:
 - '1958'
 photo: ''
 gallery: []
+awards: []
 films:
 - Impressions de Vitesse 1958 "S. N. C. F.
 resources:

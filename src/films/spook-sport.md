@@ -10,6 +10,7 @@ directors:
 - Ted Nemeth
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

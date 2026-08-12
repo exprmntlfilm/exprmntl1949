@@ -9,6 +9,7 @@ directors:
 - Monique Lepeuve
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - André Michel
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

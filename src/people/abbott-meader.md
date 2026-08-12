@@ -7,6 +7,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - A Looking for Summer
 - Wilderness

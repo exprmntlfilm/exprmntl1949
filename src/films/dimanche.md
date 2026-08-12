@@ -9,6 +9,7 @@ directors:
 - Edmond Bernhard
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

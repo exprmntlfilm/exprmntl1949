@@ -9,6 +9,7 @@ directors:
 - Joseph Kramer
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Fred Martin
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

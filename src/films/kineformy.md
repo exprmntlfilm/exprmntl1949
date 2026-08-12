@@ -9,6 +9,7 @@ directors:
 - Andrzej Pawlowski
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

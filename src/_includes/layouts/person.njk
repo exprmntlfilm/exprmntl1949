@@ -24,6 +24,14 @@ layout: layouts/base.njk
         {% if editions_label %}<span class="tag">{{ editions_label }}</span>{% else %}{% for e in editionsList %}<span class="tag">Edition {{ e }}</span> {% endfor %}{% endif %}
         <h2>{% if role_heading %}{{ role_heading }}{% elif editionsList.length == 1 %}Filmmaker at {{ editionsList[0] | editionLabel }} ({{ editionsList[0] }}){% else %}Filmmaker across multiple editions{% endif %}</h2>
         {% if content %}<div class="body-copy">{{ content | safe }}</div>{% endif %}
+        {% if awards.length %}
+        <div class="body-copy" style="margin-top:8px;">
+          <strong>Awards:</strong>
+          <ul style="margin:6px 0 0; padding-left:18px;">
+            {% for a in awards %}<li>{{ a }}</li>{% endfor %}
+          </ul>
+        </div>
+        {% endif %}
       </div>
     </div>
   </section>

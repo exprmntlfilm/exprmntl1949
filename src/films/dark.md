@@ -9,6 +9,7 @@ directors:
 - Paul Winkler
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

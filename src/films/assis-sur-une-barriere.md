@@ -9,6 +9,7 @@ directors:
 - Jean Van Helden
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

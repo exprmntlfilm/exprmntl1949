@@ -9,6 +9,7 @@ directors:
 - Bruce Baillie
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Jean-Daniel Pollet
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

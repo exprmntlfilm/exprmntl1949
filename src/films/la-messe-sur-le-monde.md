@@ -9,6 +9,7 @@ directors:
 - Dominique Delouche
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

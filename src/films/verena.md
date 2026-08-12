@@ -9,6 +9,7 @@ directors:
 - Ed Sommer
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

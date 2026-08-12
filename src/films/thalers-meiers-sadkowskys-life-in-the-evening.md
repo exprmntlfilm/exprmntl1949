@@ -9,6 +9,7 @@ directors:
 - Hans Helmut Klaus Schönherr
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

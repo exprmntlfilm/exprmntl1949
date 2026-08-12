@@ -9,6 +9,7 @@ directors:
 - Georg Radanowicz
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

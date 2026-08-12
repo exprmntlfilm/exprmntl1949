@@ -9,6 +9,7 @@ directors:
 - Mario Robles
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

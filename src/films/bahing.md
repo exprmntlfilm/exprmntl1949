@@ -9,6 +9,7 @@ directors:
 - Jean-Charles Meunier
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

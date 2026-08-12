@@ -9,6 +9,7 @@ directors:
 - Tsuneo Nakai
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

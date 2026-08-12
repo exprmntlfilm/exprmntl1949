@@ -9,6 +9,7 @@ directors:
 - Daniel Szczechura
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

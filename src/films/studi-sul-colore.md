@@ -9,6 +9,7 @@ directors:
 - Luigi Veronesi
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

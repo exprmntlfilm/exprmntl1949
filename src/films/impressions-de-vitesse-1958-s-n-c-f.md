@@ -9,6 +9,7 @@ directors:
 - Roger Moulinet
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

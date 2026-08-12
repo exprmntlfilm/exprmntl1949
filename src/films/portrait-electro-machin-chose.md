@@ -9,6 +9,7 @@ directors:
 - Martial Raysse
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

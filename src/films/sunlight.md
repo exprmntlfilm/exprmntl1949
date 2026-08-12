@@ -9,6 +9,7 @@ directors:
 - Mike Henley
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

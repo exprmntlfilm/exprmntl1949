@@ -9,6 +9,7 @@ directors:
 - Haro Senft
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Czeslaw Duraj
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

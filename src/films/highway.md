@@ -9,6 +9,7 @@ directors:
 - Hilary Harris
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

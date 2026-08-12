@@ -9,6 +9,7 @@ directors:
 - Michel Thirionet
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

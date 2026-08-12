@@ -9,6 +9,7 @@ directors:
 - Paul Sharits
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

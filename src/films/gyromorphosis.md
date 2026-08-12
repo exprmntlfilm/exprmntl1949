@@ -9,6 +9,7 @@ directors:
 - Hy Hirsch
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

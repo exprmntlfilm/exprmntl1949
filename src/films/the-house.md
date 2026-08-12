@@ -9,6 +9,7 @@ directors:
 - George Manupelli
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -7,6 +7,7 @@ editions:
 - '1967'
 photo: ''
 gallery: []
+awards: []
 films:
 - Opus 5
 - Line of Apogee

@@ -9,6 +9,7 @@ directors:
 - Yves Ruhlmann
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

@@ -9,6 +9,7 @@ directors:
 - Yoram Gross
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

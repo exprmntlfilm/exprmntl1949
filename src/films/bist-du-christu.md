@@ -9,6 +9,7 @@ directors:
 - Yves De Meester
 still: ''
 gallery: []
+awards: []
 resources:
 - name: Film card
   file: ''

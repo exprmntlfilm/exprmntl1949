@@ -6,6 +6,7 @@ editions:
 - '1963'
 photo: ''
 gallery: []
+awards: []
 films:
 - Prison
 - Trois Portraits d'un Oiseau-Qui-N'existe-Pas
