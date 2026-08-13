@@ -140,6 +140,14 @@ collections:
           - {label: "1967", value: "1967"}
           - {label: "1974", value: "1974"}
       - {label: "Full story", name: "body", widget: "markdown", hint: "The full text, shown on the story's own page."}
+      - label: "Resources (documents)"
+        name: "resources"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Document name", name: "name", widget: "string"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
 
   - name: "editions"
     label: "Editions"

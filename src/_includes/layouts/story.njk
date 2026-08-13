@@ -24,4 +24,29 @@ layout: layouts/base.njk
       </div>
     </div>
   </section>
+
+  {% if resources.length %}
+  <section class="shell section">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">Resources</p>
+      </div>
+    </div>
+    <div class="doc-list">
+      {% for r in resources %}
+      <div class="doc-row">
+        <span class="doc-num">{{ loop.index0 | docLabel(1) }}</span>
+        <div><span class="doc-name">{{ r.name }}</span></div>
+        {% if r.file %}
+        <a class="doc-status" href="../{{ r.file }}" target="_blank" rel="noopener">View</a>
+        {% elif r.url %}
+        <a class="doc-status" href="{{ r.url }}" target="_blank" rel="noopener">View</a>
+        {% else %}
+        <span class="doc-status">To be added</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
 </main>

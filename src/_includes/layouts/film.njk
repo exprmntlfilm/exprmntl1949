@@ -27,7 +27,7 @@ layout: layouts/base.njk
         </p>
         {% if content %}<div class="body-copy">{{ content | safe }}</div>{% endif %}
         {% if watch_url %}
-        <a class="btn" href="{{ watch_url }}" target="_blank" rel="noopener" style="margin-top:6px;">&#9654; Watch</a>
+        <a class="btn" href="{{ watch_url }}" target="_blank" rel="noopener" style="margin-top:6px; align-self:flex-start;">&#9654; Watch</a>
         {% endif %}
         {% if awards.length %}
         <div class="awards-block">
