@@ -4,7 +4,7 @@ slug: tinto-brass
 country: Italy
 editions:
   - "1958"
-photo: images/uploads/tinto_brass_03.jpg
+photo: images/uploads/tinto_brass_01.jpg
 gallery: []
 awards: []
 films:
