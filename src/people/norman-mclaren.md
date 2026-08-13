@@ -4,7 +4,7 @@ slug: norman-mclaren
 country: Canada
 editions:
   - "1949"
-photo: images/uploads/norman_mclaren_drawing_on_film_-_1944.jpg
+photo: ""
 gallery: []
 awards: []
 films:
