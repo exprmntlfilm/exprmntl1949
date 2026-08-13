@@ -4,7 +4,8 @@ slug: the-big-shave
 year: "1967"
 edition: "1967"
 cat_num: cat-388
-edition_label: Edition 444
+edition_label: ""
+watch_url: https://archive.org/details/TheBigShave1967VHSVersion
 directors:
   - Martin Scorsese
 still: ""
