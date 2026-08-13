@@ -5,7 +5,7 @@ country: Ucraine
 editions:
   - "1949"
   - "1958"
-photo: images/uploads/maya_deren_2.jpg
+photo: ""
 gallery: []
 awards: []
 films:
