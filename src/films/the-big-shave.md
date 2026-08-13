@@ -8,7 +8,7 @@ edition_label: ""
 watch_url: https://archive.org/details/TheBigShave1967VHSVersion
 directors:
   - Martin Scorsese
-still: ""
+still: images/uploads/t4xtpft6j0q51.png
 gallery: []
 awards: []
 resources:
