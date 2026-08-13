@@ -52,12 +52,13 @@ layout: layouts/base.njk
     <div class="section-head">
       <div>
         <p class="eyebrow">Resources</p>
+        <h2>Photographs, scripts &amp; press</h2>
       </div>
     </div>
     <div class="doc-list">
       <div class="doc-row">
         <span class="doc-num">DOC.01</span>
-        <div><span class="doc-name">Portrait photographs</span>{% if galleryImages.length > 1 %}<span class="doc-sub">{{ galleryImages.length }} photos</span>{% endif %}</div>
+        <div><span class="doc-name">Portrait photographs</span><span class="doc-sub">{% if galleryImages.length > 1 %}{{ galleryImages.length }} photos{% else %}pending digitization{% endif %}</span></div>
         {% if galleryImages.length > 1 %}
         <button class="doc-status gallery-btn" data-gallery-images='{{ galleryImages | json | safe }}' data-gallery-title="{{ name }}" data-gallery-root="../">View Gallery</button>
         {% else %}
@@ -67,7 +68,7 @@ layout: layouts/base.njk
       {% for r in resources %}
       <div class="doc-row">
         <span class="doc-num">{{ loop.index0 | docLabel(2) }}</span>
-        <div><span class="doc-name">{{ r.name }}</span></div>
+        <div><span class="doc-name">{{ r.name }}</span><span class="doc-sub">pending digitization</span></div>
         {% if r.file %}
         <a class="doc-status" href="../{{ r.file }}" target="_blank" rel="noopener">View</a>
         {% elif r.url %}

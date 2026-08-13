@@ -3,16 +3,16 @@ name: Tinto Brass
 slug: tinto-brass
 country: Italy
 editions:
-  - "1958"
-photo: images/uploads/tinto_brass_01.jpg
+- '1958'
+photo: ''
 gallery: []
 awards: []
 films:
-  - Spatiodynamisme
+- Spatiodynamisme
 resources:
-  - name: Film scripts / notes
-    file: ""
-  - name: Press clippings
-    file: ""
+- name: Film scripts / notes
+  file: ''
+- name: Press clippings
+  file: ''
 ---
 A filmmaker from Italy, featured in competition at EXPRMNTL 2 (1958). 1 film in the EXPRMNTL collection, listed below.

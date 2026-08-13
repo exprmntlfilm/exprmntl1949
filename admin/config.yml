@@ -34,6 +34,7 @@ collections:
           - {label: "1974", value: "1974"}
       - {label: "Catalogue number", name: "cat_num", widget: "string", required: false}
       - {label: "Edition tag text (optional)", name: "edition_label", widget: "string", required: false, hint: "Leave blank for the automatic default ('Edition 1949'). Fill in to write your own text."}
+      - {label: "Watch link (optional)", name: "watch_url", widget: "string", required: false, hint: "Paste a link to the digitized film if one exists — a 'Watch' button appears on the film's page below the synopsis. Leave blank if none."}
       - label: "Director(s)"
         name: "directors"
         widget: "list"
@@ -58,7 +59,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Synopsis", name: "body", widget: "markdown", required: false}
 
@@ -111,7 +112,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Biography", name: "body", widget: "markdown", required: false}
 
@@ -167,5 +168,5 @@ collections:
         widget: "list"
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
