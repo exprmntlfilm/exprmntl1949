@@ -45,6 +45,24 @@ function renderFilmCards(filmObjs, root) {
   }).join("\n");
 }
 
+function renderStoryCards(storyObjs, root) {
+  return (storyObjs || []).map((s) => {
+    const imageBlock = s.data.image
+      ? `<div class="story-card-image"><img src="${root}${s.data.image}" alt="${s.data.title}"></div>`
+      : "";
+    const attribParts = [];
+    if (s.data.source) attribParts.push(s.data.source);
+    if (s.data.edition) attribParts.push("Edition " + s.data.edition);
+    const attrib = attribParts.length ? attribParts.join(" &middot; ") : "";
+    return `<a class="story-card story-card-link" href="${root}stories/${s.data.slug}.html">
+      ${imageBlock}
+      <span class="quote-mark">&ldquo;</span>
+      <p>${s.data.excerpt || s.data.title}</p>
+      ${attrib ? `<p class="story-attrib">${attrib}</p>` : ""}
+    </a>`;
+  }).join("\n");
+}
+
 function renderPersonRow(p, root) {
   const editions = p.data.editions || [];
   const edTxt = editions.length === 1 ? `${editions[0]} edition` : (editions.length > 1 ? "Multiple editions" : "\u2014");
@@ -88,8 +106,10 @@ function renderEditionSection(ed, root) {
         <span class="doc-num">DOC.${String(i + 1).padStart(2, "0")}</span>
         <div><span class="doc-name">${r.name}</span><span class="doc-sub">${d.year} &middot; pending digitization</span></div>
         ${r.file
-          ? `<a class="doc-status" href="${root}${r.file}" target="_blank" rel="noopener">View PDF</a>`
-          : `<span class="doc-status">To be added</span>`}
+          ? `<a class="doc-status" href="${root}${r.file}" target="_blank" rel="noopener">View</a>`
+          : r.url
+            ? `<a class="doc-status" href="${r.url}" target="_blank" rel="noopener">View</a>`
+            : `<span class="doc-status">To be added</span>`}
       </div>`).join("");
 
   const photoNum = String((d.resources || []).length + 1).padStart(2, "0");
@@ -180,6 +200,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("editionsSorted", (api) =>
     api.getFilteredByTag("editions").sort((a, b) => a.data.year - b.data.year)
   );
+  eleventyConfig.addCollection("storiesSorted", (api) =>
+    api.getFilteredByTag("stories").sort((a, b) => a.data.title.localeCompare(b.data.title))
+  );
 
   eleventyConfig.addFilter("catDisplay", catDisplay);
   eleventyConfig.addFilter("json", (obj) => JSON.stringify(obj || []));
@@ -202,6 +225,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("editionLabel", (year) => {
     const labels = { 1949: "EXPRMNTL 1", 1958: "EXPRMNTL 2", 1963: "EXPRMNTL 3", 1967: "EXPRMNTL 4", 1974: "EXPRMNTL 5" };
     return labels[year] || ("EXPRMNTL " + year);
+  });
+  eleventyConfig.addFilter("storyCards", (storyObjs, root) => renderStoryCards(storyObjs, root));
+  eleventyConfig.addFilter("randomImage", (items, field, root) => {
+    const withImages = (items || []).filter((i) => i.data && i.data[field]);
+    if (!withImages.length) return "";
+    const pick = withImages[Math.floor(Math.random() * withImages.length)];
+    return root + pick.data[field];
   });
 
 

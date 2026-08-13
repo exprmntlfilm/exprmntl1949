@@ -58,7 +58,8 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (PDF)", name: "file", widget: "file", required: false}
+          - {label: "File (upload)", name: "file", widget: "file", required: false}
+          - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Synopsis", name: "body", widget: "markdown", required: false}
 
   - name: "people"
@@ -110,8 +111,34 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (PDF)", name: "file", widget: "file", required: false}
+          - {label: "File (upload)", name: "file", widget: "file", required: false}
+          - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Biography", name: "body", widget: "markdown", required: false}
+
+  - name: "stories"
+    label: "Stories"
+    label_singular: "Story"
+    folder: "src/stories"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Identifier (slug)", name: "slug", widget: "string", hint: "Used in the URL. Don't change this after the entry is created."}
+      - {label: "Illustration / photo (optional)", name: "image", widget: "image", required: false}
+      - {label: "Short excerpt (shown on the card)", name: "excerpt", widget: "text", hint: "One or two sentences — this is what shows on the Stories index page."}
+      - {label: "Source / attribution (optional)", name: "source", widget: "string", required: false, hint: "e.g. a name, a publication, or 'Festival archive'."}
+      - label: "Related edition (optional)"
+        name: "edition"
+        widget: "select"
+        required: false
+        options:
+          - {label: "1949", value: "1949"}
+          - {label: "1958", value: "1958"}
+          - {label: "1963", value: "1963"}
+          - {label: "1967", value: "1967"}
+          - {label: "1974", value: "1974"}
+      - {label: "Full story", name: "body", widget: "markdown", hint: "The full text, shown on the story's own page."}
 
   - name: "editions"
     label: "Editions"
@@ -140,4 +167,5 @@ collections:
         widget: "list"
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (PDF)", name: "file", widget: "file", required: false}
+          - {label: "File (upload)", name: "file", widget: "file", required: false}
+          - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}

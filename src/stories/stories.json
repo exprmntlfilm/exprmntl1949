@@ -1,0 +1,10 @@
+{
+  "tags": "stories",
+  "layout": "layouts/story.njk",
+  "root": "../",
+  "section": "stories",
+  "eleventyComputed": {
+    "permalink": "stories/{{ slug }}.html",
+    "title": "{{ title }}"
+  }
+}

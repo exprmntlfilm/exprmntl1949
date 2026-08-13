@@ -24,7 +24,7 @@
   --font-body: "Inter", sans-serif;
   --font-mono: "Inter", sans-serif;
 
-  --edge-gap: clamp(20px, 6vw, 64px);
+  --edge-gap: clamp(24px, 7vw, 64px);
 }
 
 *{ box-sizing:border-box; }
@@ -399,6 +399,20 @@ nav.primary-nav a.active::after{
 .story-attrib{
   margin-top:16px; font-family:var(--font-mono); font-size:0.72rem;
   color:var(--sage); text-transform:uppercase; letter-spacing:0.06em;
+}
+.story-card-link{
+  display:block; text-decoration:none; color:inherit;
+  transition:border-color .15s ease, transform .15s ease;
+}
+.story-card-link:hover{ border-color:var(--line-strong); transform:translateY(-2px); }
+.story-card-image{
+  aspect-ratio:16/10; overflow:hidden; border-radius:2px;
+  margin:-26px -26px 16px; position:relative;
+}
+.story-card-image img{ width:100%; height:100%; object-fit:cover; display:block; }
+.story-empty{
+  color:var(--sage); font-family:var(--font-mono); font-size:0.85rem;
+  padding:24px 0;
 }
 
 /* ---------- buttons / inline links ---------- */

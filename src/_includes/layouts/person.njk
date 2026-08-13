@@ -70,7 +70,9 @@ layout: layouts/base.njk
         <span class="doc-num">{{ loop.index0 | docLabel(2) }}</span>
         <div><span class="doc-name">{{ r.name }}</span><span class="doc-sub">pending digitization</span></div>
         {% if r.file %}
-        <a class="doc-status" href="../{{ r.file }}" target="_blank" rel="noopener">View PDF</a>
+        <a class="doc-status" href="../{{ r.file }}" target="_blank" rel="noopener">View</a>
+        {% elif r.url %}
+        <a class="doc-status" href="{{ r.url }}" target="_blank" rel="noopener">View</a>
         {% else %}
         <span class="doc-status">To be added</span>
         {% endif %}

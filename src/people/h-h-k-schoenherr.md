@@ -3,16 +3,17 @@ name: H.H.K. Schoenherr
 slug: h-h-k-schoenherr
 country: Germany
 editions:
-- '1974'
-photo: ''
+  - "1974"
+photo: ""
 gallery: []
 awards: []
 films:
-- Das Nervöse Kino
+  - Das Nervöse Kino
+  - Thaler’s, Meier’s, Sadkowsky’s Life in the Evening
 resources:
-- name: Film scripts / notes
-  file: ''
-- name: Press clippings
-  file: ''
+  - name: Film scripts / notes
+    file: ""
+  - name: Press clippings
+    file: ""
 ---
 A filmmaker from Germany, featured in competition at EXPRMNTL 5 (1974). 1 film in the EXPRMNTL collection, listed below.

@@ -10,31 +10,16 @@ eleventyComputed:
   <section class="shell page-head">
     <p class="eyebrow">Stories</p>
     <h1>Anecdotes from the casino</h1>
-    <p class="body-copy">Between screenings, EXPRMNTL was also a week of gossip, scandal and chance encounters — jury walkouts, late-night arguments, a beauty pageant hall turned cinema. This page collects first-hand accounts and anecdotes as they're gathered; the cards below are placeholders awaiting real material.</p>
+    <p class="body-copy">Between screenings, EXPRMNTL was also a week of gossip, scandal and chance encounters — jury walkouts, late-night arguments, a beauty pageant hall turned cinema. First-hand accounts and anecdotes are gathered here as they're found.</p>
   </section>
 
   <section class="shell section">
+    {% if collections.storiesSorted.length %}
     <div class="grid">
-      <div class="story-card">
-        <span class="quote-mark">&ldquo;</span>
-        <p>Placeholder — add a short first-hand account, press quote, or anecdote here, with its source.</p>
-        <p class="story-attrib">Source TBD · Edition —</p>
-      </div>
-      <div class="story-card">
-        <span class="quote-mark">&ldquo;</span>
-        <p>Placeholder — add a short first-hand account, press quote, or anecdote here, with its source.</p>
-        <p class="story-attrib">Source TBD · Edition —</p>
-      </div>
-      <div class="story-card">
-        <span class="quote-mark">&ldquo;</span>
-        <p>Placeholder — add a short first-hand account, press quote, or anecdote here, with its source.</p>
-        <p class="story-attrib">Source TBD · Edition —</p>
-      </div>
-      <div class="story-card">
-        <span class="quote-mark">&ldquo;</span>
-        <p>Placeholder — add a short first-hand account, press quote, or anecdote here, with its source.</p>
-        <p class="story-attrib">Source TBD · Edition —</p>
-      </div>
+      {{ collections.storiesSorted | storyCards("") | safe }}
     </div>
+    {% else %}
+    <p class="story-empty">No stories added yet — they'll appear here as they're written.</p>
+    {% endif %}
   </section>
 </main>

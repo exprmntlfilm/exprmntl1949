@@ -49,32 +49,36 @@ eleventyComputed:
       <p class="section-note">Four ways into the archive — by edition, by film, by director, or by the stories around them.</p>
     </div>
     <div class="grid">
+      {% set editionsImg = collections.editionsSorted | randomImage("poster", "") %}
       <a class="card card-link" href="editions.html">
-        <div class="placeholder-frame"><span class="placeholder-mark">Programme, 1963</span></div>
+        <div class="placeholder-frame">{% if editionsImg %}<img src="{{ editionsImg }}" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">{% else %}<span class="placeholder-mark">Programme, 1963</span>{% endif %}</div>
         <div class="card-body">
           <span class="card-kicker">01 — Editions</span>
           <span class="card-title">The five editions</span>
           <p class="card-desc">Context, posters and programmes for 1949, 1958, 1963, 1967 and 1974.</p>
         </div>
       </a>
+      {% set filmsImg = collections.filmsSorted | randomImage("still", "") %}
       <a class="card card-link" href="films.html">
-        <div class="placeholder-frame"><span class="placeholder-mark">Still, digitizing</span></div>
+        <div class="placeholder-frame">{% if filmsImg %}<img src="{{ filmsImg }}" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">{% else %}<span class="placeholder-mark">Still, digitizing</span>{% endif %}</div>
         <div class="card-body">
           <span class="card-kicker">02 — Films</span>
           <span class="card-title">Films in the collection</span>
           <p class="card-desc">A growing catalogue of works screened, competed and discussed at Knokke.</p>
         </div>
       </a>
+      {% set peopleImg = collections.peopleSorted | randomImage("photo", "") %}
       <a class="card card-link" href="people.html">
-        <div class="placeholder-frame"><span class="placeholder-mark">Portrait, TK</span></div>
+        <div class="placeholder-frame">{% if peopleImg %}<img src="{{ peopleImg }}" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">{% else %}<span class="placeholder-mark">Portrait, TK</span>{% endif %}</div>
         <div class="card-body">
           <span class="card-kicker">03 — People</span>
           <span class="card-title">Filmmakers at Knokke</span>
           <p class="card-desc">Figures who showed, judged, or was discovered at the festival.</p>
         </div>
       </a>
+      {% set storiesImg = collections.storiesSorted | randomImage("image", "") %}
       <a class="card card-link" href="stories.html">
-        <div class="placeholder-frame"><span class="placeholder-mark">Clipping, TK</span></div>
+        <div class="placeholder-frame">{% if storiesImg %}<img src="{{ storiesImg }}" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">{% else %}<span class="placeholder-mark">Clipping, TK</span>{% endif %}</div>
         <div class="card-body">
           <span class="card-kicker">04 — Stories</span>
           <span class="card-title">Stories from the casino</span>
