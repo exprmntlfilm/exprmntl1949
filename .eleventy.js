@@ -104,7 +104,7 @@ function renderEditionSection(ed, root) {
   const resourceRows = (d.resources || []).map((r, i) => `
       <div class="doc-row">
         <span class="doc-num">DOC.${String(i + 1).padStart(2, "0")}</span>
-        <div><span class="doc-name">${r.name}</span><span class="doc-sub">${d.year} &middot; pending digitization</span></div>
+        <div><span class="doc-name">${r.name}</span></div>
         ${r.file
           ? `<a class="doc-status" href="${root}${r.file}" target="_blank" rel="noopener">View</a>`
           : r.url
@@ -133,7 +133,7 @@ function renderEditionSection(ed, root) {
     <div class="doc-list" style="margin-top:28px;">${resourceRows}
       <div class="doc-row">
         <span class="doc-num">DOC.${photoNum}</span>
-        <div><span class="doc-name">Photographs</span><span class="doc-sub">${d.year} &middot; ${galleryImgs.length > 1 ? galleryImgs.length + " photos" : "pending digitization"}</span></div>
+        <div><span class="doc-name">Photographs</span>${galleryImgs.length > 1 ? `<span class="doc-sub">${galleryImgs.length} photos</span>` : ""}</div>
         ${photoRow}
       </div>
     </div>
