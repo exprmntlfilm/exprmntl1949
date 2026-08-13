@@ -59,7 +59,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Synopsis", name: "body", widget: "markdown", required: false}
 
@@ -112,7 +112,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Biography", name: "body", widget: "markdown", required: false}
 
@@ -168,5 +168,5 @@ collections:
         widget: "list"
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}

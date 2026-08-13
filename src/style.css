@@ -145,7 +145,7 @@ nav.primary-nav a.active::after{
 
 /* ---------- hero ---------- */
 .hero{
-  padding:76px 0 64px;
+  padding:96px 0 84px;
   display:grid;
   grid-template-columns:1.3fr 0.7fr;
   gap:56px;
