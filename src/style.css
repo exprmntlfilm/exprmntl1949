@@ -286,7 +286,6 @@ nav.primary-nav a.active::after{
     margin-top:16px;
   }
   .timeline-item:nth-child(-n+2){ margin-top:0; }
-  .timeline-item:nth-child(odd){ border-left:none; }
 }
 @media (max-width:420px){
   .timeline-item{ flex:1 0 100%; }
