@@ -229,7 +229,8 @@ nav.primary-nav a.active::after{
 
 /* ---------- timeline of editions (real chronological sequence) ---------- */
 .timeline{
-  padding:44px 0 56px;
+  padding-top:44px;
+  padding-bottom:56px;
   border-bottom:1px solid var(--line);
 }
 .timeline-track{
