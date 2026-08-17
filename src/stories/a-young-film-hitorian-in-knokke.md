@@ -1,5 +1,5 @@
 ---
-title: A young film hitorian in Knokke
+title: A young film historian in Knokke
 slug: historian-knokke
 excerpt: "In 1963, a young P. Adams Sitney and his friend Jonas Mekas travelled
   to Knokke to attend the third edition of EXPRMNTL. "
