@@ -1,18 +1,19 @@
 ---
 title: Five Film Exercises
 slug: five-film-exercises
-year: '1944'
-edition: '1949'
+year: "1944"
+edition: "1949"
 cat_num: cat-026
-edition_label: ''
+edition_label: ""
 directors:
-- James Whitney
-- John Whitney
-still: ''
+  - James Whitney
+  - John Whitney
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix pour la meilleure utilisation du son
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1944. Screened in competition at EXPRMNTL 1.
