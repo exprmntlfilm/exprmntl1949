@@ -1,17 +1,18 @@
 ---
 title: Hen hop
 slug: hen-hop
-year: '1942'
-edition: '1949'
+year: "1942"
+edition: "1949"
 cat_num: cat-001
-edition_label: ''
+edition_label: ""
 directors:
-- Norman McLaren
-still: ''
+  - Norman McLaren
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix pour qualités exceptionnelles
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1942. Screened in competition at EXPRMNTL 1.
