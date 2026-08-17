@@ -1,17 +1,18 @@
 ---
 title: Dwaj ludzie z szafą
 slug: dwaj-ludzie-z-szafa
-year: '1957'
-edition: '1958'
+year: "1957"
+edition: "1958"
 cat_num: cat-104
-edition_label: ''
+edition_label: ""
 directors:
-- Roman Polanski
-still: ''
+  - Roman Polanski
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix de la Compétition Internacionale du Film Expérimental
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1957. Screened in competition at EXPRMNTL 2.
