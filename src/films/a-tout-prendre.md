@@ -11,6 +11,7 @@ still: ""
 gallery: []
 awards:
   - Prix Radio-Télévision Belge
+  - Prix international de la Presse
 resources:
   - name: Film card
     file: ""
