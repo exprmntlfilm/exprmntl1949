@@ -1,5 +1,5 @@
 ---
-title: Pats Birthday
+title: Pat’s Birthday
 slug: pat-s-birthday
 year: "1962"
 edition: "1963"
