@@ -1,17 +1,18 @@
 ---
 title: À tout prendre
 slug: a-tout-prendre
-year: '1963'
-edition: '1963'
+year: "1963"
+edition: "1963"
 cat_num: cat-313
-edition_label: ''
+edition_label: ""
 directors:
-- Claude Jutra
-still: ''
+  - Claude Jutra
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix Radio-Télévision Belge
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1963. Screened in competition at EXPRMNTL 3.
