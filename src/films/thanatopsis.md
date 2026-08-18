@@ -1,17 +1,18 @@
 ---
 title: Thanatopsis
 slug: thanatopsis
-year: '1962'
-edition: '1963'
+year: "1962"
+edition: "1963"
 cat_num: cat-286
-edition_label: ''
+edition_label: ""
 directors:
-- Ed Emshwiller
-still: ''
+  - Ed Emshwiller
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix Comission Supérieure Technique du Cinéma Belge
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1962. Screened in competition at EXPRMNTL 3.

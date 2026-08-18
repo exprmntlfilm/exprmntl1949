@@ -1,18 +1,19 @@
 ---
 title: Le Nez
 slug: le-nez
-year: '1963'
-edition: '1963'
+year: "1963"
+edition: "1963"
 cat_num: cat-248
-edition_label: ''
+edition_label: ""
 directors:
-- Alexandre Alexeieff
-- Claire Parker
-still: ''
+  - Alexandre Alexeieff
+  - Claire Parker
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix Comte de Launoit
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1963. Screened in competition at EXPRMNTL 3.

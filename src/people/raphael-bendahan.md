@@ -3,16 +3,16 @@ name: Raphael Bendahan
 slug: raphael-bendahan
 country: Morocco
 editions:
-- '1974'
-photo: ''
+  - "1974"
+photo: ""
 gallery: []
 awards: []
 films:
-- L' Ennui
+  - L’ Ennui
 resources:
-- name: Film scripts / notes
-  file: ''
-- name: Press clippings
-  file: ''
+  - name: Film scripts / notes
+    file: ""
+  - name: Press clippings
+    file: ""
 ---
 A filmmaker from Morocco, featured in competition at EXPRMNTL 5 (1974). 1 film in the EXPRMNTL collection, listed below.

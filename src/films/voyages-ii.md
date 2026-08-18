@@ -1,17 +1,18 @@
 ---
 title: Voyages II
 slug: voyages-ii
-year: '1963'
-edition: '1963'
+year: "1963"
+edition: "1963"
 cat_num: cat-308
-edition_label: ''
+edition_label: ""
 directors:
-- Raymond Saroff
-still: ''
+  - Raymond Saroff
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix de l'Age d'Or
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1963. Screened in competition at EXPRMNTL 3.
