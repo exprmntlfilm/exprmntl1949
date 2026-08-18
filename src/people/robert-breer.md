@@ -13,7 +13,7 @@ films:
   - Jamestown Baloos
   - A Man and his Dog out for Air
   - Image by Images
-  - Pats Birthday
+  - Pat’s Birthday
 resources:
   - name: Film scripts / notes
     file: ""
