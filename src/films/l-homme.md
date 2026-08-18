@@ -1,17 +1,17 @@
 ---
-title: L'homme
+title: L’homme
 slug: l-homme
-year: '1946'
-edition: '1949'
+year: "1946"
+edition: "1949"
 cat_num: cat-035
-edition_label: ''
+edition_label: ""
 directors:
-- Gilles Margaritis
-still: ''
+  - Gilles Margaritis
+still: ""
 gallery: []
 awards: []
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1946. Screened in competition at EXPRMNTL 1.
