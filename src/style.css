@@ -173,7 +173,7 @@ nav.primary-nav a.active::after{
   grid-template-columns:1.3fr 0.7fr;
   gap:56px;
   align-items:center;
-  padding-top:96px; padding-bottom:84px;
+  padding-top:116px; padding-bottom:104px;
 }
 
 @media (max-width:820px){
@@ -747,7 +747,8 @@ body.search-lock{ overflow:hidden; }
 
 /* ---------- Poster frames (editions.html) — plain, no film-strip decoration ---------- */
 .poster-frame{
-  background: var(--bg-alt);
+  background: transparent;
+  border-bottom: none;
 }
 .poster-frame::before,
 .poster-frame::after{

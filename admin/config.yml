@@ -18,6 +18,8 @@ collections:
     folder: "src/films"
     create: true
     slug: "{{slug}}"
+    media_folder: "src/images/uploads/{{slug}}"
+    public_folder: "images/uploads/{{slug}}"
     summary: "{{title}} ({{year}}) — Edition {{edition}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -61,7 +63,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents/{{slug}}", public_folder: "documents/{{slug}}"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Synopsis", name: "body", widget: "markdown", required: false}
 
@@ -71,6 +73,8 @@ collections:
     folder: "src/people"
     create: true
     slug: "{{slug}}"
+    media_folder: "src/images/uploads/{{slug}}"
+    public_folder: "images/uploads/{{slug}}"
     summary: "{{name}} — {{country}}"
     fields:
       - {label: "Name", name: "name", widget: "string"}
@@ -116,7 +120,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents/{{slug}}", public_folder: "documents/{{slug}}"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
       - {label: "Biography", name: "body", widget: "markdown", required: false}
 
@@ -126,6 +130,8 @@ collections:
     folder: "src/stories"
     create: true
     slug: "{{slug}}"
+    media_folder: "src/images/uploads/{{slug}}"
+    public_folder: "images/uploads/{{slug}}"
     summary: "{{title}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -150,7 +156,7 @@ collections:
         required: false
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents/{{slug}}", public_folder: "documents/{{slug}}"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
 
   - name: "editions"
@@ -159,6 +165,8 @@ collections:
     folder: "src/editions"
     create: false
     slug: "{{year}}"
+    media_folder: "src/images/uploads/{{year}}"
+    public_folder: "images/uploads/{{year}}"
     summary: "{{label}} ({{year}})"
     fields:
       - {label: "Year", name: "year", widget: "number", value_type: "int"}
@@ -184,5 +192,5 @@ collections:
         widget: "list"
         fields:
           - {label: "Document name", name: "name", widget: "string"}
-          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents", public_folder: "documents"}
+          - {label: "File (upload)", name: "file", widget: "file", required: false, media_folder: "src/documents/{{year}}", public_folder: "documents/{{year}}"}
           - {label: "External link (optional, used if no file is uploaded)", name: "url", widget: "string", required: false}
