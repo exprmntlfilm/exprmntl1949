@@ -1,17 +1,17 @@
 ---
-title: La Clef de l'Horloge
+title: La Clef de l’Horloge
 slug: la-clef-de-l-horloge
-year: '1958'
-edition: '1958'
+year: "1958"
+edition: "1958"
 cat_num: cat-134
-edition_label: ''
+edition_label: ""
 directors:
-- Marcel Broodthaers
-still: ''
+  - Marcel Broodthaers
+still: ""
 gallery: []
 awards: []
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1958. Screened in competition at EXPRMNTL 2.
