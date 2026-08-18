@@ -1,17 +1,18 @@
 ---
 title: Renaissance
 slug: renaissance
-year: '1963'
-edition: '1963'
+year: "1963"
+edition: "1963"
 cat_num: cat-276
-edition_label: ''
+edition_label: ""
 directors:
-- Walerian Borowczyk
-still: ''
+  - Walerian Borowczyk
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix Solvay
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1963. Screened in competition at EXPRMNTL 3.
