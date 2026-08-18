@@ -4,7 +4,7 @@ slug: martin-scorsese
 country: USA
 editions:
   - "1967"
-photo: images/uploads/map-body-a-filmmaker-from-usa-featured-in-competition-at-exprmntl-4-1967-1-film-in-the-exprmntl-collection-listed-below-n-public_folder-images-uploads-resources-list-map-name-film-scripts-notes-file-map-name/scorsese_portrait.jpg
+photo: images/uploads/scorsese_portrait.jpg
 gallery: []
 awards: []
 films:
