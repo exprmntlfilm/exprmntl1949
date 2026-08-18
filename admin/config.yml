@@ -44,9 +44,11 @@ collections:
       - label: "Additional photos (gallery)"
         name: "gallery"
         widget: "list"
-        field: {label: "Photo", name: "image", widget: "image"}
         required: false
         hint: "With 1+ photos here (besides the still), the 'Film stills' resource turns into a gallery button on its own."
+        fields:
+          - {label: "Photo", name: "image", widget: "image"}
+          - {label: "Caption (optional)", name: "caption", widget: "string", required: false}
       - label: "Awards"
         name: "awards"
         widget: "list"
@@ -91,9 +93,11 @@ collections:
       - label: "Additional photos (gallery)"
         name: "gallery"
         widget: "list"
-        field: {label: "Photo", name: "image", widget: "image"}
         required: false
         hint: "With 1+ photos here (besides the portrait), the 'Portrait photographs' resource turns into a gallery button on its own."
+        fields:
+          - {label: "Photo", name: "image", widget: "image"}
+          - {label: "Caption (optional)", name: "caption", widget: "string", required: false}
       - label: "Awards"
         name: "awards"
         widget: "list"
@@ -164,13 +168,17 @@ collections:
       - label: "Alternate posters (gallery)"
         name: "poster_gallery"
         widget: "list"
-        field: {label: "Poster", name: "image", widget: "image"}
         required: false
+        fields:
+          - {label: "Poster", name: "image", widget: "image"}
+          - {label: "Caption (optional)", name: "caption", widget: "string", required: false}
       - label: "General edition photos (gallery)"
         name: "gallery"
         widget: "list"
-        field: {label: "Photo", name: "image", widget: "image"}
         required: false
+        fields:
+          - {label: "Photo", name: "image", widget: "image"}
+          - {label: "Caption (optional)", name: "caption", widget: "string", required: false}
       - label: "Resources (documents)"
         name: "resources"
         widget: "list"

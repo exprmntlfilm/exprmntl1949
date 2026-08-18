@@ -1,17 +1,18 @@
 ---
 title: Aubervilliers
 slug: aubervilliers
-year: '1946'
-edition: '1949'
+year: "1946"
+edition: "1949"
 cat_num: cat-012
-edition_label: ''
+edition_label: ""
 directors:
-- Eli Lotar
-still: ''
+  - Eli Lotar
+still: ""
 gallery: []
-awards: []
+awards:
+  - Grand Prix du Film Poétique
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1946. Screened in competition at EXPRMNTL 1.

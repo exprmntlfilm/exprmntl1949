@@ -206,24 +206,28 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="gallery-container">
         <button class="gallery-close" aria-label="Close">&times;</button>
         <div class="gallery-main">
-          <img class="gallery-image active" src="${images[0]}" alt="${title} — photo 1">
+          <img class="gallery-image active" src="${images[0].src}" alt="${title} — photo 1">
         </div>
+        <p class="gallery-caption"></p>
         <button class="gallery-nav gallery-prev" aria-label="Previous">&larr;</button>
         <button class="gallery-nav gallery-next" aria-label="Next">&rarr;</button>
         <div class="gallery-thumbs">
-          ${images.map((src, i) => `<button class="gallery-thumb${i === 0 ? ' active' : ''}"><img src="${src}" alt="Thumb ${i + 1}"></button>`).join('')}
+          ${images.map((img, i) => `<button class="gallery-thumb${i === 0 ? ' active' : ''}"><img src="${img.src}" alt="Thumb ${i + 1}"></button>`).join('')}
         </div>
       </div>`;
     document.body.appendChild(modal);
     document.body.classList.add('search-lock');
 
     const mainImg = modal.querySelector('.gallery-image');
+    const captionEl = modal.querySelector('.gallery-caption');
     const thumbs = modal.querySelectorAll('.gallery-thumb');
 
     function show(i) {
       index = (i + images.length) % images.length;
-      mainImg.src = images[index];
+      mainImg.src = images[index].src;
       mainImg.alt = `${title} — photo ${index + 1}`;
+      captionEl.textContent = images[index].caption || '';
+      captionEl.style.display = images[index].caption ? 'block' : 'none';
       thumbs.forEach((t, j) => t.classList.toggle('active', j === index));
     }
     function close() {
@@ -243,13 +247,14 @@ document.addEventListener('DOMContentLoaded', () => {
     modal.querySelector('.gallery-next').addEventListener('click', () => show(index + 1));
     thumbs.forEach((t, i) => t.addEventListener('click', () => show(i)));
     document.addEventListener('keydown', onKey);
+    show(0);
   }
 
   function readImages(el) {
     try {
       const root = el.getAttribute('data-gallery-root') || '';
       const raw = JSON.parse(el.getAttribute('data-gallery-images') || '[]');
-      return raw.map((src) => root + src);
+      return raw.map((item) => ({ src: root + item.src, caption: item.caption || '' }));
     } catch (e) {
       return [];
     }

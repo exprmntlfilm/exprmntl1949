@@ -1,17 +1,18 @@
 ---
 title: Studi sul colore
 slug: studi-sul-colore
-year: '1942'
-edition: '1949'
+year: "1942"
+edition: "1949"
 cat_num: cat-066
-edition_label: ''
+edition_label: ""
 directors:
-- Luigi Veronesi
-still: ''
+  - Luigi Veronesi
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix pour la meilleure utilisation de la couleur
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1942. Screened in competition at EXPRMNTL 1.

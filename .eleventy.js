@@ -15,13 +15,31 @@ function firstLetterOf(surname) {
 
 function combineGallery(cover, extra) {
   const out = [];
-  if (cover) out.push(cover);
-  (extra || []).forEach((g) => { if (g) out.push(g); });
+  if (cover) out.push({ src: cover, caption: "" });
+  (extra || []).forEach((g) => {
+    if (!g) return;
+    if (typeof g === "string") {
+      out.push({ src: g, caption: "" }); // legacy flat-string entries, just in case
+    } else if (g.image) {
+      out.push({ src: g.image, caption: g.caption || "" });
+    }
+  });
   return out;
 }
 
 function jsonAttr(obj) {
   return JSON.stringify(obj || []).replace(/'/g, "&#39;");
+}
+
+function normalizeGalleryList(list) {
+  return (list || [])
+    .map((g) => {
+      if (!g) return null;
+      if (typeof g === "string") return { src: g, caption: "" }; // legacy flat-string entries
+      if (g.image) return { src: g.image, caption: g.caption || "" };
+      return null;
+    })
+    .filter(Boolean);
 }
 
 function catDisplay(cat) {
@@ -93,7 +111,7 @@ function renderDirectorLinks(names, people, root) {
 function renderEditionSection(ed, root) {
   const d = ed.data;
   const posterImgs = combineGallery(d.poster, d.poster_gallery);
-  const galleryImgs = d.gallery || [];
+  const galleryImgs = normalizeGalleryList(d.gallery);
   const posterInner = d.poster
     ? `<img src="${root}${d.poster}" alt="Poster for ${d.label}" style="width:100%;height:100%;object-fit:contain;">`
     : `<span class="placeholder-mark">Poster, to be added</span>`;

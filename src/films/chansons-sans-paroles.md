@@ -1,17 +1,18 @@
 ---
 title: Chansons sans Paroles
 slug: chansons-sans-paroles
-year: '1958'
-edition: '1958'
+year: "1958"
+edition: "1958"
 cat_num: cat-094
-edition_label: ''
+edition_label: ""
 directors:
-- Yoram Gross
-still: ''
+  - Yoram Gross
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix de la Compétition Internacionale du Film Expérimental
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1958. Screened in competition at EXPRMNTL 2.
