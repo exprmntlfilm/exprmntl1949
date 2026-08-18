@@ -8,7 +8,7 @@ photo: ""
 gallery: []
 awards: []
 films:
-  - Pats Birthday
+  - Pat’s Birthday
 resources:
   - name: Film scripts / notes
     file: ""
