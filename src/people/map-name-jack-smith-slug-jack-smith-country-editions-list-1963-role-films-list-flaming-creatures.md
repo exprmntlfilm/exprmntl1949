@@ -1,7 +1,7 @@
 ---
 name: Jack Smith
 slug: jack-smith
-country: ""
+country: USA
 editions:
   - "1963"
 role: ""
