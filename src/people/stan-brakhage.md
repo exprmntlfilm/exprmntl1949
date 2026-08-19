@@ -5,7 +5,7 @@ country: USA
 editions:
   - "1958"
   - "1963"
-photo: images/uploads/stan_brakhage_-circa_1976-.jpg
+photo: ""
 gallery: []
 awards:
   - Prix du jury de sélection

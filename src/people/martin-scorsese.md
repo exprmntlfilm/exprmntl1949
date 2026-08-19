@@ -4,7 +4,7 @@ slug: martin-scorsese
 country: USA
 editions:
   - "1967"
-photo: images/uploads/scorsese_portrait.jpg
+photo: ""
 gallery: []
 awards: []
 films:

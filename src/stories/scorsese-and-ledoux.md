@@ -1,7 +1,7 @@
 ---
 title: Scorsese and EXPRMNTL
 slug: scorsese-ledoux
-image: images/uploads/after_hours_85_sco_dun-scaled.jpg
+image: ""
 excerpt: Martin Scorsese was one of the young talents who left their mark on the
   history of EXPRMNTL.
 edition: "1967"

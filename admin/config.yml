@@ -17,6 +17,7 @@ collections:
     label_singular: "Film"
     folder: "src/films"
     create: true
+    identifier_field: "slug"
     slug: "{{slug}}"
     summary: "{{title}} ({{year}}) — Edition {{edition}}"
     fields:
@@ -70,6 +71,7 @@ collections:
     label_singular: "Person"
     folder: "src/people"
     create: true
+    identifier_field: "slug"
     slug: "{{slug}}"
     summary: "{{name}} — {{country}}"
     fields:
@@ -125,6 +127,7 @@ collections:
     label_singular: "Story"
     folder: "src/stories"
     create: true
+    identifier_field: "slug"
     slug: "{{slug}}"
     summary: "{{title}}"
     fields:
