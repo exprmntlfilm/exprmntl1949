@@ -1,7 +1,7 @@
 ---
 title: Jonas Mekas, the juror
 slug: jonas-mekas-juror
-image: images/uploads/jonas_mekas_portrait_1.jpg
+image: ""
 excerpt: In 1963, Jacques Ledoux invited the celebrated avant-garde film
   director Jonas Mekas to be one of the jurors at the third edition of EXPRMNTL.
 edition: "1963"
