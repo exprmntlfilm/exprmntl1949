@@ -5,12 +5,13 @@ year: "1967"
 edition: "1967"
 cat_num: cat-388
 edition_label: ""
-watch_url: https://archive.org/details/TheBigShave1967VHSVersion
+watch_url: ""
 directors:
   - Martin Scorsese
 still: images/uploads/t4xtpft6j0q51.png
 gallery: []
-awards: []
+awards:
+  - Prix de l'Âge d'or
 resources:
   - name: Film card
     file: ""
