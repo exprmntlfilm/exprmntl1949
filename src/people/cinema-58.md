@@ -5,6 +5,7 @@ country: Japan
 editions:
   - "1958"
 role: Film collective
+role_heading: Film collective at EXPRMNTL 2 (1958)
 photo: ""
 gallery: []
 awards: []
