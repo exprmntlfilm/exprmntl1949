@@ -477,6 +477,13 @@ footer.site-footer{
 .footer-legend{
   font-family:var(--font-mono); font-size:0.7rem; color:var(--ink-soft);
 }
+.footer-logo{
+  display:block;
+  height:22px;
+  width:auto;
+  margin-top:16px;
+  opacity:0.85;
+}
 
 /* ---------- generic ---------- */
 .stack{ display:flex; flex-direction:column; gap:14px; }

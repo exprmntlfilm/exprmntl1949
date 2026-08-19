@@ -11,7 +11,7 @@ directors:
 still: ""
 gallery: []
 awards:
-  - Prix de l'Age d'Or
+  - "Prix de l’Âge d’or "
 resources:
   - name: Film card
     file: ""

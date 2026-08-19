@@ -7,7 +7,8 @@ editions:
   - "1963"
 photo: images/uploads/stan_brakhage_-circa_1976-.jpg
 gallery: []
-awards: []
+awards:
+  - Prix du jury de sélection
 films:
   - In Between
   - Anticipation of the Night

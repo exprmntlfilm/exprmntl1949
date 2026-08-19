@@ -1,17 +1,18 @@
 ---
 title: Grateful Dead
 slug: grateful-dead
-year: '1967'
-edition: '1967'
+year: "1967"
+edition: "1967"
 cat_num: cat-343
-edition_label: ''
+edition_label: ""
 directors:
-- Robert Nelson
-still: ''
+  - Robert Nelson
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix Baron Lambert
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1967. Screened in competition at EXPRMNTL 4.

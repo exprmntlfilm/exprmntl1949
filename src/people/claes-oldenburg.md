@@ -6,7 +6,8 @@ editions:
   - "1963"
 photo: ""
 gallery: []
-awards: []
+awards:
+  - "Prix de l’Âge d’or "
 films:
   - Pat’s Birthday
 resources:

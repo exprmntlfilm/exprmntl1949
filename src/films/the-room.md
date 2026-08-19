@@ -1,17 +1,18 @@
 ---
 title: The Room
 slug: the-room
-year: '1968'
-edition: '1967'
+year: "1968"
+edition: "1967"
 cat_num: cat-392
-edition_label: ''
+edition_label: ""
 directors:
-- Mordi Gerstein
-still: ''
+  - Mordi Gerstein
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix de la Fédération internationale des ciné-clubs
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1968. Screened in competition at EXPRMNTL 4.

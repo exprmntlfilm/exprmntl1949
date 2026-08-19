@@ -7,7 +7,7 @@ layout: layouts/base.njk
 <main>
   <section class="shell page-head">
     <a class="link-arrow" href="../people.html">&larr; Back to People</a>
-    <p class="eyebrow" style="margin-top:18px;">{{ role or "Filmmaker" }}</p>
+    <p class="eyebrow" style="margin-top:18px;">{{ role or "Filmmaker" }}{% if country %} — {{ country }}{% endif %}</p>
     <h1>{{ name }}</h1>
   </section>
 
