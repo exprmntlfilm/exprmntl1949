@@ -1,17 +1,18 @@
 ---
 title: Wavelength
 slug: wavelength
-year: '1967'
-edition: '1967'
+year: "1967"
+edition: "1967"
 cat_num: cat-400
-edition_label: ''
+edition_label: ""
 directors:
-- Michael Snow
-still: ''
+  - Michael Snow
+still: ""
 gallery: []
-awards: []
+awards:
+  - Grand Prix Gevaert-Agfa
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1967. Screened in competition at EXPRMNTL 4.
