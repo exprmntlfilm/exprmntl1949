@@ -84,4 +84,17 @@ eleventyComputed:
       </a>
     </div>
   </section>
+
+  <section class="shell section" aria-label="Featured people">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">Highlights</p>
+        <h2>People to discover</h2>
+      </div>
+      <p class="section-note">Jacques Ledoux, plus the latest additions to the archive.</p>
+    </div>
+    <div class="grid">
+      {{ collections.peopleHighlights | personHighlightCards(root) | safe }}
+    </div>
+  </section>
 </main>

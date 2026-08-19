@@ -1,5 +1,51 @@
 // ---------------- helper functions (plain JS, unit-testable) ----------------
 
+const { execFileSync } = require("child_process");
+const fs = require("fs");
+const path = require("path");
+
+// Builds a map of "repo-relative file path" -> "timestamp (ms) of the most
+// recent git commit that touched it", in a single `git log` call. Used to
+// automatically surface the most recently updated people on the homepage.
+// Falls back gracefully (empty map) if git isn't available or the checkout
+// has no history (e.g. a shallow clone) — callers then fall back to the
+// file's filesystem mtime.
+let _gitLastModifiedMap = null;
+function getGitLastModifiedMap() {
+  if (_gitLastModifiedMap) return _gitLastModifiedMap;
+  const map = {};
+  try {
+    const out = execFileSync(
+      "git",
+      ["log", "--name-only", "--format=%x00%ct"],
+      { cwd: __dirname, maxBuffer: 1024 * 1024 * 100 }
+    ).toString();
+    let currentTime = null;
+    out.split("\n").forEach((line) => {
+      if (line.startsWith("\x00")) {
+        currentTime = parseInt(line.slice(1), 10) * 1000;
+      } else if (line.trim() && currentTime) {
+        if (!(line in map)) map[line] = currentTime; // first hit = most recent, since git log is newest-first
+      }
+    });
+  } catch (e) {
+    // No git history available at build time — map stays empty.
+  }
+  _gitLastModifiedMap = map;
+  return map;
+}
+
+function lastModifiedOf(inputPath) {
+  const rel = path.relative(__dirname, path.resolve(inputPath)).split(path.sep).join("/");
+  const map = getGitLastModifiedMap();
+  if (rel in map) return map[rel];
+  try {
+    return fs.statSync(inputPath).mtimeMs; // fallback: filesystem modified time
+  } catch (e) {
+    return 0;
+  }
+}
+
 function surnameOf(name) {
   const cleaned = (name || "").replace(/\(\?\)/g, "").trim();
   const parts = cleaned.split(/\s+/);
@@ -78,6 +124,31 @@ function renderStoryCards(storyObjs, root) {
       <p>${s.data.excerpt || s.data.title}</p>
       ${attrib ? `<p class="story-attrib">${attrib}</p>` : ""}
     </a>`;
+  }).join("\n");
+}
+
+function renderPersonHighlightCards(peopleObjs, root) {
+  return (peopleObjs || []).map((p) => {
+    const d = p.data;
+    const img = d.photo
+      ? `<img src="${root}${d.photo}" alt="${d.name}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">`
+      : `<span class="placeholder-mark">Portrait, TK</span>`;
+    const metaParts = [];
+    if (d.country) metaParts.push(d.country);
+    if (d.editions_label) {
+      metaParts.push(d.editions_label);
+    } else if ((d.editions || []).length) {
+      metaParts.push(d.editions.length > 1 ? "Multiple editions" : `${d.editions[0]} edition`);
+    }
+    const meta = metaParts.join(" &middot; ");
+    return `<a class="card card-link" href="${root}people/${d.slug}.html">
+        <div class="placeholder-frame" style="aspect-ratio:3/4;">${img}</div>
+        <div class="card-body">
+          <span class="card-kicker">${d.role || "Filmmaker"}</span>
+          <span class="card-title">${d.name}</span>
+          ${meta ? `<p class="card-desc">${meta}</p>` : ""}
+        </div>
+      </a>`;
   }).join("\n");
 }
 
@@ -221,6 +292,29 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("storiesSorted", (api) =>
     api.getFilteredByTag("stories").sort((a, b) => a.data.title.localeCompare(b.data.title))
   );
+  // Homepage "Highlights": Jacques Ledoux, always, plus the 3 most recently
+  // updated people (by git commit history), most recent first.
+  eleventyConfig.addCollection("peopleHighlights", (api) => {
+    const people = api.getFilteredByTag("people");
+    const ledoux =
+      people.find((p) => p.data.slug === "jacques-ledoux") ||
+      people.find((p) => normalizeText(p.data.name) === normalizeText("Jacques Ledoux"));
+
+    const byRecency = (list) =>
+      list
+        .map((p) => ({ item: p, time: lastModifiedOf(p.inputPath) }))
+        .sort((a, b) => b.time - a.time)
+        .map((x) => x.item);
+
+    if (!ledoux) {
+      // Fallback: Ledoux entry not found (e.g. slug was changed) — still
+      // show 4 cards rather than breaking the section.
+      return byRecency(people).slice(0, 4);
+    }
+
+    const others = byRecency(people.filter((p) => p !== ledoux)).slice(0, 3);
+    return [ledoux, ...others];
+  });
 
   eleventyConfig.addFilter("catDisplay", catDisplay);
   eleventyConfig.addFilter("json", (obj) => JSON.stringify(obj || []));
@@ -238,6 +332,7 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addFilter("filmCardsFromList", (filmObjs, root) => renderFilmCards(filmObjs, root));
   eleventyConfig.addFilter("peopleGroups", (peopleColl, root) => peopleGroupsOf(peopleColl, root));
+  eleventyConfig.addFilter("personHighlightCards", (peopleObjs, root) => renderPersonHighlightCards(peopleObjs, root));
   eleventyConfig.addFilter("editionSection", (ed, root) => renderEditionSection(ed, root));
   eleventyConfig.addFilter("searchIndexJs", (films, people) => buildSearchIndex(films, people));
   eleventyConfig.addFilter("editionLabel", (year) => {
