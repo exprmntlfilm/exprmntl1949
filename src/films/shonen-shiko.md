@@ -10,7 +10,7 @@ directors:
 still: ""
 gallery: []
 awards:
-  - Prix du Centre belge du nouveau cinéma
+  - Prix du Centre Belge du Nouveau Cinéma
 resources:
   - name: Film card
     file: ""
