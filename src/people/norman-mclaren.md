@@ -4,6 +4,8 @@ slug: norman-mclaren
 country: Scotland
 editions:
   - "1949"
+role: Filmmaker and juror
+role_heading: Filmmaker and juror
 photo: ""
 gallery: []
 awards: []
