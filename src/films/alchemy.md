@@ -1,17 +1,18 @@
 ---
 title: Alchemy
 slug: alchemy
-year: '1971'
-edition: '1974'
+year: "1971"
+edition: "1974"
 cat_num: cat-408
-edition_label: ''
+edition_label: ""
 directors:
-- Tsuneo Nakai
-still: ''
+  - Tsuneo Nakai
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix Baron Lambert
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1971. Screened in competition at EXPRMNTL 5.
