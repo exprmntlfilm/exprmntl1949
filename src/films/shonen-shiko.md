@@ -1,17 +1,18 @@
 ---
 title: Shonen Shiko
 slug: shonen-shiko
-year: '1973'
-edition: '1974'
+year: "1973"
+edition: "1974"
 cat_num: cat-447
-edition_label: ''
+edition_label: ""
 directors:
-- Michio Okabe
-still: ''
+  - Michio Okabe
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix du Centre belge du nouveau cinéma
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1973. Screened in competition at EXPRMNTL 5.
