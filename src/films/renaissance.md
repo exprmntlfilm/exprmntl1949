@@ -11,7 +11,7 @@ still: ""
 gallery: []
 awards:
   - Prix Solvay
-  - Prix F. I. C. C.
+  - Prix de la Fédération internationale des ciné-clubs
 resources:
   - name: Film card
     file: ""
