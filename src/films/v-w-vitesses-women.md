@@ -1,17 +1,18 @@
 ---
 title: V. W. (Vitesses - women)
 slug: v-w-vitesses-women
-year: '1974'
-edition: '1974'
+year: "1974"
+edition: "1974"
 cat_num: cat-466
-edition_label: ''
+edition_label: ""
 directors:
-- Claudine Eizykman
-still: ''
+  - Claudine Eizykman
+still: ""
 gallery: []
-awards: []
+awards:
+  - Prix du Jury de Sélection
 resources:
-- name: Film card
-  file: ''
+  - name: Film card
+    file: ""
 ---
 Completed in 1974. Screened in competition at EXPRMNTL 5.
