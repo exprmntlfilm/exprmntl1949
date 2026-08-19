@@ -8,7 +8,7 @@ edition_label: ""
 watch_url: ""
 directors:
   - Martin Scorsese
-still: images/uploads/t4xtpft6j0q51.png
+still: ""
 gallery: []
 awards:
   - Prix de l'Âge d'or
