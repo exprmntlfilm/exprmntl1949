@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 ---
-{% set galleryImages = photo | combineGallery(gallery) %}
+{% set galleryImages = photo | combineGallery(gallery, photo_caption) %}
 {% set editionsList = editions %}
 
 <main>
@@ -13,12 +13,15 @@ layout: layouts/base.njk
 
   <section class="shell section">
     <div class="two-col">
-      <div class="placeholder-frame" style="aspect-ratio:3/4;">
-        {% if photo %}
-        <img src="../{{ photo }}" alt="{{ name }}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">
-        {% else %}
-        <span class="placeholder-mark">Portrait, to be added</span>
-        {% endif %}
+      <div>
+        <div class="placeholder-frame" style="aspect-ratio:3/4;">
+          {% if photo %}
+          <img src="../{{ photo }}" alt="{{ name }}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">
+          {% else %}
+          <span class="placeholder-mark">Portrait, to be added</span>
+          {% endif %}
+        </div>
+        {% if photo_caption %}<p class="media-caption">{{ photo_caption }}</p>{% endif %}
       </div>
       <div class="stack">
         {% if editions_label %}<span class="tag">{{ editions_label }}</span>{% else %}{% for e in editionsList %}<span class="tag">Edition {{ e }}</span> {% endfor %}{% endif %}
@@ -57,7 +60,7 @@ layout: layouts/base.njk
     <div class="doc-list">
       <div class="doc-row">
         <span class="doc-num">DOC.01</span>
-        <div><span class="doc-name">Portrait photographs</span>{% if galleryImages.length > 1 %}<span class="doc-sub">{{ galleryImages.length }} photos</span>{% endif %}</div>
+        <div><span class="doc-name">Photographs</span>{% if galleryImages.length > 1 %}<span class="doc-sub">{{ galleryImages.length }} photos</span>{% endif %}</div>
         {% if galleryImages.length > 1 %}
         <button class="doc-status gallery-btn" data-gallery-images='{{ galleryImages | json | safe }}' data-gallery-title="{{ name }}" data-gallery-root="../">View Gallery</button>
         {% else %}

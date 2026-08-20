@@ -36,6 +36,7 @@ collections:
       - {label: "Catalogue number", name: "cat_num", widget: "string", required: false}
       - {label: "Edition tag text (optional)", name: "edition_label", widget: "string", required: false, hint: "Leave blank for the automatic default ('Edition 1949'). Fill in to write your own text."}
       - {label: "Watch link (optional)", name: "watch_url", widget: "string", required: false, hint: "Paste a link to the digitized film if one exists — a 'Watch' button appears on the film's page below the synopsis. Leave blank if none."}
+      - {label: "Trailer link (optional)", name: "trailer_url", widget: "string", required: false, hint: "Paste a link to the film's trailer if one exists — a 'Watch trailer' button appears next to Watch. Leave blank if none."}
       - label: "Director(s)"
         name: "directors"
         widget: "list"
@@ -92,11 +93,12 @@ collections:
       - {label: "Featured heading (optional)", name: "role_heading", widget: "string", required: false, hint: "Replaces the automatic heading ('Filmmaker at EXPRMNTL...') with your own text."}
       - {label: "Editions tag text (optional)", name: "editions_label", widget: "string", required: false, hint: "e.g. 'All five editions'. Leave blank for the automatic default."}
       - {label: "Portrait (cover image)", name: "photo", widget: "image", required: false}
+      - {label: "Portrait caption (optional)", name: "photo_caption", widget: "string", required: false, hint: "Credit or description for the portrait photo, shown beneath it."}
       - label: "Additional photos (gallery)"
         name: "gallery"
         widget: "list"
         required: false
-        hint: "With 1+ photos here (besides the portrait), the 'Portrait photographs' resource turns into a gallery button on its own."
+        hint: "With 1+ photos here (besides the portrait), the 'Photographs' resource turns into a gallery button on its own."
         fields:
           - {label: "Photo", name: "image", widget: "image"}
           - {label: "Caption (optional)", name: "caption", widget: "string", required: false}
@@ -134,7 +136,12 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Identifier (slug)", name: "slug", widget: "string", hint: "Used in the URL. Don't change this after the entry is created."}
       - {label: "Illustration / photo (optional)", name: "image", widget: "image", required: false}
-      - {label: "Short excerpt (shown on the card)", name: "excerpt", widget: "text", hint: "One or two sentences — this is what shows on the Stories index page."}
+      - label: "Short excerpt (shown on the card)"
+        name: "excerpt"
+        widget: "markdown"
+        buttons: ["bold", "italic", "link"]
+        editor_components: []
+        hint: "One or two sentences — this is what shows on the Stories index page. Supports bold, italic and links."
       - {label: "Source / attribution (optional)", name: "source", widget: "string", required: false, hint: "e.g. a name, a publication, or 'Festival archive'."}
       - label: "Related edition (optional)"
         name: "edition"
@@ -168,6 +175,7 @@ collections:
       - {label: "Label", name: "label", widget: "string", hint: "e.g. EXPRMNTL 1"}
       - {label: "Introductory text", name: "blurb", widget: "text"}
       - {label: "Poster (cover image)", name: "poster", widget: "image", required: false}
+      - {label: "Poster caption (optional)", name: "poster_caption", widget: "string", required: false, hint: "Credit or description for the poster, shown beneath it."}
       - label: "Alternate posters (gallery)"
         name: "poster_gallery"
         widget: "list"

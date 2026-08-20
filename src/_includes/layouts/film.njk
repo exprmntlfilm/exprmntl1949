@@ -26,8 +26,15 @@ layout: layouts/base.njk
           {{ directors | directorLinks(collections.peopleSorted, "../") | safe }}
         </p>
         {% if content %}<div class="body-copy">{{ content | safe }}</div>{% endif %}
-        {% if watch_url %}
-        <a class="btn" href="{{ watch_url }}" target="_blank" rel="noopener" style="margin-top:6px; align-self:flex-start;">&#9654; Watch</a>
+        {% if watch_url or trailer_url %}
+        <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:6px;">
+          {% if watch_url %}
+          <a class="btn" href="{{ watch_url }}" target="_blank" rel="noopener">&#9654; Watch</a>
+          {% endif %}
+          {% if trailer_url %}
+          <a class="btn ghost" href="{{ trailer_url }}" target="_blank" rel="noopener">&#9654; Watch trailer</a>
+          {% endif %}
+        </div>
         {% endif %}
         {% if awards.length %}
         <div class="awards-block">

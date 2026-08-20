@@ -3,6 +3,17 @@
 const { execFileSync } = require("child_process");
 const fs = require("fs");
 const path = require("path");
+const MarkdownIt = require("markdown-it");
+
+// Used to render short markdown snippets (e.g. story excerpts) that live in
+// frontmatter fields rather than as a page's main markdown body, so they
+// still support inline formatting like bold/italic without wrapping them in
+// a <p> tag.
+const inlineMd = new MarkdownIt({ html: false, linkify: true });
+function renderInlineMarkdown(text) {
+  if (!text) return "";
+  return inlineMd.renderInline(String(text));
+}
 
 // Builds a map of "repo-relative file path" -> "timestamp (ms) of the most
 // recent git commit that touched it", in a single `git log` call. Used to
@@ -59,9 +70,9 @@ function firstLetterOf(surname) {
   return ch.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
 }
 
-function combineGallery(cover, extra) {
+function combineGallery(cover, extra, coverCaption) {
   const out = [];
-  if (cover) out.push({ src: cover, caption: "" });
+  if (cover) out.push({ src: cover, caption: coverCaption || "" });
   (extra || []).forEach((g) => {
     if (!g) return;
     if (typeof g === "string") {
@@ -118,10 +129,11 @@ function renderStoryCards(storyObjs, root) {
     if (s.data.source) attribParts.push(s.data.source);
     if (s.data.edition) attribParts.push("Edition " + s.data.edition);
     const attrib = attribParts.length ? attribParts.join(" &middot; ") : "";
+    const excerptHtml = renderInlineMarkdown(s.data.excerpt) || s.data.title;
     return `<a class="story-card story-card-link" href="${root}stories/${s.data.slug}.html">
       ${imageBlock}
       <span class="quote-mark">&ldquo;</span>
-      <p>${s.data.excerpt || s.data.title}</p>
+      <p>${excerptHtml}</p>
       ${attrib ? `<p class="story-attrib">${attrib}</p>` : ""}
     </a>`;
   }).join("\n");
@@ -181,7 +193,7 @@ function renderDirectorLinks(names, people, root) {
 
 function renderEditionSection(ed, root) {
   const d = ed.data;
-  const posterImgs = combineGallery(d.poster, d.poster_gallery);
+  const posterImgs = combineGallery(d.poster, d.poster_gallery, d.poster_caption);
   const galleryImgs = normalizeGalleryList(d.gallery);
   const posterInner = d.poster
     ? `<img src="${root}${d.poster}" alt="Poster for ${d.label}" style="width:100%;height:100%;object-fit:contain;">`
@@ -189,6 +201,7 @@ function renderEditionSection(ed, root) {
   const posterAttrs = posterImgs.length > 1
     ? ` data-gallery-images='${jsonAttr(posterImgs)}' data-gallery-title="${d.label} \u2014 Poster" data-gallery-root="${root}"`
     : "";
+  const posterCaptionHtml = d.poster_caption ? `<p class="media-caption">${d.poster_caption}</p>` : "";
 
   const resourceRows = (d.resources || []).map((r, i) => `
       <div class="doc-row">
@@ -209,8 +222,11 @@ function renderEditionSection(ed, root) {
   return `
   <section class="shell section" id="${d.year}">
     <div class="two-col">
-      <div class="placeholder-frame poster-frame" style="aspect-ratio:3/4;"${posterAttrs}>
-        ${posterInner}
+      <div>
+        <div class="placeholder-frame poster-frame" style="aspect-ratio:3/4;"${posterAttrs}>
+          ${posterInner}
+        </div>
+        ${posterCaptionHtml}
       </div>
       <div class="stack">
         <span class="tag">${d.year}</span>
