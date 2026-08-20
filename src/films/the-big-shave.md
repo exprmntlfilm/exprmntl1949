@@ -8,7 +8,7 @@ edition_label: ""
 watch_url: ""
 directors:
   - Martin Scorsese
-still: ""
+still: images/uploads/big_shave_still_1.jpg
 gallery: []
 awards:
   - Prix de l'Âge d'or
