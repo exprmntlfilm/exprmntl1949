@@ -10,7 +10,7 @@ editions:
   - "1974"
 role: Founder and organiser
 role_heading: Founder and organiser of the five editions
-editions_label: ""
+editions_label: All five editions
 photo: images/uploads/ledoux_portrait_1.jpg
 gallery:
   - image: images/uploads/ledoux_jacques_76__jean-michel_vlaminckx_portr.jpg
