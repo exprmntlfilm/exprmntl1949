@@ -18,4 +18,4 @@ resources:
   - name: Press clippings
     file: ""
 ---
-A filmmaker from Denmark, featured in competition at EXPRMNTL 1 (1949). 4 films in the EXPRMNTL collection, listed below.
+Jørgen Roos was a filmmaker from Denmark, featured in competition at EXPRMNTL 1 (1949). 4 films in the EXPRMNTL collection, listed below.
