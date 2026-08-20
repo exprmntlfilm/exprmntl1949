@@ -15,6 +15,14 @@ function renderInlineMarkdown(text) {
   return inlineMd.renderInline(String(text));
 }
 
+// Used to render full markdown fields that live in frontmatter (e.g. an
+// edition's intro text) rather than as a page's main markdown body, so
+// paragraphs, bold/italic, lists, etc. still render as real HTML.
+function renderBlockMarkdown(text) {
+  if (!text) return "";
+  return inlineMd.render(String(text));
+}
+
 // Builds a map of "repo-relative file path" -> "timestamp (ms) of the most
 // recent git commit that touched it", in a single `git log` call. Used to
 // automatically surface the most recently updated people on the homepage.
@@ -99,20 +107,14 @@ function normalizeGalleryList(list) {
     .filter(Boolean);
 }
 
-function catDisplay(cat) {
-  return (cat || "").toUpperCase().replace("CAT-", "CAT. ");
-}
-
 function renderFilmCards(filmObjs, root) {
   return (filmObjs || []).map((f) => {
-    const cat = catDisplay(f.data.cat_num);
     const img = f.data.still
       ? `<img src="${root}${f.data.still}" alt="${f.data.title}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">`
       : `<span class="placeholder-mark">Still, to be added</span>`;
     return `<a class="card card-link" href="${root}films/${f.data.slug}.html">
         <div class="placeholder-frame">${img}</div>
         <div class="card-body">
-          <span class="card-kicker">${cat}</span>
           <span class="card-title">${f.data.title}</span>
           <span class="tag alt" style="margin-top:6px;">Edition ${f.data.edition}</span>
         </div>
@@ -191,6 +193,13 @@ function renderDirectorLinks(names, people, root) {
   return parts.slice(0, -1).join(", ") + ", &amp; " + parts[parts.length - 1];
 }
 
+function findMatchingFilms(titles, films) {
+  return (titles || [])
+    .map((t) => (films || []).find((f) => normalizeText(f.data.title) === normalizeText(t)))
+    .filter(Boolean)
+    .sort((a, b) => (Number(a.data.edition) - Number(b.data.edition)) || a.data.title.localeCompare(b.data.title));
+}
+
 function renderEditionSection(ed, root) {
   const d = ed.data;
   const posterImgs = combineGallery(d.poster, d.poster_gallery, d.poster_caption);
@@ -231,7 +240,7 @@ function renderEditionSection(ed, root) {
       <div class="stack">
         <span class="tag">${d.year}</span>
         <h2>${d.label}</h2>
-        <p class="body-copy">${d.blurb || ""}</p>
+        <div class="body-copy">${renderBlockMarkdown(d.blurb)}</div>
         <a class="link-arrow" href="${root}films.html#films-${d.year}">See films tagged ${d.year} &rarr;</a>
       </div>
     </div>
@@ -263,14 +272,13 @@ function peopleGroupsOf(peopleColl, root) {
 function buildSearchIndex(films, people) {
   const entries = [];
   (films || []).forEach((f) => {
-    const cat = catDisplay(f.data.cat_num);
     const dirNames = (f.data.directors || []).join(", ");
     entries.push({
       t: f.data.title,
       s: `${dirNames}${dirNames ? " \u00b7 " : ""}Edition ${f.data.edition}`,
       u: `films/${f.data.slug}.html`,
       k: "Film",
-      c: cat,
+      c: "",
     });
   });
   (people || []).forEach((p) => {
@@ -332,20 +340,14 @@ module.exports = function (eleventyConfig) {
     return [ledoux, ...others];
   });
 
-  eleventyConfig.addFilter("catDisplay", catDisplay);
   eleventyConfig.addFilter("json", (obj) => JSON.stringify(obj || []));
   eleventyConfig.addFilter("findBySlug", (items, slug) => (items || []).find((i) => i.data.slug === slug));
   eleventyConfig.addFilter("byEdition", (items, ed) => (items || []).filter((i) => String(i.data.edition) === String(ed)));
   eleventyConfig.addFilter("combineGallery", combineGallery);
   eleventyConfig.addFilter("docLabel", (index0, offset) => "DOC." + String(index0 + (offset || 0)).padStart(2, "0"));
   eleventyConfig.addFilter("directorLinks", (names, people, root) => renderDirectorLinks(names, people, root));
-  eleventyConfig.addFilter("filmCards", (titles, films, root) => {
-    const found = (titles || [])
-      .map((t) => (films || []).find((f) => normalizeText(f.data.title) === normalizeText(t)))
-      .filter(Boolean)
-      .sort((a, b) => (Number(a.data.edition) - Number(b.data.edition)) || a.data.title.localeCompare(b.data.title));
-    return renderFilmCards(found, root);
-  });
+  eleventyConfig.addFilter("filmCards", (titles, films, root) => renderFilmCards(findMatchingFilms(titles, films), root));
+  eleventyConfig.addFilter("matchedFilms", (titles, films) => findMatchingFilms(titles, films));
   eleventyConfig.addFilter("filmCardsFromList", (filmObjs, root) => renderFilmCards(filmObjs, root));
   eleventyConfig.addFilter("peopleGroups", (peopleColl, root) => peopleGroupsOf(peopleColl, root));
   eleventyConfig.addFilter("personHighlightCards", (peopleObjs, root) => renderPersonHighlightCards(peopleObjs, root));

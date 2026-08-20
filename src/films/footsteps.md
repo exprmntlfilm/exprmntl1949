@@ -3,7 +3,6 @@ title: Footsteps
 slug: footsteps
 year: '1974'
 edition: '1974'
-cat_num: cat-427
 edition_label: ''
 directors:
 - Marilyn Halford

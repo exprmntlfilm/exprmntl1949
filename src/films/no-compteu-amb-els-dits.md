@@ -3,7 +3,6 @@ title: No compteu amb els dits
 slug: no-compteu-amb-els-dits
 year: '1967'
 edition: '1967'
-cat_num: cat-366
 edition_label: ''
 directors:
 - Pedro Portabella

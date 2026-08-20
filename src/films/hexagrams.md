@@ -3,7 +3,6 @@ title: Hexagrams
 slug: hexagrams
 year: '1966'
 edition: '1967'
-cat_num: cat-344
 edition_label: ''
 directors:
 - Byron Grush

@@ -3,7 +3,6 @@ title: Dom
 slug: dom
 year: "1958"
 edition: "1958"
-cat_num: cat-103
 edition_label: ""
 directors:
   - Jan Lenica

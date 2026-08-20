@@ -3,7 +3,6 @@ title: Die Utopen
 slug: die-utopen
 year: '1967'
 edition: '1967'
-cat_num: cat-337
 edition_label: ''
 directors:
 - Vlado Kristl

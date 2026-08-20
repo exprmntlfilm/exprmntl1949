@@ -3,7 +3,6 @@ title: Magirama
 slug: magirama
 year: '1956'
 edition: '1958'
-cat_num: cat-144
 edition_label: ''
 directors:
 - Abel Gance

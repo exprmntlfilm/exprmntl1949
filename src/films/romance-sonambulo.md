@@ -3,7 +3,6 @@ title: Romance Sonambulo
 slug: romance-sonambulo
 year: '1956'
 edition: '1958'
-cat_num: cat-171
 edition_label: ''
 directors:
 - Osias Wilenski

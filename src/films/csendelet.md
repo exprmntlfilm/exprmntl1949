@@ -3,7 +3,6 @@ title: Csendélet
 slug: csendelet
 year: '1963'
 edition: '1963'
-cat_num: cat-223
 edition_label: ''
 directors:
 - Márk Novák

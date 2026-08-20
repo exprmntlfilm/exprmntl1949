@@ -3,7 +3,6 @@ title: Méditerranée
 slug: mediterranee
 year: '1963'
 edition: '1963'
-cat_num: cat-261
 edition_label: ''
 directors:
 - Jean-Daniel Pollet

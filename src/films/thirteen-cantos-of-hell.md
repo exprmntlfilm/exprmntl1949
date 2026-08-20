@@ -3,7 +3,6 @@ title: Thirteen Cantos of Hell
 slug: thirteen-cantos-of-hell
 year: '1957'
 edition: '1958'
-cat_num: cat-199
 edition_label: ''
 directors:
 - Peter King

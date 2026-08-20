@@ -3,7 +3,6 @@ title: Buffallo Bill
 slug: buffallo-bill
 year: '1957'
 edition: '1958'
-cat_num: cat-088
 edition_label: ''
 directors:
 - Carl Fredrik Reuterswärd

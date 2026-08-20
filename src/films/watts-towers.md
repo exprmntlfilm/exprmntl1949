@@ -3,7 +3,6 @@ title: Watts Towers
 slug: watts-towers
 year: '1967'
 edition: '1967'
-cat_num: cat-399
 edition_label: ''
 directors:
 - Gerald L. Varney

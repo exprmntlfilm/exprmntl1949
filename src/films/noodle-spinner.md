@@ -3,7 +3,6 @@ title: Noodle Spinner
 slug: noodle-spinner
 year: "1973"
 edition: "1974"
-cat_num: cat-439
 edition_label: ""
 directors:
   - Anna Ambrose

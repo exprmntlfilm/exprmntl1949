@@ -3,7 +3,6 @@ title: Metonic Cycles
 slug: metonic-cycles
 year: '1974'
 edition: '1974'
-cat_num: cat-436
 edition_label: ''
 directors:
 - James Cagle

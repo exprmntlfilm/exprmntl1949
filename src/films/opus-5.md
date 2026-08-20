@@ -3,7 +3,6 @@ title: Opus 5
 slug: opus-5
 year: '1961'
 edition: '1963'
-cat_num: cat-265
 edition_label: ''
 directors:
 - Lloyd Michael Williams

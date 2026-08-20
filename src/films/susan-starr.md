@@ -3,7 +3,6 @@ title: Susan Starr
 slug: susan-starr
 year: '1962'
 edition: '1963'
-cat_num: cat-285
 edition_label: ''
 directors:
 - Donn Alan Pennebaker

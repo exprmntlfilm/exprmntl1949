@@ -6,7 +6,7 @@ layout: layouts/base.njk
 <main>
   <section class="shell page-head">
     <a class="link-arrow" href="../films.html">&larr; Back to Films</a>
-    <p class="eyebrow" style="margin-top:18px;">{{ cat_num | catDisplay }}</p>
+    <p class="eyebrow" style="margin-top:18px;">Film</p>
     <h1>{{ title }}</h1>
   </section>
 
@@ -57,7 +57,7 @@ layout: layouts/base.njk
     <div class="doc-list">
       <div class="doc-row">
         <span class="doc-num">DOC.01</span>
-        <div><span class="doc-name">Film stills</span>{% if galleryImages.length > 1 %}<span class="doc-sub">{{ galleryImages.length }} photos</span>{% endif %}</div>
+        <div><span class="doc-name">Photographs</span>{% if galleryImages.length > 1 %}<span class="doc-sub">{{ galleryImages.length }} photos</span>{% endif %}</div>
         {% if galleryImages.length > 1 %}
         <button class="doc-status gallery-btn" data-gallery-images='{{ galleryImages | json | safe }}' data-gallery-title="{{ title }}" data-gallery-root="../">View Gallery</button>
         {% else %}

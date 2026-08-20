@@ -3,7 +3,6 @@ title: Legato
 slug: legato
 year: '1950'
 edition: '1949'
-cat_num: cat-039
 edition_label: ''
 directors:
 - Henning Bendtsen

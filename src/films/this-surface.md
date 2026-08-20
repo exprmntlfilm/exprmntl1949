@@ -3,7 +3,6 @@ title: This Surface
 slug: this-surface
 year: '1973'
 edition: '1974'
-cat_num: cat-459
 edition_label: ''
 directors:
 - David Hall

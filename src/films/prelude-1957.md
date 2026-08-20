@@ -3,7 +3,6 @@ title: Prélude
 slug: prelude-1957
 year: '1957'
 edition: '1958'
-cat_num: cat-166
 edition_label: ''
 directors:
 - Herbert Vesely

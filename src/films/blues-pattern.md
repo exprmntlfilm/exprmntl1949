@@ -3,7 +3,6 @@ title: Blues Pattern
 slug: blues-pattern
 year: '1956'
 edition: '1958'
-cat_num: cat-085
 edition_label: ''
 directors:
 - Ernest Pintoff

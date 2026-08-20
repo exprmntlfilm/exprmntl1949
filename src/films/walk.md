@@ -3,7 +3,6 @@ title: Walk
 slug: walk
 year: '1974'
 edition: '1974'
-cat_num: cat-471
 edition_label: ''
 directors:
 - Kurt Matt

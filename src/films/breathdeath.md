@@ -3,7 +3,6 @@ title: Breathdeath
 slug: breathdeath
 year: "1963"
 edition: "1963"
-cat_num: cat-218
 edition_label: ""
 directors:
   - Stan VanDerBeek

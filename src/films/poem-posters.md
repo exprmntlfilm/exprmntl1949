@@ -3,7 +3,6 @@ title: Poem Posters
 slug: poem-posters
 year: '1966'
 edition: '1967'
-cat_num: cat-373
 edition_label: ''
 directors:
 - Charles Henri Ford

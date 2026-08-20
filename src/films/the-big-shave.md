@@ -3,12 +3,11 @@ title: The Big Shave
 slug: the-big-shave
 year: "1967"
 edition: "1967"
-cat_num: cat-388
 edition_label: ""
 watch_url: ""
 directors:
   - Martin Scorsese
-still: ""
+still: images/uploads/big_shave_still_1.jpg
 gallery: []
 awards:
   - Prix de l'Âge d'or

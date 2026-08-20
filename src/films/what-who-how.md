@@ -3,7 +3,6 @@ title: What, Who, How
 slug: what-who-how
 year: '1957'
 edition: '1958'
-cat_num: cat-204
 edition_label: ''
 directors:
 - Stan VanDerBeek

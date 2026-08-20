@@ -3,7 +3,6 @@ title: Szachownica
 slug: szachownica
 year: n. d.
 edition: '1967'
-cat_num: cat-385
 edition_label: ''
 directors:
 - Czeslaw Duraj

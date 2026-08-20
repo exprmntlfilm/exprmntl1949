@@ -39,6 +39,8 @@ layout: layouts/base.njk
     </div>
   </section>
 
+  {% set personFilms = films | matchedFilms(collections.filmsSorted) %}
+  {% if personFilms.length %}
   <section class="shell section">
     <div class="section-head">
       <div>
@@ -47,9 +49,10 @@ layout: layouts/base.njk
       </div>
     </div>
     <div class="grid">
-      {{ films | filmCards(collections.filmsSorted, "../") | safe }}
+      {{ personFilms | filmCardsFromList("../") | safe }}
     </div>
   </section>
+  {% endif %}
 
   <section class="shell section">
     <div class="section-head">

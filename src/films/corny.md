@@ -3,7 +3,6 @@ title: Corny
 slug: corny
 year: '1967'
 edition: '1967'
-cat_num: cat-333
 edition_label: ''
 directors:
 - Niels Viggo Bentzon

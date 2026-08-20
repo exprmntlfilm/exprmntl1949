@@ -3,7 +3,6 @@ title: La Clef de l’Horloge
 slug: la-clef-de-l-horloge
 year: "1958"
 edition: "1958"
-cat_num: cat-134
 edition_label: ""
 directors:
   - Marcel Broodthaers

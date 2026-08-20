@@ -3,7 +3,6 @@ title: Altisonans
 slug: altisonans
 year: "1966"
 edition: "1967"
-cat_num: cat-317
 edition_label: ""
 directors:
   - Karl-Birger Blomdahl

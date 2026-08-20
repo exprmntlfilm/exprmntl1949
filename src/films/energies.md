@@ -3,7 +3,6 @@ title: Energies
 slug: energies
 year: '1957'
 edition: '1958'
-cat_num: cat-108
 edition_label: ''
 directors:
 - Jim Davis

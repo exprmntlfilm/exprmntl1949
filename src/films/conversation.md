@@ -3,7 +3,6 @@ title: Conversation
 slug: conversation
 year: '1967'
 edition: '1967'
-cat_num: cat-332
 edition_label: ''
 directors:
 - Clive Tickner

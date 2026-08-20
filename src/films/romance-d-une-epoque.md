@@ -3,7 +3,6 @@ title: Romance d’une époque
 slug: romance-d-une-epoque
 year: 1948-49
 edition: "1949"
-cat_num: cat-063
 edition_label: ""
 directors:
   - Luciano Emmer

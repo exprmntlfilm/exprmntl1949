@@ -3,7 +3,6 @@ title: Chumlum
 slug: chumlum
 year: '1963'
 edition: '1963'
-cat_num: cat-220
 edition_label: ''
 directors:
 - Ron Rice

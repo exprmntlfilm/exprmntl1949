@@ -3,7 +3,6 @@ title: This Day
 slug: this-day
 year: '1947'
 edition: '1949'
-cat_num: cat-071
 edition_label: ''
 directors:
 - Leonard Stark

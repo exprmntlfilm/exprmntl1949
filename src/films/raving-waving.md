@@ -3,7 +3,6 @@ title: Raving waving
 slug: raving-waving
 year: '1957'
 edition: '1958'
-cat_num: cat-167
 edition_label: ''
 directors:
 - Stuart Wynn Jones

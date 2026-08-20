@@ -3,7 +3,6 @@ title: The Room
 slug: the-room
 year: "1968"
 edition: "1967"
-cat_num: cat-392
 edition_label: ""
 directors:
   - Mordi Gerstein

@@ -3,7 +3,6 @@ title: Opera - Mouffe
 slug: opera-mouffe
 year: "1958"
 edition: "1958"
-cat_num: cat-158
 edition_label: ""
 directors:
   - Agnès Varda

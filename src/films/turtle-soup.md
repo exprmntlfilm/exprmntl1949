@@ -3,7 +3,6 @@ title: Turtle Soup
 slug: turtle-soup
 year: '1967'
 edition: '1967'
-cat_num: cat-395
 edition_label: ''
 directors:
 - Irene Verbitsky

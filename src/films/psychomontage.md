@@ -3,7 +3,6 @@ title: Psychomontage
 slug: psychomontage
 year: '1963'
 edition: '1963'
-cat_num: cat-273
 edition_label: ''
 directors:
 - Eberhard Kronshqusen

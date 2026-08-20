@@ -3,7 +3,6 @@ title: Banjo feedback
 slug: banjo-feedback
 year: '1974'
 edition: '1974'
-cat_num: cat-412
 edition_label: ''
 directors:
 - Tobe J. Carey

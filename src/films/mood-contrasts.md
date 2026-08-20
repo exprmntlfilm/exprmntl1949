@@ -3,7 +3,6 @@ title: Mood Contrasts
 slug: mood-contrasts
 year: '1956'
 edition: '1958'
-cat_num: cat-148
 edition_label: ''
 directors:
 - Mary Ellen Bute

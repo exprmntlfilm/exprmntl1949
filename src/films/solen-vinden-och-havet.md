@@ -3,7 +3,6 @@ title: Solen, vinden och havet
 slug: solen-vinden-och-havet
 year: '1963'
 edition: '1963'
-cat_num: cat-282
 edition_label: ''
 directors:
 - Carl Gyllenberg

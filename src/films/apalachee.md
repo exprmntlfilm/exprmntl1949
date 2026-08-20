@@ -3,7 +3,6 @@ title: Apalachee
 slug: apalachee
 year: '1974'
 edition: '1974'
-cat_num: cat-409
 edition_label: ''
 directors:
 - James Herbert

@@ -3,7 +3,6 @@ title: Opus I
 slug: opus-i
 year: "1949"
 edition: "1949"
-cat_num: cat-054
 edition_label: ""
 watch_url: https://www.danmarkpaafilm.dk/film/opus-i
 directors:

@@ -3,7 +3,6 @@ title: Broken Images
 slug: broken-images
 year: '1957'
 edition: '1958'
-cat_num: cat-087
 edition_label: ''
 directors:
 - Edward McConnell

@@ -3,7 +3,6 @@ title: La Pointe Courte
 slug: la-pointe-courte
 year: '1955'
 edition: '1958'
-cat_num: cat-137
 edition_label: ''
 directors:
 - Agnès Varda

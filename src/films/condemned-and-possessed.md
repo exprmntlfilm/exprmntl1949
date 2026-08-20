@@ -3,7 +3,6 @@ title: Condemned and Possessed
 slug: condemned-and-possessed
 year: '1967'
 edition: '1967'
-cat_num: cat-331
 edition_label: ''
 directors:
 - Albert-André Lheureux

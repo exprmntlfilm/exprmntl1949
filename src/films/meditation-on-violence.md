@@ -3,7 +3,6 @@ title: Meditation on Violence
 slug: meditation-on-violence
 year: '1948'
 edition: '1949'
-cat_num: cat-049
 edition_label: ''
 directors:
 - Maya Deren

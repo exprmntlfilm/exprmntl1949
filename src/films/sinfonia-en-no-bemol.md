@@ -3,7 +3,6 @@ title: Sinfonia en No Bemol
 slug: sinfonia-en-no-bemol
 year: "1957"
 edition: "1958"
-cat_num: cat-175
 edition_label: ""
 directors:
   - Rodolfo Kuhn

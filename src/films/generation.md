@@ -3,7 +3,6 @@ title: Generation
 slug: generation
 year: '1956'
 edition: '1958'
-cat_num: cat-119
 edition_label: ''
 directors:
 - Hilary Harris

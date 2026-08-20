@@ -3,7 +3,6 @@ title: Journée
 slug: journee
 year: n. d.
 edition: '1949'
-cat_num: cat-033
 edition_label: ''
 directors:
 - Francis Lee

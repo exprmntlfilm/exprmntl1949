@@ -3,7 +3,6 @@ title: Transman
 slug: transman
 year: '1974'
 edition: '1974'
-cat_num: cat-464
 edition_label: ''
 directors:
 - Jim Johnson

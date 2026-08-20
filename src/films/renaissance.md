@@ -3,7 +3,6 @@ title: Renaissance
 slug: renaissance
 year: "1963"
 edition: "1963"
-cat_num: cat-276
 edition_label: ""
 directors:
   - Walerian Borowczyk

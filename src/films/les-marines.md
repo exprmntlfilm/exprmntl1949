@@ -3,7 +3,6 @@ title: Les Marines
 slug: les-marines
 year: '1957'
 edition: '1958'
-cat_num: cat-140
 edition_label: ''
 directors:
 - François Reichenbach

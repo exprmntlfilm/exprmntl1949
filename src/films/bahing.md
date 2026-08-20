@@ -3,7 +3,6 @@ title: Bahing
 slug: bahing
 year: '1963'
 edition: '1963'
-cat_num: cat-216
 edition_label: ''
 directors:
 - Jean-Charles Meunier

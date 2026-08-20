@@ -3,7 +3,6 @@ title: Dark
 slug: dark
 year: '1974'
 edition: '1974'
-cat_num: cat-418
 edition_label: ''
 directors:
 - Paul Winkler

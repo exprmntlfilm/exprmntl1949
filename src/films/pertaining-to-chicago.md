@@ -3,7 +3,6 @@ title: Pertaining to Chicago
 slug: pertaining-to-chicago
 year: '1957'
 edition: '1958'
-cat_num: cat-160
 edition_label: ''
 directors:
 - Jim Davis

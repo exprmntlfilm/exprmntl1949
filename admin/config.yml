@@ -33,7 +33,6 @@ collections:
           - {label: "1963", value: "1963"}
           - {label: "1967", value: "1967"}
           - {label: "1974", value: "1974"}
-      - {label: "Catalogue number", name: "cat_num", widget: "string", required: false}
       - {label: "Edition tag text (optional)", name: "edition_label", widget: "string", required: false, hint: "Leave blank for the automatic default ('Edition 1949'). Fill in to write your own text."}
       - {label: "Watch link (optional)", name: "watch_url", widget: "string", required: false, hint: "Paste a link to the digitized film if one exists — a 'Watch' button appears on the film's page below the synopsis. Leave blank if none."}
       - {label: "Trailer link (optional)", name: "trailer_url", widget: "string", required: false, hint: "Paste a link to the film's trailer if one exists — a 'Watch trailer' button appears next to Watch. Leave blank if none."}
@@ -47,7 +46,7 @@ collections:
         name: "gallery"
         widget: "list"
         required: false
-        hint: "With 1+ photos here (besides the still), the 'Film stills' resource turns into a gallery button on its own."
+        hint: "With 1+ photos here (besides the still), the 'Photographs' resource turns into a gallery button on its own."
         fields:
           - {label: "Photo", name: "image", widget: "image"}
           - {label: "Caption (optional)", name: "caption", widget: "string", required: false}
@@ -173,7 +172,7 @@ collections:
     fields:
       - {label: "Year", name: "year", widget: "number", value_type: "int"}
       - {label: "Label", name: "label", widget: "string", hint: "e.g. EXPRMNTL 1"}
-      - {label: "Introductory text", name: "blurb", widget: "text"}
+      - {label: "Introductory text", name: "blurb", widget: "markdown"}
       - {label: "Poster (cover image)", name: "poster", widget: "image", required: false}
       - {label: "Poster caption (optional)", name: "poster_caption", widget: "string", required: false, hint: "Credit or description for the poster, shown beneath it."}
       - label: "Alternate posters (gallery)"

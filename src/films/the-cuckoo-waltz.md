@@ -3,7 +3,6 @@ title: The Cuckoo Waltz
 slug: the-cuckoo-waltz
 year: '1955'
 edition: '1958'
-cat_num: cat-189
 edition_label: ''
 directors:
 - Emiel van Moerkerken

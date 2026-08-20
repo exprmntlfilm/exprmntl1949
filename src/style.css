@@ -313,6 +313,9 @@ nav.primary-nav a.active::after{
 }
 .body-copy{ color:var(--paper-dim); max-width:56ch; }
 .body-copy + .body-copy{ margin-top:14px; }
+.body-copy p + p{ margin-top:12px; }
+.body-copy ul, .body-copy ol{ margin-top:12px; padding-left:1.2em; list-style:revert; }
+.body-copy li + li{ margin-top:4px; }
 
 /* ---------- card grid ---------- */
 .grid{

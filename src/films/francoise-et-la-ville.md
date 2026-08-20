@@ -3,7 +3,6 @@ title: Françoise et la ville
 slug: francoise-et-la-ville
 year: '1955'
 edition: '1958'
-cat_num: cat-117
 edition_label: ''
 directors:
 - Jacques Boigelot

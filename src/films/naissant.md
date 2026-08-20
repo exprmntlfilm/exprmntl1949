@@ -3,7 +3,6 @@ title: Naissant
 slug: naissant
 year: '1964'
 edition: '1967'
-cat_num: cat-363
 edition_label: ''
 directors:
 - Stephen Dwoskin

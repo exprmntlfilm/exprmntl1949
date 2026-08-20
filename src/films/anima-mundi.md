@@ -3,7 +3,6 @@ title: Anima Mundi
 slug: anima-mundi
 year: '1967'
 edition: '1967'
-cat_num: cat-319
 edition_label: ''
 directors:
 - Erling Johansson

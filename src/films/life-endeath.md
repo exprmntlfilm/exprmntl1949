@@ -3,7 +3,6 @@ title: Life Endeath
 slug: life-endeath
 year: '1967'
 edition: '1967'
-cat_num: cat-357
 edition_label: ''
 directors:
 - Robert J. Kaplan

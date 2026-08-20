@@ -3,7 +3,6 @@ title: Eva
 slug: eva
 year: '1957'
 edition: '1958'
-cat_num: cat-111
 edition_label: ''
 directors:
 - Alfred Seidel

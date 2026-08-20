@@ -3,7 +3,6 @@ title: S and W
 slug: s-w
 year: "1967"
 edition: "1967"
-cat_num: cat-377
 edition_label: ""
 directors:
   - Wilhelm Hein

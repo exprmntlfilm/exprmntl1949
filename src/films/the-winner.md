@@ -3,7 +3,6 @@ title: The Winner
 slug: the-winner
 year: n. d.
 edition: '1963'
-cat_num: cat-294
 edition_label: ''
 directors:
 - Betrand Brown

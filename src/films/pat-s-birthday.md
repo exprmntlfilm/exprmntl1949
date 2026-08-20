@@ -3,7 +3,6 @@ title: Pat’s Birthday
 slug: pat-s-birthday
 year: "1962"
 edition: "1963"
-cat_num: cat-266
 edition_label: ""
 directors:
   - Claes Oldenburg

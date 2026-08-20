@@ -3,7 +3,6 @@ title: Pic-Nic
 slug: pic-nic
 year: '1967'
 edition: '1967'
-cat_num: cat-369
 edition_label: ''
 directors:
 - Georg Radanowicz

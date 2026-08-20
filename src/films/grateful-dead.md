@@ -3,7 +3,6 @@ title: Grateful Dead
 slug: grateful-dead
 year: "1967"
 edition: "1967"
-cat_num: cat-343
 edition_label: ""
 directors:
   - Robert Nelson

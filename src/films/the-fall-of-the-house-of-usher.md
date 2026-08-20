@@ -3,7 +3,6 @@ title: The Fall of the House of Usher
 slug: the-fall-of-the-house-of-usher
 year: '1950'
 edition: '1949'
-cat_num: cat-069
 edition_label: ''
 directors:
 - Ivan Barnett

@@ -3,7 +3,6 @@ title: Assa 1
 slug: assa-1
 year: '1967'
 edition: '1967'
-cat_num: cat-320
 edition_label: ''
 directors:
 - Claude Copin

@@ -3,7 +3,6 @@ title: In Between
 slug: in-between
 year: '1955'
 edition: '1958'
-cat_num: cat-128
 edition_label: ''
 directors:
 - Stan Brakhage

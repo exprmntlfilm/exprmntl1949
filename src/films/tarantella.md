@@ -3,7 +3,6 @@ title: Tarantella
 slug: tarantella
 year: '1940'
 edition: '1949'
-cat_num: cat-068
 edition_label: ''
 directors:
 - Mary Ellen Bute

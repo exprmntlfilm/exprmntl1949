@@ -3,7 +3,6 @@ title: Inauguration of the Pleasure Dome
 slug: inauguration-of-the-pleasure-dome
 year: "1957"
 edition: "1958"
-cat_num: cat-129
 edition_label: ""
 directors:
   - Kenneth Anger

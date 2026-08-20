@@ -3,7 +3,6 @@ title: Bodybuilding
 slug: bodybuilding
 year: '1967'
 edition: '1967'
-cat_num: cat-326
 edition_label: ''
 directors:
 - Ernst Schmidt

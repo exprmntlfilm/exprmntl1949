@@ -3,7 +3,6 @@ title: Le Nez
 slug: le-nez
 year: "1963"
 edition: "1963"
-cat_num: cat-248
 edition_label: ""
 directors:
   - Alexandre Alexeieff

@@ -3,7 +3,6 @@ title: The Embryo Hunts in Secret
 slug: the-embryo-hunts-in-secret
 year: '1966'
 edition: '1967'
-cat_num: cat-389
 edition_label: ''
 directors:
 - Koji Wakamatsu

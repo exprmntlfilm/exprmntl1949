@@ -3,7 +3,6 @@ title: V for Victory
 slug: v-for-victory
 year: '1941'
 edition: '1949'
-cat_num: cat-073
 edition_label: ''
 directors:
 - Norman McLaren
